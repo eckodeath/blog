@@ -1,11 +1,8 @@
 ---
 title: "🐂🦩 Une journée en Camargue en famille : entre taureaux, traditions et flamants roses"
-date: 2025-07-11
+date: 2025-07-19
 draft: false
 ---
-
-
-# 🐂🦩 Une journée en Camargue en famille : entre taureaux, traditions et flamants roses
 
 La Camargue est une terre unique, où l’eau, le vent, les chevaux, les taureaux et les oiseaux façonnent un paysage aussi sauvage qu’authentique. Lors d’une sortie en famille, nous avons eu la chance de vivre **une journée complète d’immersion dans ce territoire exceptionnel**, entre **traditions taurines le matin** et **balade ornithologique l’après-midi**. Une escapade riche, éducative et pleine d’émotions.
 
