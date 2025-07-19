@@ -1,28 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Le journal de Kurt</title>
+    <title>Posts on eckodeath</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Le journal de Kurt</description>
+    <description>Recent content in Posts on eckodeath</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 19 Jul 2025 15:00:16 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mon Premier Voyage</title>
-      <link>http://localhost:1313/posts/mon-premier-voyage-copie/</link>
-      <pubDate>Sat, 19 Jul 2025 15:00:16 +0200</pubDate>
-      <guid>http://localhost:1313/posts/mon-premier-voyage-copie/</guid>
-      <description></description>
+      <title>🐂🦩 Une journée en Camargue en famille : entre taureaux, traditions et flamants roses</title>
+      <link>http://localhost:1313/posts/journee-camargue-famille/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/journee-camargue-famille/</guid>
+      <description>&lt;p&gt;La Camargue est une terre unique, où l’eau, le vent, les chevaux, les taureaux et les oiseaux façonnent un paysage aussi sauvage qu’authentique. Lors d’une sortie en famille, nous avons eu la chance de vivre &lt;strong&gt;une journée complète d’immersion dans ce territoire exceptionnel&lt;/strong&gt;, entre &lt;strong&gt;traditions taurines le matin&lt;/strong&gt; et &lt;strong&gt;balade ornithologique l’après-midi&lt;/strong&gt;. Une escapade riche, éducative et pleine d’émotions.&lt;/p&gt;
+&lt;h2 id=&#34;-matinée-au-mas-des-baumelles--dans-les-coulisses-dune-manade-camarguaise&#34;&gt;🐴 Matinée au Mas des Baumelles : dans les coulisses d’une manade camarguaise&lt;/h2&gt;
+&lt;p&gt;Nous avons débuté notre journée au &lt;strong&gt;Mas des Baumelles&lt;/strong&gt;, situé non loin des Saintes-Maries-de-la-Mer. C’est ici que nous avions réservé une &lt;strong&gt;visite guidée&lt;/strong&gt; pour découvrir le fonctionnement d’une &lt;strong&gt;manade&lt;/strong&gt;, un élevage traditionnel de taureaux de race Camargue.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mon premier voyage</title>
-      <link>http://localhost:1313/posts/mon-premier-voyage/</link>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mon-premier-voyage/</guid>
-      <description>&lt;p&gt;Bienvenue sur mon nouveau blog auto-hébergé !&lt;br&gt;
-Dans cet article, je vous parle de ma première aventure à travers la Norvège avec Sabardu Tourisme 🇳🇴&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;(à toi de compléter 😉)&lt;/em&gt;&lt;/p&gt;</description>
+      <title>Mon histoire</title>
+      <link>http://localhost:1313/posts/mon-histoire/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mon-histoire/</guid>
+      <description>&lt;p&gt;Je m’appelle Kurt Grava, j’ai 38 ans et depuis 2012, je publie sous le nom @eckodeath. Eckodeath est un projet personnel né de mes passions pour le voyage, la photographie, le partage d’expériences… et la technologie.
+Je suis un blogueur indépendant, un photographe autodidacte et un amoureux du numérique. J’aime capturer ce qui m’entoure, raconter ce que je vis, tester ce qui m’inspire — qu’il s’agisse d’un lieu, d’un appareil photo, d’un smartphone ou d’une application qui améliore mon quotidien.
+Mon blog est un espace personnel et créatif où je combine images, récits et réflexions, avec pour objectif de partager mes expériences avec sincérité, inspirer celles et ceux qui aiment explorer, créer des connexions autour de passions communes : le voyage, l’image… et la tech.
+Bienvenue dans mon univers.
+Si vous souhaitez me découvrir davantage j’ai écrit un article sur moi : “L’homme derrière le pseudo, qui suis je réellement ?”
+Si vous souhaitez me suivre sur les divers réseaux sociaux que j’utilise, je vous laisse le lien vers ma page personnelle : eckodeath.carrd.co&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mon histoire</title>
+      <link>http://localhost:1313/posts/mon-histoire-copie/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mon-histoire-copie/</guid>
+      <description>&lt;p&gt;Je m’appelle Kurt Grava, j’ai 38 ans et depuis 2012, je publie sous le nom @eckodeath. Eckodeath est un projet personnel né de mes passions pour le voyage, la photographie, le partage d’expériences… et la technologie.
+Je suis un blogueur indépendant, un photographe autodidacte et un amoureux du numérique. J’aime capturer ce qui m’entoure, raconter ce que je vis, tester ce qui m’inspire — qu’il s’agisse d’un lieu, d’un appareil photo, d’un smartphone ou d’une application qui améliore mon quotidien.
+Mon blog est un espace personnel et créatif où je combine images, récits et réflexions, avec pour objectif de partager mes expériences avec sincérité, inspirer celles et ceux qui aiment explorer, créer des connexions autour de passions communes : le voyage, l’image… et la tech.
+Bienvenue dans mon univers.
+Si vous souhaitez me découvrir davantage j’ai écrit un article sur moi : “L’homme derrière le pseudo, qui suis je réellement ?”
+Si vous souhaitez me suivre sur les divers réseaux sociaux que j’utilise, je vous laisse le lien vers ma page personnelle : eckodeath.carrd.co&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Norvège 2024</title>
+      <link>http://localhost:1313/posts/voyages/norvege-2024/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/voyages/norvege-2024/</guid>
+      <description>&lt;h1 id=&#34;contexte-&#34;&gt;Contexte :&lt;/h1&gt;
+&lt;p&gt;L’an dernier, en juin 2024, j’ai eu la chance de partir en Norvège grâce à un circuit organisé par Sabardu Tourisme. Ce séjour de huit jours m’a emmené parcourir 1915 kilomètres entre paysages naturels grandioses, villes pittoresques et découvertes culturelles. J’ai décidé de réaliser trois articles regroupant l’intégralité de cette aventure unique que j’ai eu le privilège de vivre afin de rendre votre lecture plus agréable.&lt;/p&gt;
+&lt;h1 id=&#34;jour-1--marseille--francfort--oslo&#34;&gt;Jour 1 : Marseille — Francfort — Oslo&lt;/h1&gt;
+&lt;p&gt;Le voyage a commencé très tôt, avec un rendez-vous à Marseille pour un départ en autocar vers l’aéroport. L’accueil chaleureux d’un représentant Sabardu Tourisme nous a immédiatement mis dans l’ambiance. Après les formalités d’enregistrement, nous avons pris un vol via Francfort, pour arriver en fin de journée à Oslo. Notre guide local nous attendait pour un transfert vers l’hôtel, où le calme scandinave nous a tout de suite séduits. Dîner et première nuit dans la région d’Oslo, et nous sommes prêts pour vivre une semaine folle d’aventures.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

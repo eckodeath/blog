@@ -8,8 +8,6 @@ theme = "PaperMod"
   defaultTheme = "auto" # clair/sombre auto
   ShowReadingTime = true
   ShowPostNavLinks = true
-  ShowImageInList = true
-  ShowImageInSingle = true  # pour l'afficher aussi dans la page d'article
 
 [menu]
   [[menu.main]]

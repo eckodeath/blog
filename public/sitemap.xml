@@ -5,17 +5,34 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-19T15:00:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mon-premier-voyage-copie/</loc>
-    <lastmod>2025-07-19T15:00:16+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-07-19T15:00:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mon-premier-voyage/</loc>
+    <loc>http://localhost:1313/posts/journee-camargue-famille/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/mon-histoire/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mon-histoire-copie/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/norv%C3%A8ge/</loc>
+    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/voyages/norvege-2024/</loc>
+    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scandinavie/</loc>
+    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/voyage/</loc>
+    <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -15,7 +15,3 @@ Le voyage a commencé très tôt, avec un rendez-vous à Marseille pour un dépa
 
 ![Norway_1](Norway_1.jpg)
 ![Norway_2](Norway_2.jpg)
-
-<p align="center">
-  <img src="images/Norway_2.jpg" alt="Vue sur le fjord" width="70%">
-</p>
