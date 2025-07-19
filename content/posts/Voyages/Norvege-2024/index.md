@@ -1,8 +1,10 @@
 ---
-title: "Découverte des Fjords de Norvège (Partie 1)"
-date: 2025-06-11
+title: "Norvège 2024"
+date: 2024-07-10
 draft: false
-tags = ["voyage", "Norvège"]
+categories: ["Voyage"]
+tags: ["Norvège", "Scandinavie"]
+---
 
 # image de couverture
 images = ["Norway_3.jpg"]
