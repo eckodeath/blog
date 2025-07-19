@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Le journal de Kurt</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Le journal de Kurt</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon premier voyage</title>
+      <link>http://localhost:1313/posts/mon-premier-voyage/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mon-premier-voyage/</guid>
+      <description>&lt;p&gt;Bienvenue sur mon nouveau blog auto-hébergé !&lt;br&gt;
+Dans cet article, je vous parle de ma première aventure à travers la Norvège avec Sabardu Tourisme 🇳🇴&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(à toi de compléter 😉)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

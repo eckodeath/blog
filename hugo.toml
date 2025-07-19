@@ -1,0 +1,20 @@
+baseURL = "https://eckodeath.netlify.app/"
+languageCode = "fr-fr"
+title = "Le journal de Kurt"
+theme = "PaperMod"
+
+[params]
+  author = "Kurt Grava"
+  defaultTheme = "auto" # clair/sombre auto
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "À propos"
+    url = "/about/"
+    weight = 2
