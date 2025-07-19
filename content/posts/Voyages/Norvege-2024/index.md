@@ -5,7 +5,7 @@ draft: false
 tags = ["voyage", "Norvège"]
 
 # image de couverture
-images = ["Norway_1.jpg"]
+images = ["Norway_3.jpg"]
 ---
 
 
