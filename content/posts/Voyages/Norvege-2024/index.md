@@ -4,10 +4,8 @@ date: 2024-07-10
 draft: false
 categories: ["Voyage"]
 tags: ["Norvège", "Scandinavie"]
+images = ["Norway_2.jpg"] # <- important !
 ---
-
-# image de couverture
-images = ["Norway_3.jpg"]
 
 # Contexte : 
 L’an dernier, en juin 2024, j’ai eu la chance de partir en Norvège grâce à un circuit organisé par Sabardu Tourisme. Ce séjour de huit jours m’a emmené parcourir 1915 kilomètres entre paysages naturels grandioses, villes pittoresques et découvertes culturelles. J’ai décidé de réaliser trois articles regroupant l’intégralité de cette aventure unique que j’ai eu le privilège de vivre afin de rendre votre lecture plus agréable.
@@ -20,5 +18,5 @@ Le voyage a commencé très tôt, avec un rendez-vous à Marseille pour un dépa
 ![Norway_2](Norway_2.jpg)
 
 <p align="center">
-  <img src="images/Norway_3.jpg" alt="Vue sur le fjord" width="70%">
+  <img src="images/Norway_2.jpg" alt="Vue sur le fjord" width="70%">
 </p>
