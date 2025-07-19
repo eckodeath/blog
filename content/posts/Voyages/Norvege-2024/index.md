@@ -11,8 +11,8 @@ Contexte : L’an dernier, en juin 2024, j’ai eu la chance de partir en Norvè
 
 Le voyage a commencé très tôt, avec un rendez-vous à Marseille pour un départ en autocar vers l’aéroport. L’accueil chaleureux d’un représentant Sabardu Tourisme nous a immédiatement mis dans l’ambiance. Après les formalités d’enregistrement, nous avons pris un vol via Francfort, pour arriver en fin de journée à Oslo. Notre guide local nous attendait pour un transfert vers l’hôtel, où le calme scandinave nous a tout de suite séduits. Dîner et première nuit dans la région d’Oslo, et nous sommes prêts pour vivre une semaine folle d’aventures.
 
-![Norvège 1](Norway_1.jpg)
-![Norvege 2](Norway_2.jpg)
+![Norway_1](Norway_1.jpg)
+![Norway_2](Norway_2.jpg)
 
 <p align="center">
   <img src="images/norvege-fjord.jpg" alt="Vue sur le fjord" width="70%">
