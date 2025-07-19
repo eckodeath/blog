@@ -1,8 +1,8 @@
 ---
-title: "Norvège 2024"
+title: "Découverte des Fjords de Norvège (Partie 1)"
 date: 2024-07-10
 draft: false
-categories: ["Voyage"]
+categories: ["Voyages"]
 tags: ["Norvège", "Scandinavie"]
 ---
 
