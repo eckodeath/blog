@@ -1,6 +1,6 @@
 baseURL = "https://eckodeath.netlify.app/"
 languageCode = "fr-fr"
-title = "Le journal de Kurt"
+title = "eckodeath"
 theme = "PaperMod"
 
 [params]
