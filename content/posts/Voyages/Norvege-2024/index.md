@@ -4,7 +4,6 @@ date: 2024-07-10
 draft: false
 categories: ["Voyage"]
 tags: ["Norvège", "Scandinavie"]
-images = ["Norway_2.jpg"] # <- important !
 ---
 
 # Contexte : 
