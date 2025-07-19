@@ -4,6 +4,9 @@ date: 2024-07-10
 draft: false
 categories: ["Voyage"]
 tags: ["Norvège", "Scandinavie"]
+
+# image de couverture
+images = ["Norway_3.jpg"]
 ---
 
 # Contexte : 
