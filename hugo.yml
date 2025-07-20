@@ -101,3 +101,9 @@ menu:
       name: Search
       url: /search/
       weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
