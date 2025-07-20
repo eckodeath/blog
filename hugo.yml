@@ -19,11 +19,21 @@ params:
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light, auto
   disableThemeToggle: false
+  homeInfoParams:
+    Title: Le journal de Kurt Grava
+    Content: 
+
+  socialIcons: # optional
+    - name: "<platform>"
+      url: "<link>"
+    - name: "<platform 2>"
+      url: "<link2>"
+
 
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
@@ -59,10 +69,12 @@ params:
         url: tags
 
   socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/eckodeath/"
     - name: twitter
-      url: "https://twitter.com/"
-    - name: github
-      url: "https://github.com/"
+      url: "https://x.com/eckodeath"
+    - name: medium
+      url: "https://medium.com/eckodeath"
     - name: linkedin
       url: "https://linkedin.com/in/"
 
