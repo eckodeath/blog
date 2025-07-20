@@ -4,6 +4,11 @@ date: 2024-07-10
 draft: false
 categories: ["Voyages"]
 tags: ["Norvège", "Scandinavie"]
+cover:
+    image: "/posts/voyages/norvege-2024/Norway_3.jpg"
+    alt: "Alternative text"
+    caption: "Image caption"
+    relative: false
 ---
 
 # Contexte : 
@@ -15,3 +20,16 @@ Le voyage a commencé très tôt, avec un rendez-vous à Marseille pour un dépa
 
 ![Norway_1](Norway_1.jpg)
 ![Norway_2](Norway_2.jpg)
+
+{{< figure src="Norway_1.jpg" class="img-left" >}}
+{{< figure src="Norway_3.jpg" class="img-right" >}}
+
+<div style="display: flex; gap: 10px;">
+  <img src="Norway_1.jpg" style="width: 50%;" />
+  <img src="Norway_2.jpg" style="width: 50%;" />
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img src="/images/Norway_1.jpg" style="width: 50%;" />
+  <img src="/images/Norway_2.jpg" style="width: 50%;" />
+</div>
