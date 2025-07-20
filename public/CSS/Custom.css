@@ -1,15 +1,18 @@
-body {
-  background-color: pink;
-}
 .side-by-side {
   display: flex;
-  gap: 10px;
+  gap: 24px;
   flex-wrap: wrap;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.side-by-side .figure {
+  width: 50%;
+  margin: 0;
 }
 
 .side-by-side img {
-  width: 50%;
-  border-radius: 8px;
+  width: 100%;
   height: auto;
-  display: block;
+  border-radius: 8px;
 }

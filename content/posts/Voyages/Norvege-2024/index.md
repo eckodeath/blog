@@ -24,12 +24,14 @@ Le voyage a commencé très tôt, avec un rendez-vous à Marseille pour un dépa
 {{< figure src="Norway_1.jpg" class="img-left" >}}
 {{< figure src="Norway_3.jpg" class="img-right" >}}
 
-<div style="display: flex; gap: 10px;">
-  <img src="Norway_1.jpg" style="width: 50%;" />
-  <img src="Norway_2.jpg" style="width: 50%;" />
-</div>
 
-<div style="display: flex; gap: 10px;">
-  <img src="/images/Norway_1.jpg" style="width: 50%;" />
-  <img src="/images/Norway_2.jpg" style="width: 50%;" />
+<div class="side-by-side">
+  <figure class="figure">
+    <img src="/images/Norway_1.jpg" alt="Photo 1" />
+    <figcaption>Photo 1</figcaption>
+  </figure>
+  <figure class="figure">
+    <img src="/images/Norway_2.jpg" alt="Photo 2" />
+    <figcaption>Photo 2</figcaption>
+  </figure>
 </div>
