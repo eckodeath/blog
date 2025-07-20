@@ -16,12 +16,14 @@ params:
   description: "Le journal de Kurt Grava"
   keywords: [Blog, Portfolio, PaperMod]
   author: Kurt Grava
+  customCSS:
+    - css/custom.css
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light, auto
   disableThemeToggle: false
   homeInfoParams:
     Title: Le journal de Kurt Grava
-    Content: 
+    Content: Papa trentenaire, pilote de simracing, photographe amateur et blogueur passionné.
 
   socialIcons: # optional
     - name: "<platform>"
@@ -75,8 +77,8 @@ params:
       url: "https://x.com/eckodeath"
     - name: medium
       url: "https://medium.com/eckodeath"
-    - name: linkedin
-      url: "https://linkedin.com/in/"
+    - name: threads
+      url: "https://www.threads.com/@eckodeath"
 
   cover:
     hidden: false
