@@ -1,5 +1,5 @@
 ---
-title: "Un nouveau départ"
+title: "Le renouveau"
 date: 2024-05-09
 draft: false
 categories: ["Journal"]
