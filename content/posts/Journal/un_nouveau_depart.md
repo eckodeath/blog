@@ -6,7 +6,7 @@ categories: ["Journal"]
 tags: ["Lifestyle", "Journal"]
 cover:
     image: "/posts/journal/nouveau_depart_1.jpg"
-    alt: "Alternative text"
+    alt: ""
     caption: ""
     relative: false
 ---
