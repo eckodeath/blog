@@ -5,7 +5,7 @@ draft: false
 categories: ["Voyages"]
 tags: ["Norvège", "Scandinavie"]
 cover:
-    image: "/posts/journal/nouveau-depart/depart_1.jpg"
+    image: "/posts/journal/nouveau-depart/test_2.jpg"
     alt: "Alternative text"
     caption: "Image caption"
     relative: false
