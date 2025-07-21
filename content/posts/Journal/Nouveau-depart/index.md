@@ -5,7 +5,7 @@ draft: false
 categories: ["Journal"]
 tags: ["Lifestyle", "Journal"]
 cover:
-    image: "/posts/journal/nouveau-depart/depart_2.jpg"
+    image: "/posts/journal/nouveau-depart/depart_1.jpg"
     alt: ""
     caption: ""
     relative: false
