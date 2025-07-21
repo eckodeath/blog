@@ -1,72 +1,37 @@
 ---
-title: "Le renouveau"
-date: 2024-05-09
+title: "Découverte des Fjords de Norvège (Partie 1)"
+date: 2024-07-10
 draft: false
-categories: ["Journal"]
-tags: ["Lifestyle", "Journal"]
+categories: ["Voyages"]
+tags: ["Norvège", "Scandinavie"]
 cover:
-    image: "/posts/journal/nouveau-depart/test_2.jpg"
-    alt: ""
-    caption: ""
+    image: "/posts/journal/nouveau-depart/depart_1.jpg"
+    alt: "Alternative text"
+    caption: "Image caption"
     relative: false
 ---
 
-Bonjour à toutes et à tous,
+# Contexte : 
+L’an dernier, en juin 2024, j’ai eu la chance de partir en Norvège grâce à un circuit organisé par Sabardu Tourisme. Ce séjour de huit jours m’a emmené parcourir 1915 kilomètres entre paysages naturels grandioses, villes pittoresques et découvertes culturelles. J’ai décidé de réaliser trois articles regroupant l’intégralité de cette aventure unique que j’ai eu le privilège de vivre afin de rendre votre lecture plus agréable.
 
-Cela faisait un moment que je n'avais pas posé quelques mots ici. Il y a quelques mois, j'ai pris la décision de fermer mon ancien blog, eckodeath.fr, après avoir partagé pendant un long moment sur des sujets variés. Ce fut une décision réfléchie, car j'avais besoin de recentrer mes projets et de me concentrer sur de nouvelles directions.
+# Jour 1 : Marseille — Francfort — Oslo
 
-Aujourd'hui, je reviens ici, sur Medium, avec l'envie de redonner vie à cet espace et de vous partager à nouveau mes découvertes, mes voyages, et tout ce qui fait partie de mon quotidien.
+Le voyage a commencé très tôt, avec un rendez-vous à Marseille pour un départ en autocar vers l’aéroport. L’accueil chaleureux d’un représentant Sabardu Tourisme nous a immédiatement mis dans l’ambiance. Après les formalités d’enregistrement, nous avons pris un vol via Francfort, pour arriver en fin de journée à Oslo. Notre guide local nous attendait pour un transfert vers l’hôtel, où le calme scandinave nous a tout de suite séduits. Dîner et première nuit dans la région d’Oslo, et nous sommes prêts pour vivre une semaine folle d’aventures.
 
----
+![Norway_1](Norway_1.jpg)
+![Norway_2](Norway_2.jpg)
 
-## Une pause, mais pas un abandon
-Le blog est resté silencieux ces derniers temps, mais l'envie de partager, elle, n'a jamais disparu.
-
-J'ai continué à voyager, à découvrir de nouveaux endroits, à capturer des moments, et à vivre ces expériences que j'aimais autrefois raconter ici.
-
-J'ai simplement laissé de côté l'écriture, sans jamais perdre ce besoin de documenter, d'illustrer, de transmettre - que ce soit à travers une photo, un itinéraire, un retour d'expérience ou une simple anecdote de voyage.
-
-Aujourd'hui, je reviens avec cette même envie : vous emmener avec moi, vous partager ce que je vois, ce que je ressens, ce que je découvre.
-Et continuer, à ma façon, à créer du lien autour de tout ça.
-
----
-
-## Pourquoi je reviens
-Parce que le partage a toujours été le fil conducteur de ce blog.
-Ce que je vis, ce que j'apprends, ce que je découvre : c'est ici que j'ai envie de le déposer.
-
-Ce blog a toujours été un espace libre, personnel, sans ligne éditoriale stricte, mais avec une constante : l'envie de vous embarquer avec moi, dans mes expériences, mes réflexions et mes coups de cœur.
-
----
-
-## Ce qui arrive bientôt
-Les prochains articles seront placés sous le signe du voyage.
-
-En septembre, je pars en Irlande, et je compte bien partager cette aventure avec vous : itinéraire, impressions, moments forts, mais aussi conseils pratiques pour celles et ceux qui aimeraient explorer ce pays.
-
-Et puis, je reviendrai sur mon voyage en Norvège de l'an dernier - un pays qui m'a profondément marqué et que je n'ai pas encore eu l'occasion de raconter ici.
-
-Ces publications seront l'occasion de faire entrer de l'air frais sur le blog, et, je l'espère, de vous donner envie de partir vous aussi à la découverte du monde.
-
----
-
-## Restons connectés
-Je serai désormais plus actif sur Instagram, où je partagerai de nouvelles photos, notamment issues de mes voyages, mais aussi des moments du quotidien ou des instants capturés sur le vif.
-
-📸 Retrouvez-moi ici : https://www.instagram.com/eckodeath/
-
-🐦 Et bien sûr, toujours présent sur X (ex-Twitter) : https://x.com/eckodeath
-
-Et ce blog Medium reprend enfin vie.
-
-N'hésitez pas à vous abonner pour ne rien manquer des prochaines publications.
-
----
-
-Merci à vous, que vous soyez un lecteur de longue date ou que vous découvriez ce blog aujourd'hui.
-
-Je suis ravi de reprendre la plume (ou plutôt le clavier) et j'espère que ce nouveau chapitre vous plaira autant qu'à moi.
-
-À très bientôt sur eckodeath by Kurt Grava
+{{< figure src="Norway_1.jpg" class="img-left" >}}
+{{< figure src="Norway_3.jpg" class="img-right" >}}
 
 
+<div class="side-by-side">
+  <figure class="figure">
+    <img src="/images/Norway_1.jpg" alt="Photo 1" />
+    <figcaption>Photo 1</figcaption>
+  </figure>
+  <figure class="figure">
+    <img src="/images/Norway_2.jpg" alt="Photo 2" />
+    <figcaption>Photo 2</figcaption>
+  </figure>
+</div>
