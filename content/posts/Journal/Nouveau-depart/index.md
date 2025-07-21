@@ -5,11 +5,12 @@ draft: false
 categories: ["Journal"]
 tags: ["Lifestyle", "Journal"]
 cover:
-    image: "/images/nouveau_depart_1.jpg"
-    alt: ""
+    image: "/posts/journal/nouveau-depart/nouveau_depart_1.jpg"
+    alt: "alt"
     caption: ""
     relative: false
 ---
+
 Bonjour à toutes et à tous,
 
 Cela faisait un moment que je n'avais pas posé quelques mots ici. Il y a quelques mois, j'ai pris la décision de fermer mon ancien blog, eckodeath.fr, après avoir partagé pendant un long moment sur des sujets variés. Ce fut une décision réfléchie, car j'avais besoin de recentrer mes projets et de me concentrer sur de nouvelles directions.
