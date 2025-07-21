@@ -1,17 +1,17 @@
-.side-by-side {
+.figures-side-by-side {
   display: flex;
-  gap: 24px;
-  flex-wrap: wrap;
+  gap: 20px;
   justify-content: center;
+  flex-wrap: wrap;
   margin: 2rem 0;
 }
 
-.side-by-side .figure {
-  width: 50%;
+.figures-side-by-side figure {
+  flex: 1 1 45%;
   margin: 0;
 }
 
-.side-by-side img {
+.figures-side-by-side img {
   width: 100%;
   height: auto;
   border-radius: 8px;
