@@ -1,19 +1,19 @@
 .side-by-side {
   display: flex;
-  gap: 4px;              /* réduit l'espace entre les images */
+  gap: 5px;             /* petit espace entre les images */
   justify-content: center;
   flex-wrap: wrap;
-  margin: 0.5rem 0;         /* réduit l'espace au-dessus/en-dessous du bloc */
+  margin: 0.2rem 0;     /* espace vertical minimal (haut/bas) */
 }
 
 .side-by-side figure {
-  flex: 1 1 48%;          /* légèrement plus large pour compenser le gap réduit */
-  margin: 0;
+  flex: 1 1 48%;
+  margin: 0;            /* supprime la marge autour des figures */
 }
 
 .side-by-side img {
   width: 100%;
   height: auto;
   border-radius: 8px;
+  display: block;       /* élimine les petits espaces blancs sous les images */
 }
-
