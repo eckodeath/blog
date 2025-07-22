@@ -6,7 +6,7 @@ description: ""
 tags: ["Journal", "Lifestyle"]
 categories: ["Journal"]
 cover:
-    image: "/images/howard_1.jpg"
+    image: "/images/nouveau_dep_1.jpg"
     alt: "Alternative text"
     caption: ""
     relative: false
@@ -61,11 +61,10 @@ Et ce blog **Medium** reprend enfin vie.
 
 N’hésitez pas à vous abonner pour ne rien manquer des prochaines publications.
 
-——
+——----------------------------------------------------------------------------
 
-**Merci à vous**, que vous soyez un lecteur de longue date ou que vous découvriez ce blog aujourd’hui.Je suis ravi de reprendre la plume (ou plutôt le clavier) et j’espère que ce nouveau chapitre vous plaira autant qu’à moi.
+**Merci à vous**, que vous soyez un lecteur de longue date ou que vous découvriez ce blog aujourd’hui.
+
+Je suis ravi de reprendre la plume (ou plutôt le clavier) et j’espère que ce nouveau chapitre vous plaira autant qu’à moi.
 
 **À très bientôt sur eckodeath by Kurt Grava**
-
-
-#eckodeath/Journal
