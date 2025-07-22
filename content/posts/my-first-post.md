@@ -1,7 +1,7 @@
 ---
 title: "My Post Title"
 date: 2023-04-29
-draft: false
+draft: true
 description: "Description of the post"
 tags: ["hugo", "papermod", "tutorial"]
 categories: ["web development"]
