@@ -76,7 +76,8 @@ Je suis ravi de reprendre la plume (ou plutôt le clavier) et j’espère que ce
 {{< sidebyside left="/images/norway_3.jpg" right="/images/howard_1.jpg" >}}
 
 
-
+{{< sidebyside left="/images/norway_3.jpg" right="/images/howard_1.jpg" >}}
+{{< sidebyside left="/images/norway_3.jpg" right="/images/howard_1.jpg" >}}
 
 
 
