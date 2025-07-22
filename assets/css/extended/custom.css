@@ -3,7 +3,7 @@
   gap: 5px;             /* petit espace entre les images */
   justify-content: center;
   flex-wrap: wrap;
-  margin: 0.2rem 0;     /* espace vertical minimal (haut/bas) */
+  margin: 0rem 0;     /* espace vertical minimal (haut/bas) */
 }
 
 .side-by-side figure {
