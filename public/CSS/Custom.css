@@ -1,4 +1,4 @@
-.figures-side-by-side {
+.side-by-side {
   display: flex;
   gap: 20px;
   justify-content: center;
@@ -6,12 +6,12 @@
   margin: 2rem 0;
 }
 
-.figures-side-by-side figure {
+.side-by-side figure {
   flex: 1 1 45%;
   margin: 0;
 }
 
-.figures-side-by-side img {
+.side-by-side img {
   width: 100%;
   height: auto;
   border-radius: 8px;
