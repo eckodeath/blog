@@ -69,6 +69,13 @@ Je suis ravi de reprendre la plume (ou plutôt le clavier) et j’espère que ce
 
 **À très bientôt sur eckodeath by Kurt Grava**
 
+
+
+{{< sidebyside left="/images/Norway_3.jpg" right="/images/Howard_1.jpg" >}}
+
+
+
+
 <div class="side-by-side">
   <figure class="figure">
     <img src="/images/Norway_3.jpg" alt="Photo 1" />
