@@ -6,7 +6,7 @@ description: ""
 tags: ["Journal", "Lifestyle"]
 categories: ["Journal"]
 cover:
-    image: "/images/nouveau_dep_1.jpg"
+    image: "/images/edito/nouveau_dep_1.jpg"
     alt: "Alternative text"
     caption: ""
     relative: false
@@ -61,7 +61,7 @@ Et ce blog **Medium** reprend enfin vie.
 
 N’hésitez pas à vous abonner pour ne rien manquer des prochaines publications.
 
-——----------------------------------------------------------------------------
+------
 
 **Merci à vous**, que vous soyez un lecteur de longue date ou que vous découvriez ce blog aujourd’hui.
 
