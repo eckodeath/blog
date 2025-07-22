@@ -68,3 +68,14 @@ N’hésitez pas à vous abonner pour ne rien manquer des prochaines publication
 Je suis ravi de reprendre la plume (ou plutôt le clavier) et j’espère que ce nouveau chapitre vous plaira autant qu’à moi.
 
 **À très bientôt sur eckodeath by Kurt Grava**
+
+<div class="side-by-side">
+  <figure class="figure">
+    <img src="/images/Norway_3.jpg" alt="Photo 1" />
+    <figcaption>Photo 1</figcaption>
+  </figure>
+  <figure class="figure">
+    <img src="/images/Howard_1.jpg" alt="Photo 2" />
+    <figcaption>Photo 2</figcaption>
+  </figure>
+</div>
