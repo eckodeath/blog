@@ -72,17 +72,3 @@ Je suis ravi de reprendre la plume (ou plutôt le clavier) et j’espère que ce
 
 
 {{< sidebyside left="/images/Norway_3.jpg" right="/images/Howard_1.jpg" >}}
-
-
-
-
-<div class="side-by-side">
-  <figure class="figure">
-    <img src="/images/Norway_3.jpg" alt="Photo 1" />
-    <figcaption>Photo 1</figcaption>
-  </figure>
-  <figure class="figure">
-    <img src="/images/Howard_1.jpg" alt="Photo 2" />
-    <figcaption>Photo 2</figcaption>
-  </figure>
-</div>
