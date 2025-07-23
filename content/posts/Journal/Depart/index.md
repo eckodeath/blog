@@ -17,7 +17,6 @@ Cela faisait un moment que je n’avais pas posé quelques mots ici. Il y a quel
 
 Aujourd’hui, je reviens ici, sur **Medium**, avec l’envie de redonner vie à cet espace et de vous partager à nouveau mes découvertes, mes voyages, et tout ce qui fait partie de mon quotidien.
 
-
 **Une pause, mais pas un abandon**
 
 Le blog est resté silencieux ces derniers temps, mais l’envie de partager, elle, n’a jamais disparu.J’ai continué à voyager, à découvrir de nouveaux endroits, à capturer des moments, et à vivre ces expériences que j’aimais autrefois raconter ici.
@@ -26,13 +25,11 @@ J’ai simplement laissé de côté l’écriture, sans jamais perdre ce besoin 
 
 Aujourd’hui, je reviens avec cette même envie : **vous emmener avec moi**, vous partager ce que je vois, ce que je ressens, ce que je découvre. Et continuer, à ma façon, à créer du lien autour de tout ça.
 
-
 **Pourquoi je reviens**
 
 Parce que le partage a toujours été le fil conducteur de ce blog. Ce que je vis, ce que j’apprends, ce que je découvre : c’est ici que j’ai envie de le déposer.
 
 Ce blog a toujours été un espace libre, personnel, sans ligne éditoriale stricte, mais avec une constante : **l’envie de vous embarquer avec moi**, dans mes expériences, mes réflexions et mes coups de cœur.
-
 
 **Ce qui arrive bientôt**
 
@@ -42,7 +39,6 @@ En juin, je pars en **Irlande**, et je compte bien partager cette aventure avec
 
 Et puis, je reviendrai sur mon **voyage en Norvège** de l’an dernier — un pays qui m’a profondément marqué et que je n’ai pas encore eu l’occasion de raconter ici.
 Ces publications seront l’occasion de **faire entrer de l’air frais sur le blog**, et, je l’espère, de vous donner envie de partir vous aussi à la découverte du monde.
-
 
 **Restons connectés**
 
@@ -55,7 +51,6 @@ Je serai désormais **plus actif sur Instagram**, où je partagerai de **nouve
 Et ce blog **Medium** reprend enfin vie.
 
 N’hésitez pas à vous abonner pour ne rien manquer des prochaines publications.
-
 
 **Merci à vous**, que vous soyez un lecteur de longue date ou que vous découvriez ce blog aujourd’hui.
 
