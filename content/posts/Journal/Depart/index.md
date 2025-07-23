@@ -6,9 +6,9 @@ description: ""
 tags: ["Journal", "Lifestyle"]
 categories: ["Journal"]
 cover:
-    image: "/images/journal/depart/cover_2.jpg"
+    image: "/posts/journal/depart/cover_1.jpg"
     alt: "Alternative text"
-    caption: ""
+    caption: "Image caption"
     relative: false
 ---
 
@@ -26,13 +26,13 @@ Le blog est resté silencieux ces derniers temps, mais l’envie de partager, el
 
 J’ai simplement laissé de côté l’écriture, sans jamais perdre ce besoin de documenter, d’illustrer, de transmettre — que ce soit à travers une photo, un itinéraire, un retour d’expérience ou une simple anecdote de voyage.
 
-Aujourd’hui, je reviens avec cette même envie : **vous emmener avec moi**, vous partager ce que je vois, ce que je ressens, ce que je découvre.Et continuer, à ma façon, à créer du lien autour de tout ça.
+Aujourd’hui, je reviens avec cette même envie : **vous emmener avec moi**, vous partager ce que je vois, ce que je ressens, ce que je découvre. Et continuer, à ma façon, à créer du lien autour de tout ça.
 
 ——
 
 **Pourquoi je reviens**
 
-Parce que le partage a toujours été le fil conducteur de ce blog.Ce que je vis, ce que j’apprends, ce que je découvre : c’est ici que j’ai envie de le déposer.
+Parce que le partage a toujours été le fil conducteur de ce blog. Ce que je vis, ce que j’apprends, ce que je découvre : c’est ici que j’ai envie de le déposer.
 
 Ce blog a toujours été un espace libre, personnel, sans ligne éditoriale stricte, mais avec une constante : **l’envie de vous embarquer avec moi**, dans mes expériences, mes réflexions et mes coups de cœur.
 
