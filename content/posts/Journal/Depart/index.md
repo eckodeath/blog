@@ -1,12 +1,13 @@
 ---
-title: "Eckodeath.fr est de retour (et pour longtemps)"
-date: 2025-07-09
+title: "Test en cours"
+date: 2025-07-22
 draft: false
+description: "1"
 tags: ["Journal", "Lifestyle"]
 categories: ["Journal"]
 cover:
     image: "/posts/journal/depart/cover_3.jpg"
-    alt: "cover_3"
+    alt: "Alternative text"
     caption: ""
     relative: false
 ---
