@@ -1,7 +1,7 @@
 ---
 title: "Un nouveau départ : retrouvez-moi sur le blog et les réseaux sociaux !"
 date: 2025-05-09
-draft: false
+draft: true
 description: ""
 tags: ["Journal", "Lifestyle"]
 categories: ["Journal"]

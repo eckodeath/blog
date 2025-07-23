@@ -1,7 +1,7 @@
 ---
 title: "Découverte des Fjords de Norvège (Partie 1)"
 date: 2024-07-10
-draft: false
+draft: true
 categories: ["Voyages"]
 tags: ["Norvège", "Scandinavie"]
 cover:
