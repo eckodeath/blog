@@ -6,9 +6,9 @@ description: ""
 tags: ["Journal", "Lifestyle"]
 categories: ["Journal"]
 cover:
-    image: "/posts/journal/depart/cover_1.jpg"
+    image: "/posts/journal/depart/cover_3.jpg"
     alt: "Alternative text"
-    caption: "Image caption"
+    caption: ""
     relative: false
 ---
 
