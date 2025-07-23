@@ -2,7 +2,6 @@
 title: "Eckodeath.fr est de retour (et pour longtemps)"
 date: 2025-05-09
 draft: false
-description: ""
 tags: ["Journal", "Lifestyle"]
 categories: ["Journal"]
 cover:
