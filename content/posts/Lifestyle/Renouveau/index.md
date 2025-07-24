@@ -26,7 +26,7 @@ Aujourd'hui je veux pouvoir écrire **où je veux**, **comme je veux**, **quand 
 
 ## J’ai trouvé la solution en combinant plusieurs services : Hugo + GitHub + Netlify
 
-Aujourd’hui, je suis heureux de dire que j’ai retrouvé ce que je cherchais depuis longtemps :  
+Aujourd’hui, je suis heureux de dire que j’ai trouvé ce que je cherchais depuis longtemps :  
 **une solution 100 % gratuite, 100 % indépendante, 100 % à moi.**
 
 ### Voilà comment ça fonctionne, simplement :
