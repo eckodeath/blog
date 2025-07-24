@@ -71,8 +71,8 @@ A bientôt sur eckodeath.fr (vous n'imaginez même pas comme ça fait du bien de
 
 {{< gallery >}}
 
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_1.jpg" caption="Photo 1" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" caption="Photo 2" >}}
+  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_1.jpg" caption="" >}}
+  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" caption="" >}}
   {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_3.jpg" caption="Photo 3" >}}
   {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_1.jpg" caption="Photo 1" >}}
   {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" caption="Photo 2" >}}
