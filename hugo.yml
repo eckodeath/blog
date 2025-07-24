@@ -31,11 +31,6 @@ params:
     - name: "<platform 2>"
       url: "<link2>"
 
-  label:
-   text: "Eckodeath"
-   icon: "/logo_header_ecko.png"
-   iconHeight: 35
-
 
   ShowReadingTime: true
   ShowShareButtons: true
