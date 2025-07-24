@@ -69,47 +69,5 @@ Merci à ceux qui me rejoignent maintenant.
 
 A bientôt sur eckodeath.fr (vous n'imaginez même pas comme ça fait du bien de réécrire cela)
 
-{{< gallery >}}
 
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_1.jpg" caption="" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" caption="" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_3.jpg" caption="Photo 3" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_1.jpg" caption="Photo 1" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" caption="Photo 2" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_3.jpg" caption="Photo 3" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_1.jpg" caption="Photo 1" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" caption="Photo 2" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_3.jpg" caption="Photo 3" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_1.jpg" caption="Photo 1" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" caption="Photo 2" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_3.jpg" caption="Photo 3" >}}
-
-{{< /gallery >}}
-
-{{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-    <div class="medium-wide-image">
-  <img src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" alt="Image un peu plus large que le texte" />
-</div>
-  </p>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-  <div class="side-by-side">
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_3.jpg" alt="Photo 3" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" alt="Photo 2" >}}
-</div>
-  </p>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-    <div class="medium-wide-image">
-  <div class="side-by-side">
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_3.jpg" alt="Photo 3" >}}
-  {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" alt="Photo 2" >}}
-</div>
-  </p>
-{{< /rawhtml >}}
 
