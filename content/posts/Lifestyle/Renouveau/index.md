@@ -85,3 +85,14 @@ A bientôt sur eckodeath.fr (vous n'imaginez même pas comme ça fait du bien de
   {{< figure src="/posts/lifestyle/renouveau/iphone_16_unboxing_3.jpg" caption="Photo 3" >}}
 
 {{< /gallery >}}
+
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    <div class="medium-wide-image">
+  <img src="/posts/lifestyle/renouveau/iphone_16_unboxing_2.jpg" alt="Image un peu plus large que le texte" />
+</div>
+  </p>
+{{< /rawhtml >}}
+
+
+

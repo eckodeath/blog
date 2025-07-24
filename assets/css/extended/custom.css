@@ -37,3 +37,20 @@
   border-radius: 6px;
   object-fit: cover;
 }
+.medium-wide-image {
+  max-width: 900px; /* Ajuste ici : le texte fait ~768px sur PaperMod */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.medium-wide-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+}
+.medium-wide-image {
+  width: calc(100% + 80px);  /* élargit un peu */
+  margin-left: -40px;
+  margin-right: -40px;
+}
