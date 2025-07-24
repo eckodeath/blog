@@ -55,7 +55,6 @@ params:
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
 
-
   profileMode:
     enabled: false
     title: Your Name
