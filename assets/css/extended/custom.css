@@ -17,3 +17,31 @@
   border-radius: 8px;
   display: block;       /* élimine les petits espaces blancs sous les images */
 }
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.gallery-item {
+  flex: 1 1 300px;
+  max-width: 100%;
+  margin: 0;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.gallery-item figcaption {
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 5px;
+  color: #666;
+}

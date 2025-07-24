@@ -75,10 +75,10 @@ params:
       url: "https://www.instagram.com/eckodeath/"
     - name: threads
       url: "https://www.threads.com/@eckodeath"
-    - name: medium
-      url: "https://medium.com/eckodeath"
     - name: twitter
       url: "https://x.com/eckodeath"
+    - name: medium
+      url: "https://medium.com/eckodeath"
 
   cover:
     hidden: false
