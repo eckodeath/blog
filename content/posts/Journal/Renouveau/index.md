@@ -6,7 +6,7 @@ tags: ["blog", "écriture", "indépendance", "hugo", "github", "netlify"]
 categories: ["Journal"]
 summary: "Après quelques semaines sur Medium, je reviens à l'essentiel : écrire librement, sur un site qui m'appartient vraiment. Grâce à Hugo, GitHub et Netlify, je reprends le contrôle sur mon blog eckodeath.fr."
 cover:
-    image: "/posts/journal/renouveau/cover_1.jpg"
+    image: "/images/cover/cover_1.jpg"
     alt: ""
     caption: ""
     relative: false
