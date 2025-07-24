@@ -34,7 +34,7 @@ params:
   label:
    text: "Eckodeath"
    icon: "/logo_header_ecko.png"
-   iconHeight: 50
+   iconHeight: 35
 
 
   ShowReadingTime: true
