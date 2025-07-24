@@ -1,5 +1,5 @@
 baseURL: "https://eckodeath.netlify.app/"
-title: "eckodeath"
+title: "Eckodeath"
 pagerSize: 5
 theme: PaperMod
 
@@ -20,7 +20,7 @@ params:
     - css/custom.css
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light, auto
-  disableThemeToggle: false
+  disableThemeToggle: true
   homeInfoParams:
     Title: Le journal de Kurt Grava
     Content: Papa trentenaire, pilote de simracing, photographe amateur et blogueur passionné.
@@ -103,6 +103,10 @@ menu:
       name: Search
       url: /search/
       weight: 40
+    - name: "A propos"
+      url: "https://eckodeath.carrd.co/"
+      params:
+        external: true
 
 outputs:
   home:
