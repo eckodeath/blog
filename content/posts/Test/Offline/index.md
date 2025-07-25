@@ -14,6 +14,23 @@ cover:
 
 ## Ceci est une page test - pensez à mettre le fichier en draft à la fin
 
+<div class="medium-wide-image">
+  <div class="image-grid">
+    <figure>
+      <img src="/posts/test/offline/iphone_16_unboxing_1.jpg" alt="Photo 1">
+    </figure>
+    <figure>
+      <img src="/posts/test/offline/iphone_16_unboxing_2.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/test/offline/iphone_16_unboxing_3.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/test/offline/iphone_16_unboxing_4.jpg" alt="Photo 4">
+    </figure>
+  </div>
+</div>
+
 {{< gallery >}}
 
   {{< figure src="/posts/test/offline/iphone_16_unboxing_1.jpg" caption="Photo 1" >}}

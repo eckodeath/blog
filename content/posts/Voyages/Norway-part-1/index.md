@@ -53,7 +53,7 @@ Le déjeuner en ville nous a permis de goûter à la cuisine locale. L’après-
 
 
 <div class="medium-wide-image">
-  <div class="side-by-side">
+  <div class="image-grid">
     <figure>
       <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_8-min.jpg" alt="Photo 8">
     </figure>
