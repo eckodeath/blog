@@ -111,4 +111,3 @@ Ensuite est venu le temps de visiter le Musée des jeux olympiques, lieu retraç
     </figure>
   </div>
 </div>
-
