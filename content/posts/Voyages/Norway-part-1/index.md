@@ -82,3 +82,33 @@ Le déjeuner en ville nous a permis de goûter à la cuisine locale. L’après-
 </div>
 
 Ensuite est venu le temps de visiter le Musée des jeux olympiques, lieu retraçant l’évolution de cette compétition mythique.
+
+<div class="medium-wide-image">
+  <div class="image-grid">
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_22-min.jpg" alt="Photo 22">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_15-min.jpg" alt="Photo 15">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_16-min.jpg" alt="Photo 16">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_17-min.jpg" alt="Photo 17">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_18-min.jpg" alt="Photo 18">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_19-min.jpg" alt="Photo 19">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_20-min.jpg" alt="Photo 20">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_21-min.jpg" alt="Photo 21">
+    </figure>
+  </div>
+</div>
+

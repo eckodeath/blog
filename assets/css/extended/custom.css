@@ -72,3 +72,34 @@
   clear: both;
   margin-top: 1rem;
 }
+.medium-wide-image {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% + 80px); /* plus large que le texte */
+  max-width: none;
+  margin: 2rem 0;
+}
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  justify-content: center;
+  margin: 0;
+}
+
+.image-grid figure {
+  flex: 1 1 375px;
+  max-width: 100%;
+  margin: 0;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.image-grid img {
+  width: 100%;
+  height: 375px;
+  object-fit: cover;
+  display: block;
+}
