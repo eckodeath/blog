@@ -1,22 +1,36 @@
 .side-by-side {
   display: flex;
-  gap: 5px;             /* petit espace entre les images */
+  gap: 6px;
   justify-content: center;
   flex-wrap: wrap;
-  margin: 0rem 0;     /* espace vertical minimal (haut/bas) */
+  margin: 1.5rem 0;
 }
 
 .side-by-side figure {
-  flex: 1 1 48%;
-  margin: 0;            /* supprime la marge autour des figures */
+  flex: 1 1 45%;
+  margin: 0;
 }
 
 .side-by-side img {
   width: 100%;
   height: auto;
-  border-radius: 8px;
-  display: block;       /* élimine les petits espaces blancs sous les images */
+  display: block;
+  border-radius: 6px;
+  object-fit: cover;
 }
+
+.side-by-side figcaption {
+  text-align: center;
+  font-size: 0.85rem;
+  margin-top: 4px;
+  color: #666;
+}
+
+.gallery-block {
+  max-width: 130%;
+  margin: 1rem 0;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -38,9 +52,13 @@
   object-fit: cover;
 }
 .medium-wide-image {
-  max-width: 900px; /* Ajuste ici : le texte fait ~768px sur PaperMod */
-  margin-left: auto;
-  margin-right: auto;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% + 120px); /* élargit légèrement l’image */
+  max-width: none;
+  margin: 2rem 0;
+  z-index: 1;
 }
 
 .medium-wide-image img {
@@ -49,8 +67,8 @@
   display: block;
   border-radius: 6px;
 }
-.medium-wide-image {
-  width: calc(100% + 140px);  /* élargit un peu */
-  margin-left: -70px;
-  margin-right: -70px;
+
+.restore-flow {
+  clear: both;
+  margin-top: 1rem;
 }

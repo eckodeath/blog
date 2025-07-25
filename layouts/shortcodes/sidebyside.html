@@ -1,8 +1,10 @@
 <div class="side-by-side">
   <figure>
-    <img src="{{ .Get "left" }}" alt="left image">
+    <img src="{{ .Get "left" }}" alt="{{ .Get "altleft" }}" loading="lazy">
+    {{ with .Get "captionleft" }}<figcaption>{{ . }}</figcaption>{{ end }}
   </figure>
   <figure>
-    <img src="{{ .Get "right" }}" alt="right image">
+    <img src="{{ .Get "right" }}" alt="{{ .Get "altright" }}" loading="lazy">
+    {{ with .Get "captionright" }}<figcaption>{{ . }}</figcaption>{{ end }}
   </figure>
 </div>
