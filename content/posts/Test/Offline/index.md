@@ -22,13 +22,13 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
       <img src="/posts/test/offline/iphone_16_unboxing_1.jpg" alt="Photo 1">
     </figure>
     <figure>
-      <img src="/posts/test/offline/iphone_16_unboxing_2.jpg" alt="Photo 2">
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_6-min.jpg" alt="Photo 2">
     </figure>
     <figure>
       <img src="/posts/test/offline/iphone_16_unboxing_3.jpg" alt="Photo 3">
     </figure>
     <figure>
-      <img src="/posts/test/offline/iphone_16_unboxing_4.jpg" alt="Photo 4">
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_5-min.jpg" alt="Photo 4">
     </figure>
   </div>
 </div>
@@ -58,6 +58,35 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
 
 <div class="medium-wide-image">
   <img src="/posts/test/offline/iphone_16_unboxing_1.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+
+### Deux photos verticales (ou pas) plus large que le texte :
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_5-min.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_6-min.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+
+
+### TEST
+
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/test/offline/iphone_16_unboxing_4.jpg" alt="Photo 1">
+  </figure>
+  <figure>
+    <img src="/posts/test/offline/iphone_16_unboxing_3.jpg" alt="Photo 2">
+  </figure>
+  <figure>
+    <img src="/posts/test/offline/iphone_16_unboxing_2.jpg" alt="Photo 3">
+  </figure>
 </div>
 
 
@@ -100,4 +129,5 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
 </div>
   </p>
 {{< /rawhtml >}}
+
 
