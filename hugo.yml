@@ -33,12 +33,12 @@ params:
 
 
   
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: false
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -89,7 +89,7 @@ params:
 menu:
   main:
     - identifier: categories
-      name: Categories
+      name: Catégories
       url: /categories/
       weight: 10
     - identifier: tags

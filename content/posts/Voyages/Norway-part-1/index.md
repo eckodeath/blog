@@ -5,7 +5,7 @@ draft: false
 categories: ["Voyages"]
 tags: ["Norvège", "Scandinavie", "Voyages", "Récit"]
 cover:
-    image: "/posts/voyages/norway-part-1/cover_norway_part_1.jpg"
+    image: ""
     alt: ""
     caption: ""
     relative: false
@@ -273,3 +273,5 @@ Après une pause déjeuner bien méritée, nous sommes arrivés à Ålesund, sur
 </div>
 
 La partie n°1 du voyage s’arrête ici, on se retrouve bientôt pour la suite de ce super voyage en Norvège.
+
+/posts/voyages/norway-part-1/cover_norway_part_1.jpg
