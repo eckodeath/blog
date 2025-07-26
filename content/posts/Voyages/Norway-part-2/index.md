@@ -3,7 +3,7 @@ title: "Découverte des Fjords de Norvège (Partie 2)"
 date: 2025-05-27
 draft: false
 categories: ["Voyages"]
-tags: ["Norvège", "Scandinavie"]
+tags: ["Norvège", "Scandinavie", "Voyages", "Récit"]
 cover:
     image: ""
     alt: ""
@@ -156,10 +156,156 @@ La route ensuite s’est élevée vers le parc national du Jotunheimen, on est m
   <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_87.jpg" alt="Image un peu plus large que le texte" />
 </div>
 
-
-
 Nous avons ensuite passé la nuit au calme dans la région authentique de Valdres (cœur traditionnel du pays).
 
+## Jour 5 : Valdres — Sognefjord — Bergen
+La journée a débuté par des paysages sublimes tout au long de la route vers Lærdal.
 
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_91.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <div class="image-grid">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_90.jpg" alt="Photo 73">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_92.jpg" alt="Photo 74">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_93.jpg" alt="Photo 75">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_94.jpg" alt="Photo 76">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_95.jpg" alt="Photo 77">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_96.jpg" alt="Photo 78">
+    </figure>
+  </div>
+</div>
+
+Nous avons réalisé un arrêt photo à l’église en bois debout de Borgund, une des plus célèbres du pays.
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_97.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_98.jpg" alt="Photo 98">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_99.jpg" alt="Photo 99">
+    </figure>
+  </div>
+</div>
+
+
+
+Sur la route reliant Lærdal à Aurland, nous avons emprunté le plus long tunnel routier du monde d’une longueur de 24,5 km.
+
+Ensuite, nous avons embarqué pour une mini-croisière à bord du Lady Elisabeth sur le Sognefjord, le plus long et profond fjord de Norvège. Le Nærøyfjord, un des bras du Sognefjord, est classé patrimoine mondial de l’Unesco, il nous a offert des paysages sauvages et majestueux.
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_116.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <div class="image-grid">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_101.jpg" alt="Photo 101">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_102.jpg" alt="Photo 102">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_104.jpg" alt="Photo 104">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_105.jpg" alt="Photo 105">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_106.jpg" alt="Photo 106">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_107.jpg" alt="Photo 107">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_108.jpg" alt="Photo 108">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_109.jpg" alt="Photo 109">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_110.jpg" alt="Photo 110">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_100.jpg" alt="Photo 100">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_113.jpg" alt="Photo 113">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_112.jpg" alt="Photo 112">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_114.jpg" alt="Photo 114">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_115.jpg" alt="Photo 115">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_111.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+Le déjeuner sous forme de panier repas typiquement norvégien a été un moment convivial face à ces décors naturels exceptionnels.
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_103.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+La route a continué à travers la vallée de Stalheim avec un arrêt photo à la cascade de Tvindefossen
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_117.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+Puis direction Voss, avant d’arriver en fin d’après-midi à Bergen, capitale des fjords, où nous avons eu du temps libre pour découvrir la ville grâce au téléphérique qui nous as conduit sur le toit de la ville.
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_121.jpg" alt="Photo 121">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_122.jpg" alt="Photo 122">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_120.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+Nous avons également pris le temps de déguster une spécialité local le elg burger (burger à base de viande d’élan accompagné d’une confiture de groseille) sur la place du marché de Bergen.
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_118.jpg" alt="Photo 118">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_119.jpg" alt="Photo 119">
+    </figure>
+  </div>
+</div>
 
 
