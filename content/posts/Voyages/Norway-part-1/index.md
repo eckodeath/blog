@@ -11,8 +11,8 @@ cover:
     relative: false
 ---
 
-## Contexte : 
-L’an dernier, en juin 2024, j’ai eu la chance de partir en Norvège grâce à un circuit organisé par Sabardu Tourisme. Ce séjour de huit jours m’a emmené parcourir 1915 kilomètres entre paysages naturels grandioses, villes pittoresques et découvertes culturelles. J’ai décidé de réaliser trois articles regroupant l’intégralité de cette aventure unique que j’ai eu le privilège de vivre afin de rendre votre lecture plus agréable.
+> ## Contexte : 
+>L’an dernier, en juin 2024, j’ai eu la chance de partir en Norvège grâce à un circuit organisé par Sabardu Tourisme. Ce séjour de huit jours m’a emmené parcourir 1915 kilomètres entre paysages naturels grandioses, villes pittoresques et découvertes culturelles. J’ai décidé de réaliser trois articles regroupant l’intégralité de cette aventure unique que j’ai eu le privilège de vivre afin de rendre votre lecture plus agréable.
 
 ## Jour 1 : Marseille — Francfort — Oslo
 
