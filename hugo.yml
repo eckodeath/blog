@@ -32,7 +32,7 @@ params:
       url: "<link2>"
 
 
-
+  
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: false

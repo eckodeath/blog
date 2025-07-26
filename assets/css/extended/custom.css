@@ -131,3 +131,6 @@ img {
   object-fit: cover;
   display: block;
 }
+.post-tags, .entry-tags, .tag-links {
+  display: none !important;
+}
