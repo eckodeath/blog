@@ -12,7 +12,7 @@ cover:
     relative: false
 ---
 
-## Medium, c’est bien mais je reprends le contrôle sur eckodeath.fr.
+## Medium, c’est bien mais je reprends le contrôle sur eckodeath.fr
 
 Il y a quelques semaines, j’ai repris l’écriture via Medium. J’étais content de retrouver ce plaisir de poser des mots, de raconter mes voyages, de partager mes réflexions. Medium a été un outil simple pour redémarrer. C’était pratique, rapide, sans prise de tête mais très vite, j’ai ressenti un gros manque : **où est passé mon indépendance ?**
 
