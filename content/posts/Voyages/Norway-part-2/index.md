@@ -1,5 +1,5 @@
 ---
-title: "Découverte des Fjords de Norvège (Partie 2)"
+title: "Découverte des Fjords de Norvège - jours 4 à 6"
 date: 2025-05-27
 draft: false
 categories: ["Voyages"]
@@ -308,4 +308,129 @@ Nous avons également pris le temps de déguster une spécialité local le elg b
   </div>
 </div>
 
+## Jour 6 : Bergen — Hardanger — Hardangervidda — Geilo
+Accompagnés d’un guide local, nous avons visité Bergen, notamment la cité hanséatique, avec ses maisons en bois colorées et son port animé.
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_124.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <div class="image-grid">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_125.jpg" alt="Photo 125">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_126.jpg" alt="Photo 126">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_127.jpg" alt="Photo 127">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_128.jpg" alt="Photo 128">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_129.jpg" alt="Photo 129">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_130.jpg" alt="Photo 130">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_131.jpg" alt="Photo 131">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_132.jpg" alt="Photo 132">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_133.jpg" alt="Photo 133">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_134.jpg" alt="Photo 134">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_135.jpg" alt="Photo 135">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_136.jpg" alt="Photo 136">
+    </figure>
+  </div>
+</div>
+
+Puis, le voyage a repris le long du fjord de Hardanger, réputé pour ses vergers et ses paysages fleuris. Le déjeuner a eu lieu en cours de route, suivi de la visite d’une ferme aquacole de saumons où nous avons appris le cycle de vie du saumon d’élevage.
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_141.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_142.jpg" alt="Photo 142">
+  </figure>
+  <figure>
+    <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_143.jpg" alt="Photo 143">
+  </figure>
+  <figure>
+    <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_144.jpg" alt="Photo 144">
+  </figure>
+</div>
+
+Nous avons fait une pause aux chutes de Steindalsfossen, célèbres pour le sentier qui passe derrière la cascade.
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_137.jpg" alt="Photo 137">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_138.jpg" alt="Photo 138">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_139.jpg" alt="Photo 139">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_140.jpg" alt="Photo 140">
+    </figure>
+  </div>
+</div>
+
+La route s’est poursuivi jusqu’aux impressionnantes chutes de Vøringsfossen.
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_149.jpg" alt="Photo 149">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_145.jpg" alt="Photo 145">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_148.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_147.jpg" alt="Photo 147">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_146.jpg" alt="Photo 146">
+    </figure>
+  </div>
+</div>
+
+La journée s’est terminée par la traversée du plateau du Hardangervidda, immense parc national montagneux, avant d’arriver dans la région de Geilo pour la nuit.
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/norway-part-2/Norway_Part_2_Blog_150.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+La partie n°2 du voyage s’arrête ici, on se retrouve bientôt pour la suite de ce super voyage en Norvège.
 

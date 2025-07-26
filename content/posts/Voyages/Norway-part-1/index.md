@@ -1,5 +1,5 @@
 ---
-title: "Découverte des Fjords de Norvège (Partie 1)"
+title: "Découverte des Fjords de Norvège - jours 1 à 3"
 date: 2025-05-26
 draft: false
 categories: ["Voyages"]
