@@ -1,7 +1,7 @@
 ---
 title: "Test en cours"
 date: 2025-07-20
-draft: false
+draft: true
 tags: ["blog", "écriture", "indépendance", "hugo", "github", "netlify"]
 categories: ["Journal"]
 summary: "Ceci est un article test afin de tester les nouvelles implantations"
