@@ -1,5 +1,5 @@
 ---
-title: "Eckodeath est de retour !"
+title: "Eckodeath est de retour avec son propre nom de domaine"
 date: 2025-07-23
 draft: false
 tags: ["blog", "écriture", "indépendance", "hugo", "github", "netlify"]
