@@ -33,6 +33,7 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
   </div>
 </div>
 
+------
 
 ### Galerie carré pour photos qui font la même taille :
 
@@ -53,12 +54,15 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
   </div>
 </div>
 
+------
 
 ### Une seule photo plus large que le texte :
 
 <div class="medium-wide-image">
   <img src="/posts/test/offline/iphone_16_unboxing_1.jpg" alt="Image un peu plus large que le texte" />
 </div>
+
+------
 
 ### Une seule photo plus large que le texte avec lien cliquable vers site extérieur :
 
@@ -68,6 +72,7 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
   </a>
 </div>
 
+------
 
 ### Deux photos verticales (ou pas) plus large que le texte :
 
@@ -82,6 +87,20 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
   </div>
 </div>
 
+------
+
+### Deux photos une verticale et une horizontale plus large que le texte :
+
+<div class="medium-wide-image side-by-side-ratio">
+  <figure class="vertical">
+    <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_4.jpg" alt="Verticale">
+  </figure>
+  <figure class="horizontal">
+    <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_7.jpg" alt="Horizontale">
+  </figure>
+</div>
+
+------
 
 ### Grille de 3 photos :
 
@@ -97,6 +116,7 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
   </figure>
 </div>
 
+------
 
 ### Texte à gauche et photo à droite :
 

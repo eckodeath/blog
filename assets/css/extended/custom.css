@@ -131,6 +131,47 @@ img {
   object-fit: cover;
   display: block;
 }
+.medium-wide-image {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% + 80px);
+  max-width: none;
+  margin: 2rem 0;
+}
+
+.side-by-side-ratio {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.side-by-side-ratio figure {
+  margin: 0;
+  overflow: hidden;
+}
+
+.side-by-side-ratio figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+
+/* Largeur spécifique pour vertical vs horizontal */
+.side-by-side-ratio .vertical {
+  flex: 1 1 35%;
+  aspect-ratio: 3 / 4;
+}
+
+.side-by-side-ratio .horizontal {
+  flex: 1 1 60%;
+  aspect-ratio: 4 / 3;
+}
+
 .post-tags, .entry-tags, .tag-links {
   display: none !important;
 }

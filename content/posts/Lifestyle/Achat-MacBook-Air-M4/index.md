@@ -58,8 +58,13 @@ Je vous laisse les photos que j’ai réaliser lors du déballage de mon nouveau
   </figure>
 </div>
 
-<div class="medium-wide-image">
-  <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_4.jpg" alt="Image un peu plus large que le texte" />
+<div class="medium-wide-image side-by-side-ratio">
+  <figure class="vertical">
+    <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_4.jpg" alt="Verticale">
+  </figure>
+  <figure class="horizontal">
+    <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_6.jpg" alt="Horizontale">
+  </figure>
 </div>
 
 <div class="medium-wide-image">
@@ -72,13 +77,10 @@ Je vous laisse les photos que j’ai réaliser lors du déballage de mon nouveau
       <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_5.jpg" alt="Photo 5">
     </figure>
     <figure>
-      <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_6.jpg" alt="Photo 6">
-    </figure>
-    <figure>
       <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_8.jpg" alt="Photo 8">
     </figure>
     <figure>
-      <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_9.jpg" alt="Photo 9">
+      <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_10.jpg" alt="Photo 10">
     </figure>
   </div>
 </div>
@@ -86,7 +88,7 @@ Je vous laisse les photos que j’ai réaliser lors du déballage de mon nouveau
 <div class="medium-wide-image">
   <div class="image-grid">
     <figure>
-      <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_10.jpg" alt="Photo 10">
+      <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_9.jpg" alt="Photo 9">
     </figure>
     <figure>
       <img src="/posts/lifestyle/achat-MacBook-Air-M4/MacBook_Air_M4_unboxing_11.jpg" alt="Photo 11">
@@ -99,6 +101,7 @@ Je vous laisse les photos que j’ai réaliser lors du déballage de mon nouveau
     </figure>
   </div>
 </div>
+
 
 ## Une vraie évolution dans ma façon de travailler
 
