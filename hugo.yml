@@ -101,13 +101,13 @@ menu:
       url: /archives/
       weight: 30
     - identifier: search
-      name: Search
+      name: "🔍"
       url: /search/
+      weight: 50
+    - identifier: about
+      name: "À propos"
+      url: /about/
       weight: 40
-    - name: "A propos"
-      url: "https://eckodeath.carrd.co/"
-      params:
-        external: true
 
 outputs:
   home:
