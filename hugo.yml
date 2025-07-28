@@ -78,10 +78,11 @@ params:
       url: "https://www.threads.com/@eckodeath"
     - name: twitter
       url: "https://x.com/eckodeath"
-    - name: medium
-      url: "https://medium.com/eckodeath"
     - name: unsplash
       url: "https://refrakt.app/eckodeath"
+    - name: medium
+      url: "https://medium.com/eckodeath"
+
 
   cover:
     hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Test en cours"
 date: 2025-04-20
-draft: false
+draft: true
 tags: ["blog", "écriture", "indépendance", "hugo", "github", "netlify"]
 categories: ["Journal"]
 summary: "Ceci est un article test afin de tester les nouvelles implantations"
@@ -58,6 +58,14 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
 
 <div class="medium-wide-image">
   <img src="/posts/test/offline/iphone_16_unboxing_1.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+### Une seule photo plus large que le texte avec lien cliquable vers site extérieur :
+
+<div class="medium-wide-image">
+  <a href="https://eckodeath.carrd.co" target="_blank" rel="noopener">
+    <img src="/images/Carrd_Screen.png" alt="Image un peu plus large que le texte" />
+  </a>
 </div>
 
 
