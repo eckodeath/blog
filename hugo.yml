@@ -23,7 +23,7 @@ params:
   disableThemeToggle: true
   homeInfoParams:
     Title: Le journal de Kurt Grava
-    Content: Papa trentenaire, pilote de simracing, photographe amateur et blogueur passionné.
+    Content:
 
   socialIcons: # optional
     - name: "<platform>"
@@ -80,6 +80,8 @@ params:
       url: "https://x.com/eckodeath"
     - name: medium
       url: "https://medium.com/eckodeath"
+    - name: unsplash
+      url: "https://refrakt.app/eckodeath"
 
   cover:
     hidden: false
