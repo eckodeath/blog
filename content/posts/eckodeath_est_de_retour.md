@@ -12,7 +12,7 @@ cover:
     relative: false
 ---
 
-## Medium, c’est bien mais je reprends le contrôle sur eckodeath.fr
+### Medium, c’est bien mais je reprends le contrôle sur eckodeath.fr
 
 Il y a quelques semaines, j’ai repris l’écriture via Medium. J’étais content de retrouver ce plaisir de poser des mots, de raconter mes voyages, de partager mes réflexions. Medium a été un outil simple pour redémarrer. C’était pratique, rapide, sans prise de tête mais très vite, j’ai ressenti un gros manque : **où est passé mon indépendance ?**
 
@@ -24,12 +24,12 @@ Aujourd'hui je veux pouvoir écrire **où je veux**, **comme je veux**, **quand 
 
 ------
 
-## J’ai trouvé la solution en combinant plusieurs services : Hugo + GitHub + Netlify
+### J’ai trouvé la solution en combinant plusieurs services : Hugo + GitHub + Netlify
 
 Aujourd’hui, je suis heureux de dire que j’ai trouvé ce que je cherchais depuis longtemps :  
 **une solution 100 % gratuite, 100 % indépendante, 100 % à moi.**
 
-### Voilà comment ça fonctionne, simplement :
+#### Voilà comment ça fonctionne, simplement :
 
 - **Hugo** : un outil ultra-léger qui transforme mes articles (écrits en texte simple) en un vrai site web rapide et moderne.
 - **GitHub** : une sorte de coffre-fort en ligne où je garde tout mon contenu, mes images, mes textes, mes réglages.
@@ -43,7 +43,7 @@ Je peux publier ce que je veux, modifier le design à ma façon, intégrer des p
 
 ------
 
-## Pourquoi c’est important pour moi
+### Pourquoi c’est important pour moi ?
 
 Je veux pouvoir écrire sans me poser mille questions. Je veux que mes articles soient vraiment à moi. Je veux reprendre le contrôle, techniquement et créativement. Je veux pouvoir publier un billet de deux lignes ou une série de 40 photos sans me demander si la plateforme va l’accepter, le compresser, le masquer, ou le rendre invisible.
 
@@ -57,7 +57,7 @@ J'écris pour moi, pour mes proches, pour les gens qui me suivent afin de laisse
 
 ---
 
-## Et maintenant ?
+### Et maintenant ?
 
 Dès aujourd’hui, tous mes futurs articles seront publiés sur **[eckodeath.fr](https://eckodeath.fr)**.  
 Medium m’a permis de redémarrer, je n'ai pas encore pris ma décision sur ce que va devenir mon espace Medium (je vous en dirai plus le moment venu)
