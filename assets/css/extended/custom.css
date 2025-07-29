@@ -1,3 +1,16 @@
+a[title*="eckodeath.fr"] {
+  font-size: 0 !important;
+}
+
+a[title*="eckodeath.fr"] img {
+  height: 40px;
+  vertical-align: middle;
+}
+
+a[title*="eckodeath.fr"]::after {
+  content: "";
+}
+
 img {
   border-radius: 2px !important;
 }
