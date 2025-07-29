@@ -16,7 +16,7 @@ cover:
 
 Il y a quelques semaines, j’ai repris l’écriture via Medium. J’étais content de retrouver ce plaisir de poser des mots, de raconter mes voyages, de partager mes réflexions. Medium a été un outil simple pour redémarrer. C’était pratique, rapide, sans prise de tête mais très vite, j’ai ressenti un gros manque : **où est passé mon indépendance ?**
 
-**Medium n’est pas chez moi.**.
+<p style="text-align: center;"> <strong>Medium n’est pas chez moi.</strong>
 
 Medium, c’est une plateforme extrêmement pratique, mais **elle ne m’appartient pas**. Elle impose son design, ses règles, son algorithme. Tu ne contrôles presque rien, tu n’es qu’un auteur parmi tant d’autres et ton contenu peut disparaître du jour au lendemain si la plateforme le décide. En écrivant sur Medium, je dépends d’une plateforme, de ses règles, de ses évolutions. Si demain Medium ferme, ou change sa politique de publication, tout peut disparaître ou être modifié sans que j’aie mon mot à dire. Et ça, c’est devenu un problème. J’attache énormément d’importance à ce que je crée et j'ai déjà fait l'erreur l'année dernière de faire disparaitre de la toile l'intégralité de mes idées, mes expériences, mes souvenirs passés...
 
@@ -27,7 +27,7 @@ Aujourd'hui je veux pouvoir écrire **où je veux**, **comme je veux**, **quand 
 ### J’ai trouvé la solution en combinant plusieurs services : Hugo + GitHub + Netlify
 
 Aujourd’hui, je suis heureux de dire que j’ai trouvé ce que je cherchais depuis longtemps :  
-**une solution 100 % gratuite, 100 % indépendante, 100 % à moi.**
+<p style="text-align: center;"> <strong>une solution 100 % gratuite, 100 % indépendante, 100 % à moi</strong>
 
 #### Voilà comment ça fonctionne, simplement :
 
@@ -35,11 +35,11 @@ Aujourd’hui, je suis heureux de dire que j’ai trouvé ce que je cherchais de
 - **GitHub** : une sorte de coffre-fort en ligne où je garde tout mon contenu, mes images, mes textes, mes réglages.
 - **Netlify** : un hébergeur qui met mon site en ligne, gratuitement, et s’occupe de tout à chaque mise à jour.
 
-**Pas d’abonnement. Pas de pub. Pas d’intermédiaire. Tout est sous mon contrôle.**
+<p style="text-align: center;"> <strong>Pas d’abonnement. Pas de pub. Pas d’intermédiaire. Tout est sous mon contrôle.</strong>
 
 Je peux publier ce que je veux, modifier le design à ma façon, intégrer des photos, créer des pages personnalisées… et surtout : 
 
-**tout ce que j'écris et publie m’appartient vraiment.**
+<p style="text-align: center;"> <strong>tout ce que j'écris et publie m’appartient vraiment.</strong>
 
 ------
 
@@ -64,8 +64,8 @@ Medium m’a permis de redémarrer, je n'ai pas encore pris ma décision sur ce 
 
 Je reprends le contrôle, je reprends la main, je retourne à ce qui m’a toujours motivé : **partager librement, sans aucune contrainte**.
 
-Merci à ceux qui me suivent depuis le début.  
-Merci à ceux qui me rejoignent maintenant.
+<p style="text-align: center;">Merci à ceux qui me suivent depuis le début.  
+<p style="text-align: center;">Merci à ceux qui me rejoignent maintenant.
 
 A bientôt sur eckodeath.fr (vous n'imaginez même pas comme ça fait du bien de réécrire cela)
 
