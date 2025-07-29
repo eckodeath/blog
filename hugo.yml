@@ -23,7 +23,7 @@ params:
   disableThemeToggle: true
   homeInfoParams:
     Title: Le journal de Kurt Grava
-    Content:
+    Content: ❘ « Live by design, not by default » quote by Aaron Sansoni
 
   socialIcons: # optional
     - name: "<platform>"
