@@ -33,7 +33,7 @@ params:
 
   label:
     icon: "/logo_header_e_black.png"
-    iconHeight: 150
+    iconHeight: 50
   
   ShowReadingTime: false
   ShowShareButtons: false
