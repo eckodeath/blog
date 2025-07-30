@@ -34,7 +34,6 @@ params:
   label:
     icon: "/logo_header_eckodeath_black.png"
     iconHeight: 150
-
   
   ShowReadingTime: false
   ShowShareButtons: false
