@@ -1,5 +1,5 @@
 baseURL: "https://eckodeath.netlify.app/"
-title: "eckodeath.fr"
+title: "eckodeath"
 pagerSize: 5
 theme: PaperMod
 
@@ -15,7 +15,7 @@ params:
   title: Your Site Title
   description: "Le journal de Kurt Grava"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Kurt Grava
+  author: 
   customCSS:
     - css/custom.css
   DateFormat: "2 January 2006"
@@ -32,8 +32,8 @@ params:
       url: "<link2>"
 
   label:
-    icon: "/logo_header_ecko_7.png"
-    iconHeight: 40
+    icon: "/logo_header_ecko_6.png"
+    iconHeight: 150
   
   ShowReadingTime: false
   ShowShareButtons: false
