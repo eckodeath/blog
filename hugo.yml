@@ -32,7 +32,7 @@ params:
       url: "<link2>"
 
   label:
-    icon: "/logo_header_eckodeath_black.png"
+    icon: "/logo_header_e_black.png"
     iconHeight: 150
   
   ShowReadingTime: false
