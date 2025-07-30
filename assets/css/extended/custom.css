@@ -189,6 +189,14 @@ img {
   font-size: 1.2rem !important;
 }
 
+.first-entry {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 220px; /* nouvelle valeur ici */
+    margin: var(--gap) 0 calc(var(--gap) * 2);
+}
 a[title*="eckodeath"] {
   font-size: 0 !important;
 }
@@ -201,11 +209,4 @@ a[title*="eckodeath"] img {
 a[title*="eckodeath"]::after {
   content: "";
 }
-.first-entry {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 220px; /* nouvelle valeur ici */
-    margin: var(--gap) 0 calc(var(--gap) * 2);
-}
+

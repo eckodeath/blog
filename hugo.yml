@@ -32,8 +32,9 @@ params:
       url: "<link2>"
 
   label:
-    icon: "/logo_header_ecko_6.png"
+    icon: "/logo_header_eckodeath_black.png"
     iconHeight: 150
+
   
   ShowReadingTime: false
   ShowShareButtons: false
