@@ -1,5 +1,5 @@
 baseURL: "https://eckodeath.netlify.app/"
-title: "eckodeath"
+title: "eckodeath.fr"
 pagerSize: 5
 theme: PaperMod
 
@@ -32,8 +32,8 @@ params:
       url: "<link2>"
 
   label:
-    icon: "/logo_header_e_black.png"
-    iconHeight: 50
+    icon: "/logo_header_ecko.png"
+    iconHeight: 40
   
   ShowReadingTime: false
   ShowShareButtons: false

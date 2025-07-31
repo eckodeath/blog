@@ -197,16 +197,16 @@ img {
     min-height: 220px; /* nouvelle valeur ici */
     margin: var(--gap) 0 calc(var(--gap) * 2);
 }
-a[title*="eckodeath"] {
+
+a[title*="eckodeath.fr"] {
   font-size: 0 !important;
 }
 
-a[title*="eckodeath"] img {
+a[title*="eckodeath.fr"] img {
   height: 40px;
   vertical-align: middle;
 }
 
-a[title*="eckodeath"]::after {
+a[title*="eckodeath.fr"]::after {
   content: "";
 }
-
