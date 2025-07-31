@@ -20,7 +20,7 @@ params:
     - css/custom.css
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light, auto
-  disableThemeToggle: true
+  disableThemeToggle: false
   homeInfoParams:
     Title: Le journal de Kurt Grava
     Content: « Live by design, not by default » quote by Aaron Sansoni
