@@ -97,22 +97,18 @@ menu:
       name: Catégories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 30
+      weight: 20
     - identifier: search
-      name: "🔍"
+      name: "Ξ"
       url: /search/
-      weight: 50
+      weight: 40
     - identifier: about
       name: "À propos"
       url: /about/
-      weight: 40
+      weight: 30
 
 outputs:
   home:

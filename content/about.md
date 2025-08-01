@@ -20,7 +20,7 @@ draft: false
 
   </div>
   <div class="about-photo">
-    <img src="/images/about_profil.png" alt="Portrait de Kurt Grava" />
+    <img src="/images/about_profil_2.png" alt="Portrait de Kurt Grava" />
   </div>
 </section>
 
