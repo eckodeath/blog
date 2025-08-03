@@ -168,6 +168,14 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
 }
 </style>
 
+---
+
+Image seule centré à 80% de sa taille :
+
+<center>
+  <img src="/images/Instagram_roadtrip_edito pellicule.png" alt="Description" style="width: 80%;">
+</center>
+
 
 ------
 

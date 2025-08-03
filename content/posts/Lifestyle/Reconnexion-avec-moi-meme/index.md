@@ -2,7 +2,7 @@
 title: "Reconnexion avec moi-même : j’ai repris ma forme (et ma vie) en main"
 date: 2025-07-11
 draft: false
-tags: ["Santé", "lifestyle", "journal", "Health", "Alimentation", "Sport", "RingConn"]
+tags: ["Santé", "Lifestyle", "Journal", "Health", "Alimentation", "Sport", "RingConn"]
 categories: ["Journal"]
 summary: ""
 cover:

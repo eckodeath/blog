@@ -2,7 +2,7 @@
 title: "J’ai remplacé mon iPad Pro par un MacBook Air M4"
 date: 2025-07-06
 draft: false
-tags: ["achat", "lifestyle", "journal", "MacBook", "MacBookAir", "MacBookAirM4", "iPad", "iPadPro"]
+tags: ["Achat", "Lifestyle", "Journal", "MacBook", "MacBookAir", "MacBookAirM4", "iPad", "iPadPro"]
 categories: ["Journal"]
 summary: ""
 cover:

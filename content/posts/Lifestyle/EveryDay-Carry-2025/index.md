@@ -52,9 +52,6 @@ Accrochée au dos via les aimants MagSafe, je place **le porte-carte Apple offic
 </p>
 
 
-
-
-
 ### 🎧 AirPods Pro 2 
 
 Dans les transports, à la salle, au bureau ou en balade, les **AirPods Pro 2** sont mes compagnons audio de tous les jours. **La réduction active du bruit** est excellente, surtout dans les environnements bruyants, et **le mode Transparence** me permet de rester connecté à mon environnement quand il le faut.
