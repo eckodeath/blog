@@ -24,6 +24,10 @@ cover:
 
 <p style="text-align: justify;">La ligne directrice de notre voyage a été simpliste : <strong>en prendre pleins les yeux et profitez de ce temps pour se retrouver !</strong>
 
+<center>
+  <img src="/images/Instagram_roadtrip_edito pellicule.png" alt="Description" style="width: 80%;">
+</center>
+
 ------
 
 <p style="text-align: justify;">Cet édito me permet de vous laisser les liens vers la série d’articles qui m'ont permis de vous raconter en détail notre voyage à travers plusieurs articles afin de vous le faire vivre (et par la même occasion nous le faire revivre).
