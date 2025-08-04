@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Lifestyle on eckodeath.fr</title><link>http://localhost:1313/tags/lifestyle/</link><description>Recent content in Lifestyle on eckodeath.fr</description><generator>Hugo -- 0.148.1</generator><language>en</language><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/lifestyle/index.xml" rel="self" type="application/rss+xml"/><item><title>Reconnexion avec moi-même : j’ai repris ma forme (et ma vie) en main</title><link>http://localhost:1313/posts/lifestyle/reconnexion-avec-moi-meme/</link><pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/lifestyle/reconnexion-avec-moi-meme/</guid><description>&lt;p>&lt;em>Parfois, on avance en pilote automatique. On enchaîne les journées, les repas vite faits, les écrans, les nuits trop courtes. Jusqu’au moment où quelque chose sonne faux. Ce moment, je l’ai vécu…&lt;/em>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Lifestyle on eckodeath.fr</title><link>http://localhost:1313/tags/lifestyle/</link><description>Recent content in Lifestyle on eckodeath.fr</description><generator>Hugo -- 0.148.1</generator><language>en</language><lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/lifestyle/index.xml" rel="self" type="application/rss+xml"/><item><title>Mon matériel</title><link>http://localhost:1313/draft_mon_materiel/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/draft_mon_materiel/</guid><description>&lt;div class="materiel-grid">
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/iphone_16_pro_max_matos.png/" alt="iPhone 16 Pro Max">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/3TRxlOU" target="_blank">iPhone 16 Pro Max&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="https://via.placeholder.com/400" alt="">
+&lt;div class="card-content">
+&lt;a href="https://www.canon.fr/cameras/eos-r8/" target="_blank">Canon EOS R8&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/MacBook_Air_M4_matos.png/" alt="MacBook Air M4">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/4fk7itH" target="_blank">MacBook Air M4&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="materiel-grid">
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/MacBook_Air_M4_matos.png/" alt="">
+&lt;div class="card-content">
+&lt;a href="https://www.apple.com/fr/iphone-16-pro/" target="_blank">iPhone 16 Pro Max&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="https://via.placeholder.com/400" alt="Canon EOS R8">
+&lt;div class="card-content">
+&lt;a href="https://www.canon.fr/cameras/eos-r8/" target="_blank">Canon EOS R8&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="https://via.placeholder.com/400" alt="GoPro Hero12">
+&lt;div class="card-content">
+&lt;a href="https://gopro.com/fr/fr/shop/cameras/hero12-black/CHDHX-121-master.html" target="_blank">GoPro Hero12&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;style>
+.materiel-grid {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+gap: 1.5rem;
+margin-top: 2rem;
+}
+.card {
+background-color: white;
+border-radius: 12px;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+overflow: hidden;
+aspect-ratio: 1 / 1;
+display: flex;
+flex-direction: column;
+text-align: center;
+transition: transform 0.2s ease;
+}
+.card:hover {
+transform: translateY(-4px);
+}
+.card img {
+width: 100%;
+height: auto;
+object-fit: cover;
+flex-grow: 1;
+}
+.card-content {
+padding: 1rem;
+}
+.card-content a {
+text-decoration: none;
+color: #0077cc;
+font-weight: bold;
+font-size: 1rem;
+display: inline-block;
+}
+&lt;/style></description></item><item><title>Reconnexion avec moi-même : j’ai repris ma forme (et ma vie) en main</title><link>http://localhost:1313/posts/lifestyle/reconnexion-avec-moi-meme/</link><pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/lifestyle/reconnexion-avec-moi-meme/</guid><description>&lt;p>&lt;em>Parfois, on avance en pilote automatique. On enchaîne les journées, les repas vite faits, les écrans, les nuits trop courtes. Jusqu’au moment où quelque chose sonne faux. Ce moment, je l’ai vécu…&lt;/em>&lt;/p>
 &lt;p>Il y a quelques mois, j’ai pris une décision simple, mais radicale : &lt;strong>me reconnecter avec moi-même&lt;/strong>.
 Pas en bouleversant toute ma vie, mais simplement en posant trois fondations solides :&lt;/p>
 &lt;ul>

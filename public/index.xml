@@ -45,4 +45,32 @@ Pas en bouleversant toute ma vie, mais simplement en posant trois fondations sol
 &lt;p style="text-align: justify;">Cet édito me permet de vous laisser les liens vers la série d’articles qui m'ont permis de vous raconter en détail notre voyage à travers plusieurs articles afin de vous le faire vivre (et par la même occasion nous le faire revivre).
 &lt;p style="text-align: justify;">J’ai fait le choix de vous raconter ce voyage sous forme d’articles séparés en fonction des différents lieux visités et/ou étapes du voyage. Au vu de la durée de notre voyage et de l’ensemble des choses que j’ai à raconter, il m’aurait été impossible de tout partager dans un seul billet de blog (vous l'avez bien compris je pense).
 &lt;p style="text-align: justify;">J'ai rédigé 10 articles en tout sur les 13 qui étaient prévus initialement mais le temps est passé et je n'ai jamais trouvé le temps/l'envie d'écrire les articles manquants.
-&lt;p>Le récit intégral du voyage est donc décliné sous cette forme dans mon espace Medium :&lt;/p></description></item></channel></rss>
+&lt;p>Le récit intégral du voyage est donc décliné sous cette forme dans mon espace Medium :&lt;/p></description></item><item><title/><link>http://localhost:1313/materiel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/materiel/</guid><description>&lt;h1 id="mon-matériel">Mon matériel&lt;/h1>
+&lt;div class="materiel-grid">
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/iphone_16_pro_max_matos.png/" alt="iPhone 16 Pro Max">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/3TRxlOU" target="_blank">iPhone 16 Pro Max&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="https://via.placeholder.com/400" alt="">
+&lt;div class="card-content">
+&lt;a href="https://www.canon.fr/cameras/eos-r8/" target="_blank">Canon EOS R8&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/MacBook_Air_M4_matos.png/" alt="MacBook Air M4">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/4fk7itH" target="_blank">MacBook Air M4&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="materiel-grid">
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/ipad_pro_2017_matos.png/" alt="">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/3GTgqcc" target="_blank">iPad Pro - 2017&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

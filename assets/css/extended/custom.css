@@ -210,3 +210,59 @@ a[title*="eckodeath.fr"] img {
 a[title*="eckodeath.fr"]::after {
   content: "";
 }
+
+.materiel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.card {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  flex-grow: 1;
+}
+
+.card-content {
+  padding: 1rem;
+}
+
+.card-content a {
+  text-decoration: none;
+  color: #0077cc;
+  font-weight: bold;
+  font-size: 1rem;
+  display: inline-block;
+}
+
+.materiel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  justify-items: center; /* Centrer les cartes dans la grille */
+}
+
+/* Empêche une seule carte de s'étirer si seule dans la grille */
+.materiel-grid .card {
+  width: 100%;
+  max-width: 224px;
+}

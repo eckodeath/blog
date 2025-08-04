@@ -1,6 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Journal on eckodeath.fr</title><link>http://localhost:1313/categories/journal/</link><description>Recent content in Journal on eckodeath.fr</description><generator>Hugo -- 0.148.1</generator><language>en</language><lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/journal/index.xml" rel="self" type="application/rss+xml"/><item><title>Les accessoires indispensables pour mon MacBook Air M4</title><link>http://localhost:1313/posts/lifestyle/les-accessoires-indispensables-pour-mon-macbook-air/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/lifestyle/les-accessoires-indispensables-pour-mon-macbook-air/</guid><description>&lt;p>Depuis que j&amp;rsquo;ai mon MacBook Air M4 je me suis rendu compte qu&amp;rsquo;il est bien plus qu&amp;rsquo;un simple ordinateur : c&amp;rsquo;est mon poste de travail mobile, mon studio créatif et mon compagnon de voyage. Pour en tirer le meilleur, j&amp;rsquo;utilise une sélection d&amp;rsquo;accessoires que je trouve indispensable permettant à la fois de le protéger, d&amp;rsquo;optimiser et de fluidifier son usage au quotidien.&lt;/p>
-&lt;h3 id="1-une-coque-de-protection-fine-etsolide">1. Une coque de protection fine et solide&lt;/h3>
-&lt;p>J&amp;rsquo;ai opté pour une coque rigide en polycarbonate, de la même couleur que mon MacBook (à savoir bleu minuit), qui reste en place tout le temps. Elle protège contre les rayures, les petits chocs, et donne une bonne prise en main sans cacher le design du MacBook. J&amp;rsquo;ai choisit le modèle de marque Tecool qui s&amp;rsquo;adapte parfaitement à mon Air M4.&lt;/p></description></item><item><title>EveryDay Carry 2025 - édition « au quotidien »</title><link>http://localhost:1313/posts/lifestyle/everyday-carry-2025/</link><pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/lifestyle/everyday-carry-2025/</guid><description>&lt;p>J&amp;rsquo;ai toujours eu une vraie passion pour ces petites choses du quotidien qui, mises ensemble, racontent notre manière de vivre, de bouger, de penser. &lt;strong>J&amp;rsquo;adore observer, photographier et partager ces objets qui m&amp;rsquo;accompagnent jour après jour&lt;/strong> - parce qu&amp;rsquo;ils sont bien plus que de simples accessoires : ce sont des outils choisis, pensés, optimisés.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Journal on eckodeath.fr</title><link>http://localhost:1313/categories/journal/</link><description>Recent content in Journal on eckodeath.fr</description><generator>Hugo -- 0.148.1</generator><language>en</language><lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/journal/index.xml" rel="self" type="application/rss+xml"/><item><title>Mon matériel</title><link>http://localhost:1313/draft_mon_materiel/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/draft_mon_materiel/</guid><description>&lt;div class="materiel-grid">
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/iphone_16_pro_max_matos.png/" alt="iPhone 16 Pro Max">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/3TRxlOU" target="_blank">iPhone 16 Pro Max&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="https://via.placeholder.com/400" alt="">
+&lt;div class="card-content">
+&lt;a href="https://www.canon.fr/cameras/eos-r8/" target="_blank">Canon EOS R8&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/MacBook_Air_M4_matos.png/" alt="MacBook Air M4">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/4fk7itH" target="_blank">MacBook Air M4&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="materiel-grid">
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/MacBook_Air_M4_matos.png/" alt="">
+&lt;div class="card-content">
+&lt;a href="https://www.apple.com/fr/iphone-16-pro/" target="_blank">iPhone 16 Pro Max&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="https://via.placeholder.com/400" alt="Canon EOS R8">
+&lt;div class="card-content">
+&lt;a href="https://www.canon.fr/cameras/eos-r8/" target="_blank">Canon EOS R8&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="https://via.placeholder.com/400" alt="GoPro Hero12">
+&lt;div class="card-content">
+&lt;a href="https://gopro.com/fr/fr/shop/cameras/hero12-black/CHDHX-121-master.html" target="_blank">GoPro Hero12&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;style>
+.materiel-grid {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+gap: 1.5rem;
+margin-top: 2rem;
+}
+.card {
+background-color: white;
+border-radius: 12px;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+overflow: hidden;
+aspect-ratio: 1 / 1;
+display: flex;
+flex-direction: column;
+text-align: center;
+transition: transform 0.2s ease;
+}
+.card:hover {
+transform: translateY(-4px);
+}
+.card img {
+width: 100%;
+height: auto;
+object-fit: cover;
+flex-grow: 1;
+}
+.card-content {
+padding: 1rem;
+}
+.card-content a {
+text-decoration: none;
+color: #0077cc;
+font-weight: bold;
+font-size: 1rem;
+display: inline-block;
+}
+&lt;/style></description></item><item><title>EveryDay Carry 2025 - édition « au quotidien »</title><link>http://localhost:1313/posts/lifestyle/everyday-carry-2025/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/lifestyle/everyday-carry-2025/</guid><description>&lt;p>J&amp;rsquo;ai toujours eu une vraie passion pour ces petites choses du quotidien qui, mises ensemble, racontent notre manière de vivre, de bouger, de penser. &lt;strong>J&amp;rsquo;adore observer, photographier et partager ces objets qui m&amp;rsquo;accompagnent jour après jour&lt;/strong> - parce qu&amp;rsquo;ils sont bien plus que de simples accessoires : ce sont des outils choisis, pensés, optimisés.&lt;/p>
 &lt;p>Dans le monde de l&amp;rsquo;&lt;strong>EDC (EveryDay Carry)&lt;/strong>, chaque objet que l&amp;rsquo;on choisit de porter sur soi au quotidien a une raison d&amp;rsquo;être. Ce ne sont pas de simples gadgets, mais de véritables &lt;strong>extensions de notre personnalité, de notre rythme de vie et de nos besoins.&lt;/strong>&lt;/p></description></item><item><title>Eckodeath est de retour avec son propre nom de domaine</title><link>http://localhost:1313/posts/eckodeath_est_de_retour/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/eckodeath_est_de_retour/</guid><description>Après quelques semaines sur Medium, je reviens à l&amp;rsquo;essentiel : écrire librement, sur un site qui m&amp;rsquo;appartient vraiment. Grâce à Hugo, GitHub et Netlify, je reprends le contrôle sur mon blog eckodeath.fr.</description></item><item><title>Reconnexion avec moi-même : j’ai repris ma forme (et ma vie) en main</title><link>http://localhost:1313/posts/lifestyle/reconnexion-avec-moi-meme/</link><pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/lifestyle/reconnexion-avec-moi-meme/</guid><description>&lt;p>&lt;em>Parfois, on avance en pilote automatique. On enchaîne les journées, les repas vite faits, les écrans, les nuits trop courtes. Jusqu’au moment où quelque chose sonne faux. Ce moment, je l’ai vécu…&lt;/em>&lt;/p>
 &lt;p>Il y a quelques mois, j’ai pris une décision simple, mais radicale : &lt;strong>me reconnecter avec moi-même&lt;/strong>.
 Pas en bouleversant toute ma vie, mais simplement en posant trois fondations solides :&lt;/p>
