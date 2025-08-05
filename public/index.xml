@@ -54,9 +54,9 @@ Pas en bouleversant toute ma vie, mais simplement en posant trois fondations sol
 &lt;/div>
 &lt;/div>
 &lt;div class="card">
-&lt;img src="https://via.placeholder.com/400" alt="">
+&lt;img src="http://localhost:1313/images/materiel/AirPods_Pro_2_matos.png/" alt="AirPods Pro 2">
 &lt;div class="card-content">
-&lt;a href="https://www.canon.fr/cameras/eos-r8/" target="_blank">Canon EOS R8&lt;/a>
+&lt;a href="https://amzn.to/45JWXVk" target="_blank">AirPods Pro 2&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;div class="card">
@@ -65,12 +65,58 @@ Pas en bouleversant toute ma vie, mais simplement en posant trois fondations sol
 &lt;a href="https://amzn.to/4fk7itH" target="_blank">MacBook Air M4&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;/div>
-&lt;div class="materiel-grid">
 &lt;div class="card">
-&lt;img src="http://localhost:1313/images/materiel/ipad_pro_2017_matos.png/" alt="">
+&lt;img src="http://localhost:1313/images/materiel/ipad_pro_2017_matos.png/" alt="iPad Pro - 2017">
 &lt;div class="card-content">
 &lt;a href="https://amzn.to/3GTgqcc" target="_blank">iPad Pro - 2017&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/Lexar_ES5_matos.png/" alt="Lexar ES5">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/4lccDoi" target="_blank">Lexar ES5&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/apple_watch_series_7_matos.png/" alt="Apple Watch Series 7">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/4eNetdT" target="_blank">Apple Watch Series 7&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/sony_nex_5r_matos.png/" alt="Sony Nex 5R">
+&lt;div class="card-content">
+&lt;a href="" target="_blank">Sony Nex 5R&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/sony_16_50_matos.png/" alt="Objectif Sony 16-50mm">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/3ISPdab" target="_blank">Sony 16-50mm F3.5-5.6&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/sony_55_210_matos.png/" alt="Objectif Sony 55-210mm">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/4mLRR07" target="_blank">Sony 55-210mm F4.5-6.3&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/ringconn_gen2_matos.png/" alt="RingConn Gen 2">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/4luMrFM" target="_blank">RingConn Gen 2&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/smallrig_ct10_matos.png/" alt="Trépied SmallRig CT-10">
+&lt;div class="card-content">
+&lt;a href="https://amzn.to/3Hk3Vq1" target="_blank">Trépied SmallRig CT-10&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="card">
+&lt;img src="http://localhost:1313/images/materiel/quechua_nh_900_matos.png/" alt="Quechua NH900 Explore">
+&lt;div class="card-content">
+&lt;a href="https://www.decathlon.fr/p/sac-a-dos-appareil-photo-randonnee-30l-nh-explorer-900-focus/_/R-p-344239" target="_blank">Quechua NH900 Explore&lt;/a>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item></channel></rss>

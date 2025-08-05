@@ -266,3 +266,44 @@ a[title*="eckodeath.fr"]::after {
   width: 100%;
   max-width: 224px;
 }
+
+.text-left-image-right {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.text-left-image-right .text-block {
+  flex: 1 1 45%;
+  max-width: 600px;
+}
+
+.text-left-image-right .image-block {
+  flex: 1 1 50%;
+}
+
+.text-left-image-right .image-block img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .text-left-image-right {
+    flex-direction: column;
+  }
+}
+
+.text-left-image-right.reverse {
+  flex-direction: row-reverse;
+}
+
+@media (max-width: 768px) {
+  .text-left-image-right.reverse {
+    flex-direction: column;
+  }
+}

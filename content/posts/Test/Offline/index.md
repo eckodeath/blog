@@ -120,55 +120,36 @@ Ceci est une page test - pensez à mettre le fichier en draft à la fin
 
 ### Texte à gauche et photo à droite :
 
-<section class="text-image-section">
-  <div class="content">
+<section class="text-left-image-right">
+  <div class="text-block">
     <h2>Mon titre accrocheur</h2>
     <p>
-      Voici un paragraphe de texte pour présenter une idée, une expérience ou un produit.
-      Ce bloc se trouve à gauche, pendant que l’image est à droite.
-    </p>
-    <p>
-      Tu peux y ajouter autant de texte que tu veux. Ce format est idéal pour des pages "À propos", "Projet", ou "Voyage".
+    Voici un paragraphe de texte pour présenter une idée, une expérience ou un produit.</p>
+    <p>Tu peux y ajouter autant de texte que tu veux.
     </p>
   </div>
-  <div class="image">
-    <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_5-min.jpg" alt="Photo illustrative" />
+  <div class="image-block">
+    <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_5-min.jpg" alt="Paysage norvégien" />
   </div>
 </section>
 
-<style>
-.text-image-section {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 2rem;
-  margin: 2rem 0;
-}
 
-.text-image-section .content {
-  flex: 1 1 50%;
-}
+### Texte à droite et photo à gauche :
 
-.text-image-section .image {
-  flex: 1 1 40%;
-}
+<section class="text-left-image-right reverse">
+  <div class="text-block">
+    <h2>Un autre titre</h2>
+    <p>
+      Ce texte apparaîtra à droite de l’image sur les grands écrans.
+    </p>
+  </div>
+  <div class="image-block">
+    <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_5-min.jpg" alt="Image illustrant le texte" />
+  </div>
+</section>
 
-.text-image-section img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
 
-/* Responsive pour les petits écrans */
-@media (max-width: 768px) {
-  .text-image-section {
-    flex-direction: column;
-  }
-}
-</style>
-
----
+------
 
 Image seule centré à 80% de sa taille :
 
@@ -219,4 +200,53 @@ Image seule centré à 80% de sa taille :
   </p>
 {{< /rawhtml >}}
 
+### Texte à gauche et photo à droite :
+
+<section class="text-image-section">
+  <div class="content">
+    <h2>Mon titre accrocheur</h2>
+    <p>
+      Voici un paragraphe de texte pour présenter une idée, une expérience ou un produit.
+      Ce bloc se trouve à gauche, pendant que l’image est à droite.
+    </p>
+    <p>
+      Tu peux y ajouter autant de texte que tu veux. Ce format est idéal pour des pages "À propos", "Projet", ou "Voyage".
+    </p>
+  </div>
+  <div class="image">
+    <img src="/posts/voyages/norway-part-1/Norway_Part_1_Blog_5-min.jpg" alt="Photo illustrative" />
+  </div>
+</section>
+
+<style>
+.text-image-section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.text-image-section .content {
+  flex: 1 1 50%;
+}
+
+.text-image-section .image {
+  flex: 1 1 40%;
+}
+
+.text-image-section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Responsive pour les petits écrans */
+@media (max-width: 768px) {
+  .text-image-section {
+    flex-direction: column;
+  }
+}
+</style>
 
