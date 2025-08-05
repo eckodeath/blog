@@ -131,6 +131,78 @@ Conseils pratiques — Sentier des Ocres
 * 👟 Équipement : chaussures fermées recommandées (l’ocre tache), chapeau, eau
 * 📸 Astuces photo : lumière idéale le matin ou en fin de journée pour sublimer les couleurs
 
+<div class="medium-wide-image side-by-side-ratio">
+  <figure class="vertical">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_2.jpg" alt="Verticale">
+  </figure>
+  <figure class="horizontal">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_1.jpg" alt="Horizontale">
+  </figure>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_3.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_4.jpg" alt="Photo 4">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image side-by-side-ratio">
+  <figure class="vertical">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_6.jpg" alt="Verticale">
+  </figure>
+  <figure class="horizontal">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_7.jpg" alt="Horizontale">
+  </figure>
+</div>
+
+<div class="medium-wide-image side-by-side-ratio">
+  <figure class="vertical">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_10.jpg" alt="Verticale">
+  </figure>
+  <figure class="horizontal">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_8.jpg" alt="Horizontale">
+  </figure>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_13.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image side-by-side-ratio">
+  <figure class="vertical">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_11.jpg" alt="Verticale">
+  </figure>
+  <figure class="horizontal">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_14.jpg" alt="Horizontale">
+  </figure>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_16.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image side-by-side-ratio">
+  <figure class="vertical">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_17.jpg" alt="Verticale">
+  </figure>
+  <figure class="horizontal">
+    <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_15.jpg" alt="Horizontale">
+  </figure>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_18.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/photographie/mont_ventoux_roussillon/le_sentier_des_ocres_19.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
 ### L’histoire derrière les paysages
 
 Le Mont Ventoux est une montagne qui a marqué l’histoire. En 1336, le poète italien Pétrarque entreprend son ascension — non pas par nécessité, mais par curiosité. Il veut « voir ce que l’on voit du sommet ». Ce geste, inédit pour l’époque, est considéré par certains comme l’acte fondateur de l’alpinisme moderne.
