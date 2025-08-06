@@ -30,27 +30,30 @@ Pour le protéger, j'ai opté pour la coque **Elago Magnetic Leather**, en cuir 
 
 Accrochée au dos via les aimants MagSafe, je place **le porte-carte Apple officiel**. Il accueille deux cartes essentielles : ma carte bancaire et mon permis de conduire. Idéal pour sortir sans portefeuille.
 
-<div class="medium-wide-image">
-  <div class="side-by-side">
-    <figure>
-      <a href="https://amzn.to/3TRxlOU" target="_blank" rel="noopener">
-        <img src="/posts/lifestyle/everyday-carry-2025/iphone_16_pro_max_presentation.png" alt="Photo 1">
-      </a>
-    </figure>
-    <figure>
-      <a href="https://amzn.to/4eoQ3qA" target="_blank" rel="noopener">
-        <img src="/posts/lifestyle/everyday-carry-2025/elago_coque_presentation.png" alt="Photo 2">
-      </a>
-    </figure>
+<div class="materiel-grid">
+  <div class="card">
+    <img src="/images/materiel/iphone_16_pro_max_matos.png" alt="iPhone 16 Pro Max">
+    <div class="card-content">
+      <a href="https://amzn.to/3TRxlOU" target="_blank">iPhone 16 Pro Max</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/materiel/Elago_coque_matos.png" alt="Coque Elago">
+    <div class="card-content">
+      <a href="https://amzn.to/4eoQ3qA" target="_blank">Coque Elago en cuir</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/materiel/porte_cartes_magsafe_matos.png" alt="Porte-cartes Magsafe">
+    <div class="card-content">
+      <a href="https://amzn.to/449FJQ0" target="_blank">Porte-cartes Magsafe</a>
+    </div>
   </div>
 </div>
 
-<p align="center">
-  <a href="https://amzn.to/449FJQ0" target="_blank" rel="noopener">
-    <img src="/posts/lifestyle/everyday-carry-2025/porte_cartes_apple_presentation.png" alt="Image centrée et cliquable">
-  </a>
-</p>
-
+<BR>
 
 ### 🎧 AirPods Pro 2 
 
@@ -58,12 +61,16 @@ Dans les transports, à la salle, au bureau ou en balade, les **AirPods Pro 2** 
 
 Le confort est impeccable, même sur de longues sessions d'écoute, et l'intégration avec l'écosystème Apple rend leur utilisation totalement fluide : je passe de l'iPhone au Mac ou à l'iPad en un clin d'œil.
 
-<p align="center">
-  <a href="https://amzn.to/45JWXVk" target="_blank" rel="noopener">
-    <img src="/posts/lifestyle/everyday-carry-2025/apple_airpods_pro_2_presentation.png" alt="Image centrée et cliquable">
-  </a>
-</p>
+<div class="materiel-grid">
+  <div class="card">
+    <img src="/images/materiel/AirPods_Pro_2_matos.png" alt="AirPods Pro 2">
+    <div class="card-content">
+      <a href="https://amzn.to/45JWXVk" target="_blank">AirPods Pro 2</a>
+    </div>
+  </div>
+</div>
 
+<BR>
 
 ### 🚗 Clé de ma voiture
 
@@ -81,11 +88,16 @@ Ce petit accessoire est un héros méconnu de mon EDC. Le **InCharge X** est un 
 
 Il me sauve régulièrement la mise en déplacement, surtout quand je ne peux pas prévoir qui aura besoin d'un câble et pour quel appareil. Léger, magnétique et toujours à portée de main.
 
-<p align="center">
-  <a href="https://amzn.to/447oOgS" target="_blank" rel="noopener">
-    <img src="/posts/lifestyle/everyday-carry-2025/Rolling_Square_inCharge_X_presentation.png" alt="Image centrée et cliquable">
-  </a>
-</p>
+<div class="materiel-grid">
+  <div class="card">
+    <img src="/images/materiel/cable_incharge_matos.png" alt="Rolling Square InCharge X">
+    <div class="card-content">
+      <a href="https://amzn.to/447oOgS" target="_blank">Rolling Square  InCharge X</a>
+    </div>
+  </div>
+</div>
+
+<BR>
 
 ### ⌚ Apple Watch Series 7 avec sa coque bumper RhinoShield 
 
@@ -95,20 +107,23 @@ Dès le premier jour, je l'ai protégée avec une coque **bumper de chez RhinoSh
 
 J'ai hésité à passer à la Series 10 ou à la Ultra, mais la 7 reste largement suffisante pour mon usage quotidien. Elle est rapide, fiable, bien protégée, et s'intègre parfaitement dans mon environnement Apple.
 
-<div class="medium-wide-image">
-  <div class="side-by-side">
-    <figure>
-      <a href="https://amzn.to/4eNetdT" target="_blank" rel="noopener">
-        <img src="/posts/lifestyle/everyday-carry-2025/Apple_Watch_Series_7_presentation.png" alt="Photo 1">
-      </a>
-    </figure>
-    <figure>
-      <a href="https://amzn.to/44hnRRO" target="_blank" rel="noopener">
-        <img src="/posts/lifestyle/everyday-carry-2025/RHINOSHIELD_CrashGuard_NX_presentation.png" alt="Photo 2">
-      </a>
-    </figure>
+<div class="materiel-grid">
+  <div class="card">
+    <img src="/images/materiel/apple_watch_series_7_matos.png" alt="Apple Watch Series 7">
+    <div class="card-content">
+      <a href="https://amzn.to/4eNetdT" target="_blank">Apple Watch Series 7</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/materiel/RHINOSHIELD_CrashGuard_NX_matos.png" alt="Rhinoshield CrashGuard NX">
+    <div class="card-content">
+      <a href="https://amzn.to/44hnRRO" target="_blank">Rhinoshield CrashGuard NX</a>
+    </div>
   </div>
 </div>
+
+<BR>
 
 ### 🧿 RingConn Gen 2 
 
@@ -116,11 +131,16 @@ La bague connectée **RingConn Gen 2** est la dernière arrivée dans mon EDC et
 
 Les données sont synchronisées automatiquement avec l'application dédiée, claire et bien pensée. C'est une excellente alternative ou un complément à mon Apple Watch, surtout pour les périodes de repos.
 
-<p align="center">
-  <a href="https://amzn.to/4luMrFM" target="_blank" rel="noopener">
-    <img src="/posts/lifestyle/everyday-carry-2025/ringconn_gen_2_presentation.png" alt="Image centrée et cliquable">
-  </a>
-</p>
+<div class="materiel-grid">
+  <div class="card">
+    <img src="/images/materiel/ringconn_gen2_matos.png" alt="RingConn Gen 2">
+    <div class="card-content">
+      <a href="https://amzn.to/4luMrFM" target="_blank">RingConn Gen 2</a>
+    </div>
+  </div>
+</div>
+
+<BR>
 
 ### 🧳 Conclusion
 
