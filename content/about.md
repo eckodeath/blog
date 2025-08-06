@@ -68,16 +68,6 @@ Eckodeath.fr est un site web statique créé avec <a href="https://gohugo.io/" t
 
 ## <p style="text-align: center;"> Mes réseaux sociaux
 
-<section class="instagram-widget">
-  <iframe src="//lightwidget.com/widgets/ca36439539b85815bc784e871cac7051.html"
-          scrolling="no"
-          allowtransparency="true"
-          class="lightwidget-widget"
-          style="width:100%;border:0;overflow:hidden;height:300px;"></iframe>
-</section>
-
-<BR>
-
 <p>
       Merci de suivre mes aventures sur <strong>eckodeath.fr</strong>. Si vous souhaitez me suivre sur les divers réseaux sociaux que j’utilise, je vous laisse le lien vers ma page personnelle : <a href="https://eckodeath.carrd.co" target="_blank">eckodeath.carrd.co</a>
 </p>
