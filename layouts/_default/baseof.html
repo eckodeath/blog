@@ -1,0 +1,103 @@
+{{- if lt hugo.Version "0.146.0" }}
+{{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build " }}
+{{- end -}}
+
+<!DOCTYPE html>
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
+
+<head>
+    {{- partial "head.html" . }}
+</head>
+
+<body class="
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
+{{- print "list" -}}
+{{- end -}}
+{{- if eq site.Params.defaultTheme `dark` -}}
+{{- print " dark" }}
+{{- end -}}
+" id="top">
+    {{- partialCached "header.html" . .Page -}}
+    <main class="main">
+        {{- block "main" . }}{{ end }}
+    </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const images = Array.from(document.querySelectorAll('.post-content img'));
+  let currentIndex = -1;
+
+  // Crée les éléments HTML
+  const overlay = document.createElement('div');
+  overlay.classList.add('lightbox-overlay');
+
+  const img = document.createElement('img');
+  const arrowPrev = document.createElement('div');
+  const arrowNext = document.createElement('div');
+
+  arrowPrev.classList.add('lightbox-arrow', 'prev');
+  arrowNext.classList.add('lightbox-arrow', 'next');
+
+  arrowPrev.innerHTML = '&#10094;'; // ←
+  arrowNext.innerHTML = '&#10095;'; // →
+
+  overlay.appendChild(arrowPrev);
+  overlay.appendChild(img);
+  overlay.appendChild(arrowNext);
+  document.body.appendChild(overlay);
+
+  function showImage(index) {
+    if (index >= 0 && index < images.length) {
+      currentIndex = index;
+      img.src = images[currentIndex].src;
+      overlay.classList.add('active');
+    }
+  }
+
+  images.forEach((image, index) => {
+    image.style.cursor = 'zoom-in';
+    image.addEventListener('click', () => {
+      showImage(index);
+    });
+  });
+
+  function closeLightbox() {
+    overlay.classList.remove('active');
+    currentIndex = -1;
+  }
+
+  function showNext() {
+    if (currentIndex < images.length - 1) {
+      showImage(currentIndex + 1);
+    }
+  }
+
+  function showPrev() {
+    if (currentIndex > 0) {
+      showImage(currentIndex - 1);
+    }
+  }
+
+  arrowNext.addEventListener('click', showNext);
+  arrowPrev.addEventListener('click', showPrev);
+  overlay.addEventListener('click', e => {
+    if (e.target === overlay || e.target === img) {
+      closeLightbox();
+    }
+  });
+
+  // Navigation clavier
+  document.addEventListener('keydown', e => {
+    if (!overlay.classList.contains('active')) return;
+    if (e.key === 'ArrowRight') showNext();
+    if (e.key === 'ArrowLeft') showPrev();
+    if (e.key === 'Escape') closeLightbox();
+  });
+});
+</script>
+
+
+</body>
+
+</html>
