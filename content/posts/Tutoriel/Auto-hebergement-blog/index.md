@@ -1,7 +1,7 @@
 ---
-title: "Les étapes de migration vers un blog auto-hébergé"
-date: 2025-08-02
-draft: true
+title: "Les étapes de ma migration vers un blog auto-hébergé"
+date: 2025-08-08
+draft: false
 tags: ["Blog", "Hugo", "Netlify", "GitHub", "Indépendance"]
 categories: ["Tutoriel"]
 summary: ""
@@ -14,14 +14,16 @@ cover:
 
 ### Pourquoi j'ai quitté Medium ?
 
-Après plusieurs années à publier mes articles de voyage et autres sur Medium, j'ai commencé à ressentir les limites de la plateforme :
+Après plusieurs semaines à publier mes articles de voyage et autres sur Medium, j'ai commencé à très rapidement ressentir les limites de la plateforme :
 
 * Peu de contrôle sur la mise en page
 * SEO limité et URL peu personnalisables
 * Fonctionnalités verrouillées derrière un paywall
 * Difficulté à intégrer des composants modernes (carrousels, galeries, scripts, etc.)
 
-En 2025, j'ai pris la décision de migrer vers un blog **auto-hébergé** basé sur **Hugo**, **Netlify**, et **GitHub**. Mon objectif est simple : retrouver la maîtrise totale de mes contenus, du design et du déploiement.
+Du coup, j'ai pris la décision de migrer vers un blog **auto-hébergé** basé sur **Hugo**, **Netlify**, et **GitHub**. 
+
+Mon objectif est simple : retrouver la maîtrise totale de mes contenus, du design et du déploiement tout en apprenant de nouvelles choses comme le codage (et je m'éclate).
 
 J'en ai parlé plus en détail dans l'article : <a href="https://eckodeath.netlify.app/posts/eckodeath_est_de_retour/" target="_blank">Eckodeath est de retour avec son propre nom de domaine</a>. N'hésitez pas à aller le lire.
 
@@ -122,7 +124,7 @@ git push -u origin main
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.111.3"
+  HUGO_VERSION = "0.148.1"
 ```
 
 ---
@@ -143,3 +145,5 @@ Passer à un blog auto-hébergé avec Hugo demande un peu de mise en place, mais
 Je recommande vivement cette solution à tout blogueur technique ou indépendant qui veut reprendre la main sur ses contenus.
 
 <p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
+
+> **Post scriptum :** mon apprentissage du code est en perpétuelle évolution (en même temps jepars de zéro donc c'est pas trop compliqué) ce qui fait que les fonctionnalités du blog avance à vitesse grand V...
