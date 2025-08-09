@@ -59,4 +59,4 @@ A la suite des ces expérimentations dans mon jardin, nous avons décidé de pre
 
 **Et vous, avez-vous déjà tenté de photographier le ciel avec votre smartphone ? N’hésitez pas à partager avec moi vos essais ou vos conseils.**
 
-> **Post sciptum :** Les photos présentes dans cet articles ont été prises à différentes heures de la nuit et à plusieurs nuits d'intervalles.
+> **Post sciptum :** Les photos présentes dans cet article ont été prises à différentes heures de la nuit et à plusieurs nuits d'intervalles.

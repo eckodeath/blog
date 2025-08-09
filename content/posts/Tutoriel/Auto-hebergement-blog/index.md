@@ -4,7 +4,7 @@ date: 2025-08-08
 draft: false
 tags: ["Blog", "Hugo", "Netlify", "GitHub", "Indépendance"]
 categories: ["Tutoriel"]
-summary: ""
+summary: "Après plusieurs semaines à publier mes articles de voyage et autres sur Medium, j'ai commencé à très rapidement ressentir les limites de la plateforme..."
 cover:
     image: ""
     alt: ""
@@ -29,7 +29,7 @@ J'en ai parlé plus en détail dans l'article : <a href="https://eckodeath.netli
 
 ---
 
-### Outils utilisés
+### Voilà les outils que j'ai décidé d'utiliser
 
 En faisant mes recherches de liberté sur la toile, je suis tombé sur plusieurs vidéos Youtube et mon choix s'est porté sur ces outils : 
 
