@@ -2,7 +2,7 @@
 title: "J'ai décidé de quitter Chrome pour Firefox"
 date: 2025-08-02
 draft: true
-tags: ["iPhone", "Test", "iPhone 16", "iPhone 16 Pro", "iPhone 16 Pro Max"]
+tags: ["Web", "Indépendance", "Présentation", "Firefox", "Navigateur", "Chrome"]
 categories: ["Journal"]
 summary: ""
 cover:
@@ -12,10 +12,8 @@ cover:
     relative: false
 ---
 
-# Édito – Pourquoi j’ai quitté Chrome pour Firefox : Confidentialité, liberté… et compromis
-
 Après plus de dix ans à utiliser Google Chrome, j’ai décidé de tourner la page.  
-Mon nouveau compagnon de navigation s’appelle **Mozilla Firefox**, et ce changement n’est pas juste une lubie technique. C’est un choix réfléchi, guidé par un besoin croissant de protéger ma vie numérique, mais aussi d’encourager un web plus libre.
+Mon nouveau compagnon de navigation s’appelle **Mozilla Firefox** et ce changement n’est pas juste une lubie technique. C’est un choix réfléchi, guidé par un besoin croissant de protéger ma vie numérique mais aussi d’encourager un web plus libre.
 
 ## Pourquoi quitter Chrome ?
 Chrome est un navigateur performant, rapide, et incroyablement bien intégré à l’écosystème Google. Mais cette intégration a un prix : **nos données personnelles**.  
@@ -62,4 +60,4 @@ Firefox, c’est l’alternative qui coche plusieurs cases :
 
 ---
 
-**Pour conclure**** : Chrome reste roi de la performance brute et de l’intégration Google, mais Firefox brille par sa philosophie, son respect de la vie privée, sa flexibilité et sa meilleure optimisation sur macOS. C’est une question de priorités… et pour moi, la confidentialité l’a emporté.
+**Pour conclure** : Chrome reste roi de la performance brute et de l’intégration Google, mais Firefox brille par sa philosophie, son respect de la vie privée, sa flexibilité et sa meilleure optimisation sur macOS. C’est une question de priorités… et pour moi, la confidentialité l’a emporté.

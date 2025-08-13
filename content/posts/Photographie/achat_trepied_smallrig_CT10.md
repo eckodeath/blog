@@ -32,7 +32,7 @@ Tout d'abord, parce qu’il est **léger**, **compact**, **bien conçu** et surt
 
 Un détail pour certains, mais un vrai confort pour moi : je peux prendre mon hybride en main rapidement lorsqu'il est positionné sur la sangle avant de mon sac à dos, le poser sur le trépied et lorsque j'ai finit le dégager rapidement et le refixer sur mon épaule. L'autre confort est de pouvoir basculer de la photo à l’hybride à la photo mobile  **sans changer de montage**, ça change tout.
 
-J'ai pas pris de photos lors du déballage mais je vous laisse le découvrir directement sur la page du vendeur :
+Je n'ai pas pris de photos lors du déballage mais je vous laisse le découvrir directement sur la page du vendeur :
 <a href="https://amzn.to/3Hk3Vq1" target="_blank">SmallRig CT-10</a>
 
 ### Caractéristiques techniques du SmallRig CT‑10
