@@ -12,7 +12,7 @@ cover:
     relative: false
 ---
 
-Après plus de dix ans à utiliser Google Chrome, j’ai décidé de tourner la page.  
+Après plus de dix ans à utiliser Google Chrome, j’ai décidé de tourner la page et de changer de navigateur web.  
 Mon nouveau compagnon de navigation s’appelle **Mozilla Firefox** et ce changement n’est pas juste une lubie technique. C’est un choix réfléchi, guidé par un besoin croissant de protéger ma vie numérique mais aussi d’encourager un web plus libre.
 
 ## Pourquoi quitter Chrome ?

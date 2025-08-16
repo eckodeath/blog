@@ -29,7 +29,7 @@ Aujourd'hui, je vous propose de découvrir l'organisation des 4 pages d'accueil 
     <p>Je vous laisse un lien vers mon fond d'écran du moment : <a href="https://drive.google.com/file/d/1Gr9d7H0xZjDIwe-IQNJejyvtbnC3zwxt/view?usp=drive_link" target="_blank">Wallpaper</a></p>
   </div>
   <div class="image-block">
-    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_0.jpg" alt="" />
+    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_0.png" alt="" />
   </div>
 </section>
 
@@ -42,7 +42,7 @@ Aujourd'hui, je vous propose de découvrir l'organisation des 4 pages d'accueil 
     </p>
   </div>
   <div class="image-block">
-    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_1.jpg" alt="Image illustrant le texte" />
+    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_1.png" alt="Image illustrant le texte" />
   </div>
 </section>
 
@@ -70,7 +70,7 @@ Aujourd'hui, je vous propose de découvrir l'organisation des 4 pages d'accueil 
     </p>
   </div>
   <div class="image-block">
-    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_2.jpg" alt="Paysage norvégien" />
+    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_2.png" alt="" />
   </div>
 </section>
 
@@ -96,7 +96,7 @@ Aujourd'hui, je vous propose de découvrir l'organisation des 4 pages d'accueil 
     </p>
   </div>
   <div class="image-block">
-    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_3.jpg" alt="Paysage norvégien" />
+    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_3.png" alt="" />
   </div>
 </section>
 
@@ -112,7 +112,7 @@ Aujourd'hui, je vous propose de découvrir l'organisation des 4 pages d'accueil 
   <ul></p>
   </div>
   <div class="image-block">
-    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_4.jpg" alt="Paysage norvégien" />
+    <img src="/posts/lifestyle/whats-on-my-iphone-16-pro-max/springboard_2025_4.png" alt="" />
   </div>
 </section>
 
