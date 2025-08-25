@@ -1,7 +1,7 @@
 ---
 title: "iPhone 16 Pro Max : mon verdict après 4 mois d'utilisation"
-date: 2025-08-02
-draft: true
+date: 2025-08-25
+draft: false
 tags: ["iPhone", "Test", "iPhone 16", "iPhone 16 Pro", "iPhone 16 Pro Max"]
 categories: ["Journal"]
 summary: ""
@@ -129,7 +129,7 @@ Je pensais juste remplacer un téléphone vieillissant et ayant atteint ses limi
 
 Bien sûr que tout n'est pas parfait : iIl est lourd et encombrant dans certaines situations, certaines fonctionnalités demandent du temps pour être maîtrisées et le prix fait mal au portefeuille mais quand je regarde mes photos d'avant et celles d'aujourd'hui, quand je réalise que je peux bosser efficacement depuis n'importe où… la différence est énorme et n'est pas négligeable.
 
-Ce qui m'a le plus marqué, c'est de ne plus avoir à me brider créativement, là où je me serais dit : "cette photo va être ratée avec mon iPhone 11". Maintenant je shoote en ProRAW et ce format me permet de travailler en toute simplicité sans perte de qualité. Cette liberté n'a pas de prix.
+Ce qui m'a le plus marqué, c'est de ne plus avoir à me brider créativement, là où je me serais dit : "cette photo va être ratée avec mon iPhone 11. Maintenant je shoote en ProRAW et ce format me permet de travailler en toute simplicité sans perte de qualité. Cette liberté n'a pas de prix.
 
 Si vous possèdez un ancien iPhone, vous hésitez à le changez mais que vous êtes sujet à utiliser votre téléphone pour créer, que vous publiez régulièrement sur les réseaux, que vous voyagez souvent… Changer pour un modèle plus récent, vous ne le regretterez pas, croyez moi !
 
