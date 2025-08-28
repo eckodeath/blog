@@ -102,7 +102,7 @@ menu:
       url: /archives/
       weight: 20
     - identifier: search
-      name: "Ξ"
+      name: "🔍"
       url: /search/
       weight: 40
     - identifier: about
