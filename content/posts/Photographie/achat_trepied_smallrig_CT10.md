@@ -1,7 +1,7 @@
 ---
 title: "J'ai investit dans un trépied pour aller plus loin"
-date: 2025-08-08
-draft: true
+date: 2025-09-06
+draft: false
 tags: ["Achat", "Photographie", "Astrophotographie"]
 categories: ["Photographie"]
 summary: ""
@@ -64,3 +64,5 @@ Depuis quelques semaines, je m’essaie timidement à **l’astrophotographie**.
 Ce trépied, c’est plus qu’un accessoire. C’est une **invitation à expérimenter**, à sortir davantage (surtout de nuit), à chercher de nouveaux angles, à prendre le temps. Il vient compléter mon matériel, que je construis lentement mais sûrement, avec passion.
 
 **Bref, tout ça pour vous : j’ai acheté un trépied et maintenant, les étoiles n’ont qu’à bien se tenir.**
+
+<p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
