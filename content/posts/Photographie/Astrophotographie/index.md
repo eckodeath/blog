@@ -1,9 +1,9 @@
 ---
 title: "Observer les étoiles : ma première expérience d’astrophotographie"
-date: 2025-08-05
+date: 2025-09-23
 tags: ["Astrophotographie", "iPhone", "iPhone 16 Pro Max", "iPhone 16", "iPhone 16 Pro", "Expérience"]
 categories: ["Photographie"]
-draft: true
+draft: false
 summary: ""
 cover:
     image: ""
@@ -36,7 +36,39 @@ J’ai aussi appris à **verrouiller la mise au point** sur l’infini, à baiss
 
 Sans chercher à faire de la science, j’ai été bluffé par le résultat. Sur certaines photos, on distingue de véritables nappes d’étoiles. Pas de constellation bien nette ou de nébuleuse spectaculaire, bien sûr, mais une **densité d’étoiles impressionnante** que je ne soupçonnais pas à l’œil nu.
 
---- photos ---
+
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/astrophotographie/Astrophotographie _4116.jpg" alt="Photo 1">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/astrophotographie/Astrophotographie _4119.jpg" alt="Photo 2">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/astrophotographie/Astrophotographie _4130.jpg" alt="Photo 3">
+  </figure>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/photographie/astrophotographie/Astrophotographie _1445.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/photographie/astrophotographie/Astrophotographie _1455.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/astrophotographie/Astrophotographie _1439.jpg" alt="Photo 1">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/astrophotographie/Astrophotographie _1452.jpg" alt="Photo 2">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/astrophotographie/Astrophotographie _1589.jpg" alt="Photo 3">
+  </figure>
+</div>
+
 
 Parfois, un petit point plus lumineux que les autres attire l’attention : peut-être une planète ou simplement une étoile plus proche. Quoi qu’il en soit, **c’est magique de voir tout cela apparaître sur l’écran de son téléphone** depuis un simple jardin.
 
