@@ -1,7 +1,7 @@
 ---
-title: "J'ai décidé de quitter Chrome pour Firefox"
-date: 2025-08-02
-draft: true
+title: "Firefox devient mon navigateur web par défaut"
+date: 2025-10-11
+draft: false
 tags: ["Web", "Indépendance", "Présentation", "Firefox", "Navigateur", "Chrome"]
 categories: ["Journal"]
 summary: ""
