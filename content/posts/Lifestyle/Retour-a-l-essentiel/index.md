@@ -4,8 +4,8 @@ date: 2025-11-03
 draft: false
 tags: ["développement personnel", "minimalisme", "vie simple", "quarantaine", "digital detox", "photographie", "écriture"]
 categories: ["Journal"]
-description: "À l’approche de la quarantaine, j’ai décidé de revenir à l’essentiel, de m’éloigner des réseaux sociaux et de retrouver mes passions comme la photographie et l’écriture."
-summary: "Un chemin vers une vie plus simple, plus consciente et plus créative, loin des écrans et recentrée sur ce qui me fait vibrer."
+description: ""
+summary: ""
 cover:
     image: ""
     alt: ""
