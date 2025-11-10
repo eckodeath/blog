@@ -18,7 +18,7 @@ ShowToc: false
 À l’approche de la quarantaine, on commence souvent à se poser des questions que l’on avait peut-être repoussées jusque-là.  
 On regarde derrière soi pour mesurer le chemin parcouru et on regarde devant avec un mélange d’envie, d’appréhension et de curiosité.  
 
- <p style="text-align: right;"> C’est exactement ce qui m’est arrivé ces dernières semaines. 
+ <p style="text-align: right;"> C’est exactement ce qui m’est arrivé ces dernières semaines...
 
 J’ai ressenti le besoin de réaliser un **bilan**. Non pas un bilan purement professionnel ou matériel, mais un bilan personnel : où vais-je ? comment je vis ? et surtout… est-ce que je vis réellement comme je le souhaite ?
 
