@@ -20,7 +20,7 @@ On regarde derrière soi pour mesurer le chemin parcouru et on regarde devant av
 
  <p style="text-align: right;"> C’est exactement ce qui m’est arrivé ces dernières semaines...
 
-<p style="text-align: justify;">J’ai ressenti le besoin de réaliser un **bilan**. Non pas un bilan purement professionnel ou matériel, mais un bilan personnel : où vais-je ? comment je vis ? et surtout… est-ce que je vis réellement comme je le souhaite ?</p>
+<p style="text-align: justify;">J’ai ressenti le besoin de réaliser un <strong>bilan</strong>. Non pas un bilan purement professionnel ou matériel, mais un bilan personnel : où vais-je ? comment je vis ? et surtout… est-ce que je vis réellement comme je le souhaite ?</p>
 
  <p style="text-align: center;"> La réponse a été claire : j’ai besoin de <strong>simplifier</strong>.
 
@@ -37,9 +37,9 @@ L’objectif est clair : </p>
 
  <p style="text-align: center;"><strong>moins de bruit numérique, plus de présence réelle</strong>.
 
-<p style="text-align: justify;">Et c’est pour toutes ces raisons que j’ai décidé de me relancer dans les choses qui me font réellement vibrer dans ce monde : la **photographie**, pour capturer la beauté simple qui m’entoure, et l’**écriture**, avec la réouverture de ce blog pour partager mes réflexions, mes voyages et mes expériences.  
+<p style="text-align: justify;">Et c’est pour toutes ces raisons que j’ai décidé de me relancer dans les choses qui me font réellement vibrer dans ce monde : la <strong>photographie</strong>, pour capturer la beauté simple qui m’entoure, et l’<strong>écriture</strong>, avec la réouverture de ce blog pour partager mes réflexions, mes voyages et mes expériences.  
 
-<p style="text-align: justify;">Pas avec de grandes résolutions irréalistes, mais avec **des gestes simples, quotidiens, concrets**.</p>
+<p style="text-align: justify;">Pas avec de grandes résolutions irréalistes, mais avec <strong>des gestes simples, quotidiens, concrets</strong>.</p>
 
 ## Mon engagement personnel
 
@@ -59,11 +59,11 @@ Chaque jour, je me suis engager avec moi même à :
 
 <p style="text-align: justify;">Un chemin vers une vie plus simple, plus consciente, plus alignée avec mes valeurs que j'emprunte depuis quelques temps déjà.
 
-<p style="text-align: justify;">Et pour que ces engagements restent une source d’équilibre et non de pression, je m’accorde la liberté de ne jamais rater **deux jours consécutifs** pour l’une de ces règles. 
+<p style="text-align: justify;">Et pour que ces engagements restent une source d’équilibre et non de pression, je m’accorde la liberté de ne jamais rater <strong>deux jours consécutifs</strong> pour l’une de ces règles. 
 
 <p style="text-align: justify;">Cette souplesse me permet de rester motivé tout en accueillant les imprévus de la vie.
 
-<p style="text-align: justify;">Le petit plus de mon quotidien : **au réveil, prendre quelques instants pour regarder par la fenêtre.**  
+<p style="text-align: justify;">Le petit plus de mon quotidien : <strong>au réveil, prendre quelques instants pour regarder par la fenêtre.</strong>  
 Offrir à ses poumons une bouffée d’oxygène frais et à son esprit un moment de calme. C’est mon rituel pour démarrer la journée du bon pied, avec sérénité et gratitude.
 
 <p style="text-align: justify;">Pour m’assurer de rester sur la bonne voie, je m’appuie sur une application de suivi d’habitudes. Elle me permet de visualiser mes progrès, de garder une trace de mes réussites, et de transformer ces gestes quotidiens en véritables habitudes de vie.
@@ -89,7 +89,7 @@ Chaque habitude y prend la forme d’une tuile, une onde qui se propage jour apr
   <img src="/posts/lifestyle/retour-a-l-essentiel/habit_tracker_Ripples_1.jpg" alt="Description" style="width: 80%;">
 </center>
 
-<p style="text-align: justify;">L’application me permet de **visualiser mes progrès** d’un coup d’œil, de **voir où je relâche l’attention** et permet surtout de **me motiver** à rester constant sans tomber dans la rigidité.  
+<p style="text-align: justify;">L’application me permet de <strong>visualiser mes progrès</strong> d’un coup d’œil, de <strong>voir où je relâche l’attention</strong> et permet surtout de <strong>me motiver</strong> à rester constant sans tomber dans la rigidité.  
 
 <p style="text-align: justify;">Je ne cherche pas la perfection mais la cohérence et Ripples m’aide justement à cultiver cette régularité bienveillante en transformant mes efforts du quotidien en une série de petites victoires.  
 C’est un outil simple, discret mais profondément efficace pour garder le cap dans ma quête d’équilibre que je ne peux que vous conseillez d'utiliser au quotidien.
