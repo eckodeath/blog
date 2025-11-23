@@ -15,25 +15,25 @@ ShowToc: false
 
 > **Chaque jour compte. Chaque geste est une graine. Je choisis l’essentiel. Je choisis de vivre.**
 
-À l’approche de la quarantaine, on commence souvent à se poser des questions que l’on avait peut-être repoussées jusque-là.  
-On regarde derrière soi pour mesurer le chemin parcouru et on regarde devant avec un mélange d’envie, d’appréhension et de curiosité.  
+<p style="text-align: justify;"> À l’approche de la quarantaine, on commence souvent à se poser des questions que l’on avait peut-être repoussées jusque-là.  
+On regarde derrière soi pour mesurer le chemin parcouru et on regarde devant avec un mélange d’envie, d’appréhension et de curiosité.</p>
 
  <p style="text-align: right;"> C’est exactement ce qui m’est arrivé ces dernières semaines...
 
-J’ai ressenti le besoin de réaliser un **bilan**. Non pas un bilan purement professionnel ou matériel, mais un bilan personnel : où vais-je ? comment je vis ? et surtout… est-ce que je vis réellement comme je le souhaite ?
+<p style="text-align: justify;">J’ai ressenti le besoin de réaliser un **bilan**. Non pas un bilan purement professionnel ou matériel, mais un bilan personnel : où vais-je ? comment je vis ? et surtout… est-ce que je vis réellement comme je le souhaite ?</p>
 
  <p style="text-align: center;"> La réponse a été claire : j’ai besoin de <strong>simplifier</strong>.
 
 ## Pourquoi ce changement ?
 
-Nous vivons dans un monde saturé d’écrans, de notifications, d’obligations et de distractions.  
+<p style="text-align: justify;"> Nous vivons dans un monde saturé d’écrans, de notifications, d’obligations et de distractions.  
 On a parfois l’impression que nos journées sont avalées par mille petites choses qui ne comptent pas vraiment.  
 
 J’ai pris conscience que les réseaux sociaux et la surconsommation d’écrans volaient une part précieuse de mon temps et de mon attention.  
 J’ai donc décidé de m’en éloigner volontairement afin de retrouver une vie plus saine, plus minimaliste et plus en accord avec ma nouvelle philosophie de vie.  
 
 Ce choix n’est pas un rejet total de la technologie, mais une utilisation plus consciente et plus mesurée.  
-L’objectif est clair : 
+L’objectif est clair : </p>
 
  <p style="text-align: center;"><strong>moins de bruit numérique, plus de présence réelle</strong>.
 
