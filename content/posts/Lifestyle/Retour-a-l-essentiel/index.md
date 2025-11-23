@@ -29,7 +29,7 @@ On regarde derrière soi pour mesurer le chemin parcouru et on regarde devant av
 <p style="text-align: justify;"> Nous vivons dans un monde saturé d’écrans, de notifications, d’obligations et de distractions.  
 On a parfois l’impression que nos journées sont avalées par mille petites choses qui ne comptent pas vraiment.  
 
-J’ai pris conscience que les réseaux sociaux et la surconsommation d’écrans volaient une part précieuse de mon temps et de mon attention.  
+<p style="text-align: justify;">J’ai pris conscience que les réseaux sociaux et la surconsommation d’écrans volaient une part précieuse de mon temps et de mon attention.  
 J’ai donc décidé de m’en éloigner volontairement afin de retrouver une vie plus saine, plus minimaliste et plus en accord avec ma nouvelle philosophie de vie.  
 
 Ce choix n’est pas un rejet total de la technologie, mais une utilisation plus consciente et plus mesurée.  
