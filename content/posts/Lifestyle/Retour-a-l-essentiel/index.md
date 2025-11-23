@@ -37,14 +37,14 @@ L’objectif est clair : </p>
 
  <p style="text-align: center;"><strong>moins de bruit numérique, plus de présence réelle</strong>.
 
-Et c’est pour toutes ces raisons que j’ai décidé de me relancer dans les choses qui me font réellement vibrer dans ce monde : la **photographie**, pour capturer la beauté simple qui m’entoure, et l’**écriture**, avec la réouverture de ce blog pour partager mes réflexions, mes voyages et mes expériences.  
+<p style="text-align: justify;">Et c’est pour toutes ces raisons que j’ai décidé de me relancer dans les choses qui me font réellement vibrer dans ce monde : la **photographie**, pour capturer la beauté simple qui m’entoure, et l’**écriture**, avec la réouverture de ce blog pour partager mes réflexions, mes voyages et mes expériences.  
 
-Pas avec de grandes résolutions irréalistes, mais avec **des gestes simples, quotidiens, concrets**.
+Pas avec de grandes résolutions irréalistes, mais avec **des gestes simples, quotidiens, concrets**.</p>
 
 ## Mon engagement personnel
 
-À l’aube de ma quarantaine, je choisis de revenir à l’essentiel.  
-Je choisis de mettre de côté le superflu pour consacrer mon temps, mon énergie et mon attention à ce qui nourrit réellement mon corps et mon esprit.  
+<p style="text-align: justify;">À l’aube de ma quarantaine, je choisis de revenir à l’essentiel.  
+Je choisis de mettre de côté le superflu pour consacrer mon temps, mon énergie et mon attention à ce qui nourrit réellement mon corps et mon esprit. </p> 
 
 Chaque jour, je me suis engager avec moi même à :  
 - Réaliser au moins 30 minutes de sport pour honorer mon corps et préserver ma santé.
