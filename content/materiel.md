@@ -86,7 +86,3 @@
   </div>
 
 </div>
-
-<BR>
-<BR>
-<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/ca36439539b85815bc784e871cac7051.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
