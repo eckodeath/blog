@@ -1,6 +1,6 @@
 ---
 title: "2025 - Ma rétrospective personnelle"
-date: 2025-12-05
+date: 2025-12-15
 draft: false
 tags: ["Rétrospective", "Lifestyle", "Journal", "Bilan", "Personnel", "2025", "Minimalisme"]
 categories: ["Journal"]
