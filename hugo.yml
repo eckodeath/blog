@@ -81,9 +81,7 @@ params:
     - name: twitter
       url: "https://x.com/eckodeath"
     - name: unsplash
-      url: "https://refrakt.app/eckodeath"
-    - name: medium
-      url: "https://medium.com/eckodeath"
+      url: "https://refrakt.app/eckodeath/series"
 
 
   cover:
