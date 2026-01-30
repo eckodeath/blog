@@ -167,9 +167,10 @@ On a eu ensuite la chance de pouvoir visiter en long et en large "Trinity Colleg
 </div>
 
 <div class="medium-wide-image">
-  <img src="/posts/voyages/ireland-part-1/book_of_kells.jpg" alt="Image un peu plus large que le texte" />
+  <img src="/posts/voyages/ireland-part-1/book-of-kells.jpg" alt="Image un peu plus large que le texte" />
 </div>
-> Cette photo n'est pas de moi car il est interdit de prendre de photos dans la salle d'exposition du livre de Kells.
+
+> Pour information : Cette photo n'est pas de moi car il est strictement interdit de prendre de photos dans la salle d'exposition du livre de Kells afin d'éviter d'altérer ce livre mythique.
 
 <div class="medium-wide-image">
   <div class="side-by-side">
@@ -335,6 +336,104 @@ Pour commencer petit arrêt photo sur la route pour découvrir Kylemore et le fj
 
 Ensuite on continue par la découverte de l'abbaye de Kylemore (ancien chateau victorien transformé en abbaye bénédictine) ainsi que de son fabuleux jardin victorien coloré.
 
-xxx
+<div class="medium-wide-image">
+  <img src="/posts/voyages/ireland-part-1/2025-Irlande-85.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-83.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-84.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-62.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-68.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-63.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-64.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-67.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-65.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-69.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-1/2025-Irlande-70.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/ireland-part-1/2025-Irlande-71.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/voyages/ireland-part-1/2025-Irlande-72.jpg" alt="Photo 1">
+  </figure>
+  <figure>
+    <img src="/posts/voyages/ireland-part-1/2025-Irlande-73.jpg" alt="Photo 2">
+  </figure>
+  <figure>
+    <img src="/posts/voyages/ireland-part-1/2025-Irlande-74.jpg" alt="Photo 3">
+  </figure>
+</div>
+
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/voyages/ireland-part-1/2025-Irlande-75.jpg" alt="Photo 1">
+  </figure>
+  <figure>
+    <img src="/posts/voyages/ireland-part-1/2025-Irlande-76.jpg" alt="Photo 2">
+  </figure>
+  <figure>
+    <img src="/posts/voyages/ireland-part-1/2025-Irlande-77.jpg" alt="Photo 3">
+  </figure>
+</div>
+
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/voyages/ireland-part-1/2025-Irlande-78.jpg" alt="Photo 1">
+  </figure>
+  <figure>
+    <img src="/posts/voyages/ireland-part-1/2025-Irlande-80.jpg" alt="Photo 2">
+  </figure>
+  <figure>
+    <img src="/posts/voyages/ireland-part-1/2025-Irlande-81.jpg" alt="Photo 3">
+  </figure>
+</div>
+
 
 La partie n°1 du voyage s’arrête ici, on se retrouve bientôt pour la suite de ce super voyage en Irlande.
