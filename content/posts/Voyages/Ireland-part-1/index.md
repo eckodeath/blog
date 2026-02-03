@@ -1,6 +1,6 @@
 ---
 title: "L’Irlande authentique - jours 1 à 3"
-date: 2026-01-29
+date: 2026-02-05
 draft: true
 tags: ["Ireland", "Voyages", "Récit", "Irlande", ]
 categories: ["Voyages"]
@@ -281,7 +281,7 @@ Nous allons séjourner pour deux nuits consécutives au Coast Connemara Hôtel. 
   </div>
 </div>
 
-Arrivé à l'hôtel et en bravant le froid et surtout le vent, nous avons découvert grâce à une petite balade la baie de Galway, baie emblématique du Connemara, donnant sur l'océan Atlantique.
+Arrivé à l'hôtel, en bravant le froid et surtout le vent, nous avons découvert grâce à une petite balade la baie de Galway, baie emblématique du Connemara, donnant sur l'océan Atlantique.
 
 <div class="medium-wide-image">
   <div class="side-by-side">
