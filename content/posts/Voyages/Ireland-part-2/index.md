@@ -131,13 +131,15 @@ Ensuite, direction Killimer pour une traversée en ferry de la rivière Shannon 
 
 Pour cette nuit et la suivante, nous avons posé nos valises dans l'hôtel "Le Brandon Hotel" au coeur de la charmante ville Tralee.
 
-<div class="medium-wide-image side-by-side-ratio">
-  <figure class="horizontal">
-    <img src="/posts/voyages/ireland-part-2/2025-Irlande-.jpg" alt="Horizontale">
-  </figure>
-  <figure class="vertical">
-    <img src="/posts/voyages/ireland-part-2/2025-Irlande-122.jpg" alt="Verticale">
-  </figure>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-122-1.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-122.jpg" alt="Photo 3">
+    </figure>
+  </div>
 </div>
 
 La soirée est chargée car nous reprenons la route afin d'aller assister à une soirée typiquement irlandaise qui allie musique, chants et danses traditionnelles. La troupe "Celtic Steps" est apparement la plus connu du pays et nous avons passé une excellente soirée de découvertes.
@@ -308,14 +310,95 @@ Ensuite reprise de la route afin de découvrir l'un des paysages les plus specta
 
 On s'est peu après arrêté dans deux petits villages, Waterville et Sneem, situés au bord de l’eau et qui vivent au rythme de l’océan, de la pêche et des commerces touristiques.
 
-xxx
+<div class="medium-wide-image">
+  <img src="/posts/voyages/ireland-part-2/2025-Irlande-168.jpg" alt="Image un peu plus large que le texte" />
+</div>
 
-xxx
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-169.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-170.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-166.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-177.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-188.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-187.jpg" alt="Photo 3">
+    </figure>
+     <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-179.jpg" alt="Photo 3">
+    </figure>
+     <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-185.jpg" alt="Photo 3">
+    </figure>
+     <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-186.jpg" alt="Photo 3">
+    </figure>
+         <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-191.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-180.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-181.jpg" alt="Photo 3">
+    </figure>
+     <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-183.jpg" alt="Photo 3">
+    </figure>
+     <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-184.jpg" alt="Photo 3">
+    </figure>
+     <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-189.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-190.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
 
 
-L’après-midi, on a eu la chance de découvrir des superbes points de vue tels que Com an Christe ou encore Ladies View, lieu qui offre un magnifique panorama sur les lacs de Killarney. Le lieu est tout simplement magique et se situe en plein cœur du Parc National de Killarney, un parc de 10 000 hectares de nature sauvage, de lacs et de montagnes impressionnants. 
+L’après-midi, on a eu la chance de découvrir des superbes points de vue tels que "Com an Christe" ou encore "Ladies View", lieu qui offre un magnifique panorama sur les lacs de Killarney. Le lieu est tout simplement magique et se situe en plein cœur du Parc National de Killarney, un parc de 10 000 hectares de nature sauvage, de lacs et de montagnes impressionnants. 
 
-xxx
+<div class="medium-wide-image">
+  <img src="/posts/voyages/ireland-part-2/2025-Irlande-176.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-175.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-178.jpg" alt="Photo 3">
+    </figure>
+  </div>
+</div>
 
 Pour terminer la journée, nous avons pris le temps de flaner dans les jardins de Muckross House, particulièrement réputés pour leur collection de rhododendrons, d'hybrides et d'azalées, ils se partagent entre jardin en bassins et jardin japonais. Un moment de calme bien mérité.
 
