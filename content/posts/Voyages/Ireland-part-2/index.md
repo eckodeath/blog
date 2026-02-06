@@ -1,7 +1,7 @@
 ---
 title: "L’Irlande authentique - jours 4 et 5"
-date: 2026-02-03
-draft: true
+date: 2026-02-06
+draft: false
 tags: ["Ireland", "Voyages", "Récit", "Irlande", ]
 categories: ["Voyages"]
 summary: ""
@@ -326,12 +326,12 @@ On s'est peu après arrêté dans deux petits villages, Waterville et Sneem, sit
 </div>
 
 <div class="medium-wide-image">
-  <div class="side-by-side">
+  <div class="image-grid">
     <figure>
-      <img src="/posts/voyages/ireland-part-2/2025-Irlande-166.jpg" alt="Photo 2">
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-166.jpg" alt="Photo 1">
     </figure>
     <figure>
-      <img src="/posts/voyages/ireland-part-2/2025-Irlande-177.jpg" alt="Photo 3">
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-167.jpg" alt="Photo 2">
     </figure>
   </div>
 </div>
@@ -373,11 +373,16 @@ On s'est peu après arrêté dans deux petits villages, Waterville et Sneem, sit
      <figure>
       <img src="/posts/voyages/ireland-part-2/2025-Irlande-184.jpg" alt="Photo 3">
     </figure>
-     <figure>
-      <img src="/posts/voyages/ireland-part-2/2025-Irlande-189.jpg" alt="Photo 3">
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="image-grid">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-189.jpg" alt="Photo 1">
     </figure>
     <figure>
-      <img src="/posts/voyages/ireland-part-2/2025-Irlande-190.jpg" alt="Photo 3">
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-190.jpg" alt="Photo 2">
     </figure>
   </div>
 </div>
@@ -400,8 +405,84 @@ L’après-midi, on a eu la chance de découvrir des superbes points de vue tels
   </div>
 </div>
 
-Pour terminer la journée, nous avons pris le temps de flaner dans les jardins de Muckross House, particulièrement réputés pour leur collection de rhododendrons, d'hybrides et d'azalées, ils se partagent entre jardin en bassins et jardin japonais. Un moment de calme bien mérité.
+<div class="medium-wide-image">
+  <img src="/posts/voyages/ireland-part-2/2025-Irlande-192.jpg" alt="Image un peu plus large que le texte" />
+</div>
 
-xxx
+<div class="medium-wide-image">
+  <div class="image-grid">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-194.jpg" alt="Photo 1">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-193.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+
+Pour terminer la journée, nous avons pris le temps de flaner dans les jardins de Muckross House, particulièrement réputés pour leur collection de rhododendrons, d'hybrides et d'azalées, ils se partagent entre jardin en bassins et jardin japonais. Un moment de calme bien mérité et nous avons même eu la chance d'apercevoir au loin des rennes.
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/ireland-part-2/2025-Irlande-195.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-202.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-203.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-197.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-198.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-199.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-200.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-206.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-207.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-208.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-209.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/voyages/ireland-part-2/2025-Irlande-210.jpg" alt="Image un peu plus large que le texte" />
+</div>
 
 La partie n°2 du voyage s’arrête ici, on se retrouve bientôt pour la suite de ce super voyage en Irlande.
