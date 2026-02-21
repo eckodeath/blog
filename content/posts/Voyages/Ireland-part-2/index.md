@@ -240,14 +240,7 @@ Pour commencer la journée petit arrêt au "Red Fox Inn" afin de déguster le fa
 </div>
 
 <div class="medium-wide-image">
-  <div class="side-by-side">
-    <figure>
-      <img src="/posts/voyages/ireland-part-2/2025-Irlande-155.jpg" alt="Photo 3">
-    </figure>
-    <figure>
-      <img src="/posts/voyages/ireland-part-2/2025-Irlande-157.jpg" alt="Photo 2">
-    </figure>
-  </div>
+  <img src="/posts/voyages/ireland-part-2/2025-Irlande-155.jpg" alt="Image un peu plus large que le texte" />
 </div>
 
 <div class="medium-wide-image">
