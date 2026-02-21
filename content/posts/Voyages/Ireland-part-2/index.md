@@ -1,7 +1,7 @@
 ---
 title: "L’Irlande authentique - jours 4 et 5"
 date: 2026-02-06
-draft: true
+draft: false
 tags: ["Ireland", "Voyages", "Récit", "Irlande", ]
 categories: ["Voyages"]
 summary: ""
@@ -52,12 +52,12 @@ Reprise du road trip afin de rejoindre LE point clé de ce voyage, l'endroit que
 </div>
 
 <div class="medium-wide-image">
-  <div class="side-by-side">
+  <div class="image-grid">
     <figure>
-      <img src="/posts/voyages/ireland-part-2/2025-Irlande-112.jpg" alt="Photo 2">
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-112.jpg" alt="Photo 1">
     </figure>
     <figure>
-      <img src="/posts/voyages/ireland-part-2/2025-Irlande-108.jpg" alt="Photo 3">
+      <img src="/posts/voyages/ireland-part-2/2025-Irlande-108.jpg" alt="Photo 2">
     </figure>
   </div>
 </div>
