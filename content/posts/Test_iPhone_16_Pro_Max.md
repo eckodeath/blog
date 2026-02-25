@@ -2,7 +2,7 @@
 title: "iPhone 16 Pro Max : mon verdict après 4 mois d'utilisation"
 date: 2025-08-25
 draft: false
-tags: ["iPhone", "Test", "iPhone 16", "iPhone 16 Pro", "iPhone 16 Pro Max"]
+tags: ["iPhone", "test", "iPhone 16", "iPhone 16 pro", "iPhone 16 pro max"]
 categories: ["Journal"]
 summary: ""
 cover:

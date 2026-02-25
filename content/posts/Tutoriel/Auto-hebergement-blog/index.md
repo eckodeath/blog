@@ -2,7 +2,7 @@
 title: "Les étapes de ma migration vers un blog auto-hébergé"
 date: 2025-08-08
 draft: false
-tags: ["Blog", "Hugo", "Netlify", "GitHub", "Indépendance"]
+tags: ["blog", "hugo", "netlify", "github", "indépendance"]
 categories: ["Tutoriel"]
 summary: "Après plusieurs semaines à publier mes articles de voyage et autres sur Medium, j'ai commencé à très rapidement ressentir les limites de la plateforme..."
 cover:

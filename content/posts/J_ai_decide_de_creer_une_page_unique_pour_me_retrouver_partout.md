@@ -2,7 +2,7 @@
 title: "J’ai décidé de créer une page unique pour me retrouver partout !"
 date: 2025-07-01
 draft: false
-tags: ["Blog", "Lifestyle", "Journal", "Présentation", "Cardd"]
+tags: ["blog", "lifestyle", "journal", "présentation", "cardd"]
 categories: ["Journal"]
 summary: "Si vous lisez ceci, c’est que probablement vous me suivez sur l’un de mes réseaux sociaux, ou que vous êtes tombés sur un de mes articles ici sur mon espace Medium."
 cover:

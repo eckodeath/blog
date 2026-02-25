@@ -1,7 +1,7 @@
 ---
 title: "Observer les étoiles : ma première expérience d’astrophotographie"
 date: 2025-09-23
-tags: ["Astrophotographie", "iPhone", "iPhone 16 Pro Max", "iPhone 16", "iPhone 16 Pro", "Expérience"]
+tags: ["astrophotographie", "iPhone", "iPhone 16 pro max", "iPhone 16", "iPhone 16 pro", "expérience"]
 categories: ["Photographie"]
 draft: false
 summary: ""

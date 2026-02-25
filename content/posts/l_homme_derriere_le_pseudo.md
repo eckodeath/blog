@@ -2,7 +2,7 @@
 title: "L’homme derrière le pseudo, qui suis je réellement ?"
 date: 2025-06-26
 draft: false
-tags: ["Blog", "Lifestyle", "Journal", "Présentation", "Biographie"]
+tags: ["blog", "lifestyle", "journal", "présentation", "biographie"]
 categories: ["Journal"]
 summary: ""
 cover:

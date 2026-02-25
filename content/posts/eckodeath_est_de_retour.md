@@ -2,7 +2,7 @@
 title: "Eckodeath est de retour avec son propre nom de domaine"
 date: 2025-07-23
 draft: false
-tags: ["Blog", "Ecriture", "Indépendance", "Hugo", "Github", "Netlify"]
+tags: ["blog", "écriture", "indépendance", "hugo", "github", "netlify"]
 categories: ["Journal"]
 summary: "Après quelques semaines sur Medium, je reviens à l'essentiel : écrire librement, sur un site qui m'appartient vraiment. Grâce à Hugo, GitHub et Netlify, je reprends le contrôle sur mon blog eckodeath.fr."
 cover:

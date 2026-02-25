@@ -3,7 +3,7 @@ title: "Découverte des Fjords de Norvège - jours 7 et 8"
 date: 2025-05-28
 draft: false
 categories: ["Voyages"]
-tags: ["Norvège", "Scandinavie", "Voyages", "Récit"]
+tags: ["norvège", "scandinavie", "voyages", "récit"]
 cover:
     image: ""
     alt: ""

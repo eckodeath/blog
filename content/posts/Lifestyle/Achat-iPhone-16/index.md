@@ -2,7 +2,7 @@
 title: "J’ai remplacé mon iPhone 11 par l’iPhone 16 Pro Max"
 date: 2025-06-17
 draft: false
-tags: ["achat", "lifestyle", "journal", "iPhone", "iPhone 16", "iPhone 16 pro max", "iPhone 16 Ppro"]
+tags: ["achat", "lifestyle", "journal", "iPhone", "iPhone 16", "iPhone 16 pro max", "iPhone 16 pro"]
 categories: ["Journal"]
 summary: ""
 cover:

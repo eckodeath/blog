@@ -2,7 +2,7 @@
 title: "Road Trip dans l’Ouest Américain - Edito"
 date: 2025-04-29
 draft: false
-tags: ["USA", "Etats-Unis", "Road", "Trip", "Road Trip", "Voyages"]
+tags: ["USA", "états-unis", "road", "trip", "road trip", "voyages"]
 categories: ["Voyages"]
 summary: ""
 cover:

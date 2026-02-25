@@ -2,7 +2,7 @@
 title: "L’Irlande authentique - jours 1 à 3"
 date: 2026-02-05
 draft: false
-tags: ["Ireland", "Voyages", "Récit", "Irlande", ]
+tags: ["ireland", "voyages", "récit", "irlande", ]
 categories: ["Voyages"]
 summary: ""
 cover:

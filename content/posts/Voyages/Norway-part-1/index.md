@@ -3,7 +3,7 @@ title: "Découverte des Fjords de Norvège - jours 1 à 3"
 date: 2025-05-26
 draft: false
 categories: ["Voyages"]
-tags: ["Norvège", "Scandinavie", "Voyages", "Récit"]
+tags: ["norvège", "scandinavie", "voyages", "récit"]
 cover:
     image: ""
     alt: ""

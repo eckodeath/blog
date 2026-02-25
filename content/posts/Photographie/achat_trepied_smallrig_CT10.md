@@ -2,7 +2,7 @@
 title: "J'ai investit dans un trépied pour aller plus loin"
 date: 2025-09-06
 draft: false
-tags: ["Achat", "Photographie", "Astrophotographie"]
+tags: ["achat", "photographie", "astrophotographie"]
 categories: ["Photographie"]
 summary: ""
 cover:

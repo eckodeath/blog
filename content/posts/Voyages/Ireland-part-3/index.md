@@ -1,8 +1,8 @@
 ---
 title: "L’Irlande authentique - jours 6 à 8"
-date: 2026-02-06
+date: 2026-03-06
 draft: true
-tags: ["Ireland", "Voyages", "Récit", "Irlande", ]
+tags: ["ireland", "voyages", "récit", "irlande", ]
 categories: ["Voyages"]
 summary: ""
 cover:

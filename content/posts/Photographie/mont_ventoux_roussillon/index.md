@@ -2,7 +2,7 @@
 title: "Un week-end en Provence entre le vent du Mont Ventoux et la lumière des ocres"
 date: 2025-07-16
 draft: false
-tags: ["Provence", "WeekEnd", "Photographie", "Mont Ventoux", "Roussillon"]
+tags: ["provence", "weekend", "photographie", "mont ventoux", "roussillon"]
 categories: ["Photographie"]
 summary: ""
 cover:
