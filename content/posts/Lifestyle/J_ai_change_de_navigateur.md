@@ -2,7 +2,7 @@
 title: "Firefox devient mon navigateur web par défaut"
 date: 2025-10-11
 draft: false
-tags: ["Web", "Indépendance", "Présentation", "Firefox", "Navigateur", "Chrome"]
+tags: ["web", "indépendance", "présentation", "firefox", "navigateur", "chrome"]
 categories: ["Journal"]
 summary: ""
 cover:
