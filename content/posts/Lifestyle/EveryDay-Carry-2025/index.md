@@ -2,7 +2,7 @@
 title: "EveryDay Carry 2025 - édition « au quotidien » "
 date: 2025-08-01
 draft: false
-tags: ["EveryDayCarry", "2025", "Apple Watch", "iPhone", "RingConn", "Essentiels"]
+tags: ["everydaycarry", "2025", "apple watch", "iPhone", "ringconn", "essentiels", "EDC"]
 categories: ["Journal"]
 summary: ""
 cover:

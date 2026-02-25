@@ -2,7 +2,7 @@
 title: "Investir en bourse : mon parcours d'apprenti investisseur"
 date: 2026-02-09
 draft: true
-tags: ["Finance", "Investissement", "Bourse", "PEA", "Epargne"]
+tags: ["finance", "investissement", "bourse", "PEA", "épargne"]
 categories: ["Finances"]
 summary: ""
 cover:

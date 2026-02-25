@@ -2,7 +2,7 @@
 title: "What's on my iPhone 16 Pro Max ? version 2025"
 date: 2025-08-14
 draft: false
-tags: ["Blog", "iPhone", "iPhone 16", "iPhone 16 Pro", "iPhone 16 Pro Max", "Springboard"]
+tags: ["blog", "iPhone", "iPhone 16", "iPhone 16 pro", "iPhone 16 pro max", "springboard"]
 categories: ["Journal"]
 summary: ""
 cover:

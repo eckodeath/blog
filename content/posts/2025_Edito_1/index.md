@@ -2,7 +2,7 @@
 title: "Edito #1 – Revenir à l’essentiel"
 date: 2025-08-10
 draft: false
-tags: ["Edito", "Essentiels", "Ecriture", "Blog", "Présentation"]
+tags: ["édito", "essentiels", "écriture", "blog", "présentation"]
 categories: ["Edito"]
 summary: ""
 cover:
