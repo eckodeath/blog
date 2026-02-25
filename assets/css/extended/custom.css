@@ -355,3 +355,12 @@ a[title*="eckodeath.fr"]::after {
 .lightbox-arrow.next {
   right: 10px;
 }
+
+.logo img {
+  content: url("/Logo_header_final_1.png");
+}
+
+/* Logo en mode sombre : on remplace par le logo nuit */
+.dark .logo img {
+  content: url("/Logo_header_dark.png");
+}
