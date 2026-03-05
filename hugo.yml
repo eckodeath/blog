@@ -120,4 +120,11 @@ markup:
     renderer:
       unsafe: true
 
+defaultContentLanguage: fr
+languageCode: fr
+languages:
+  fr:
+    languageName: Français
+    weight: 1
+
 
