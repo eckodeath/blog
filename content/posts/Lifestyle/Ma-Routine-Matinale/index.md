@@ -1,6 +1,6 @@
 ---
 title: "Ma Routine Matinale : Le rituel qui a tout changé"
-date: 2026-03-12
+date: 2026-03-08
 draft: true
 tags: ["motivation", "lifestyle", "alimentation", "personnel", "discipline", "vie simple"]
 categories: ["Lifestyle"]
@@ -95,4 +95,7 @@ Reprendre sa vie en main, ce ne sont pas des grandes déclarations. Ce sont des 
 
 ---
 
-*Et vous, c'est quoi votre matin idéal ?*
+<p style="text-align: center;"> Et vous, c'est quoi votre matin idéal ?
+
+<p style="text-align: right;"> Je vous remercue de m'avoir lu et à bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
+<p style="text-align: right;"> Kurt G.
