@@ -1,7 +1,7 @@
 ---
 title: "Ma Routine Matinale : Le rituel qui a tout changé"
 date: 2026-03-12
-draft: false
+draft: true
 tags: ["motivation", "lifestyle", "alimentation", "personnel", "discipline", "vie simple"]
 categories: ["Lifestyle"]
 summary: ""
