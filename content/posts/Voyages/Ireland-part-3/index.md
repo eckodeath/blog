@@ -4,7 +4,7 @@ date: 2026-03-08
 draft: false
 tags: ["ireland", "voyages", "récit", "irlande", ]
 categories: ["Voyages"]
-summary: ""
+summary: "Aujourd'hui nous prenons la route en direction de la ville de Kilkenny. Notre premier arrêt de la journée s'effectue à Midleton afin de réaliser une visite guidée en français de la distillerie de Whiskey Jameson afin de découvrir les méthodes et l'histoire qui se trouve derrière cet alcool typique du pays. La distillerie Midleton est un haut lieu de référence du Whisky irlandais. La fin de la visite s'est soldé par une dégustation gourmande des diverses gammes produites par la marque Jameson."
 cover:
     image: ""
     alt: ""

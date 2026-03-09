@@ -4,7 +4,7 @@ date: 2026-02-22
 draft: false
 tags: ["ireland", "voyages", "récit", "irlande", ]
 categories: ["Voyages"]
-summary: ""
+summary: "Notre destination du jour est le Burren, région réputée pour la diversité de sa flore qui voit coexister des espèces méditerranéennes, alpines et arctiques. Signifiant gros rocher, le Burren est une région désertique dont les paysages lunaires surprennent à tout moment. Les rochers abritent de nombreuses grottes et cours d’eau."
 cover:
     image: ""
     alt: ""
