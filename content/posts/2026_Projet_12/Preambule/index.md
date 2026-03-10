@@ -1,7 +1,7 @@
 ---
 title: "Projet 12 - 2026 - Préambule"
 date: 2026-03-10
-draft: false
+draft: true
 tags: ["photographie", "projet 12", "préambule", "2026", "lifestyle" ]
 categories: ["Photographie"]
 summary: ""
