@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ .Title }} — eckodeath</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/photo-du-mois.css" />
+</head>
+
+<body>
+
+  <!-- ── Header ── -->
+  <header>
+    <a class="site-name" href="https://eckodeath.fr">ecko<span>death</span></a>
+    <div class="header-right">
+      <a class="back-link" href="https://eckodeath.fr">← retour au blog</a>
+      <button class="theme-toggle" id="toggleTheme" title="Basculer le thème">
+        <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <circle cx="12" cy="12" r="4"/>
+          <line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/>
+          <line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/>
+          <line x1="4.2" y1="4.2" x2="6.3" y2="6.3"/><line x1="17.7" y1="17.7" x2="19.8" y2="19.8"/>
+          <line x1="4.2" y1="19.8" x2="6.3" y2="17.7"/><line x1="17.7" y1="6.3" x2="19.8" y2="4.2"/>
+        </svg>
+        <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+          <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- ── Main ── -->
+  <main>
+
+    <!-- Hero photo -->
+    <div class="photo-hero">
+      <img src="{{ .Params.photo }}" alt="{{ .Params.photo_alt | default .Title }}" />
+      <div class="photo-overlay"></div>
+      <span class="month-badge">{{ .Params.mois }}</span>
+      <div class="exif-strip">
+        {{ with .Params.exif_focale }}<div class="exif-item"><span class="exif-label">Focale</span><span>{{ . }}</span></div>{{ end }}
+        {{ with .Params.exif_ouverture }}<div class="exif-item"><span class="exif-label">Ouverture</span><span>{{ . }}</span></div>{{ end }}
+        {{ with .Params.exif_vitesse }}<div class="exif-item"><span class="exif-label">Vitesse</span><span>{{ . }}</span></div>{{ end }}
+        {{ with .Params.exif_iso }}<div class="exif-item"><span class="exif-label">ISO</span><span>{{ . }}</span></div>{{ end }}
+      </div>
+    </div>
+
+    <!-- Meta -->
+    <div class="meta-row">
+      <div class="meta-left">
+        <div class="section-label" style="margin-bottom:0.7rem">Photo du Mois</div>
+        <h1 class="photo-title">{{ .Params.titre_principal | safeHTML }}</h1>
+        <p class="photo-date">{{ .Date.Format "2 January 2006" | lower }} &nbsp;·&nbsp; par {{ .Params.auteur | default "Kurt Grava" }}</p>
+      </div>
+      <div class="meta-right">
+        <div class="tags">
+          {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
+        </div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- Content + Sidebar -->
+    <div class="content-grid">
+
+      <article class="article-body">
+        {{ .Content }}
+      </article>
+
+      <aside class="sidebar">
+
+        {{ with .Params.materiel }}
+        <div class="sidebar-block">
+          <div class="section-label">Matériel</div>
+          <ul class="gear-list">
+            {{ range . }}
+            <li>
+              <span class="gear-key">{{ .label }}</span>
+              <span class="gear-val">{{ .valeur }}</span>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+
+        {{ with .Params.lieu }}
+        <div class="sidebar-block">
+          <div class="section-label">Lieu</div>
+          <div class="location-block">
+            <p class="location-name">{{ .nom }}</p>
+            <p class="location-detail">{{ .detail }}</p>
+          </div>
+        </div>
+        {{ end }}
+
+      </aside>
+    </div>
+
+    <!-- Prev / Next -->
+    <nav class="photo-nav">
+      {{ with .Params.prev_lien }}
+      <a class="nav-link prev" href="{{ . }}">
+        <span class="nav-dir">← Mois précédent</span>
+        <span class="nav-title">{{ $.Params.prev_titre }}</span>
+      </a>
+      {{ else }}<div></div>{{ end }}
+
+      {{ with .Params.next_lien }}
+      <a class="nav-link next" href="{{ . }}">
+        <span class="nav-dir">Mois suivant →</span>
+        <span class="nav-title">{{ $.Params.next_titre }}</span>
+      </a>
+      {{ end }}
+    </nav>
+
+  </main>
+
+  <!-- ── Footer ── -->
+
+  <script>
+    const html = document.documentElement;
+    const btn  = document.getElementById('toggleTheme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    html.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+    btn.addEventListener('click', () => {
+      const current = html.getAttribute('data-theme');
+      html.setAttribute('data-theme', current === 'dark' ? 'light' : 'dark');
+    });
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+      html.setAttribute('data-theme', e.matches ? 'dark' : 'light');
+    });
+  </script>
+
+</body>
+</html>
