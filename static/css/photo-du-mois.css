@@ -6,10 +6,9 @@
   --surface:    #ebe7df;
   --border:     rgba(0,0,0,0.10);
   --text:       #1a1814;
-  --text-muted: #6b6459;
+  --text-muted: #000000;
   --accent:     #c0392b;
   --tag-bg:     rgba(0,0,0,0.06);
-  --overlay:    linear-gradient(to top, rgba(244,241,236,0.92) 0%, transparent 60%);
 }
 
 [data-theme="dark"] {
@@ -17,7 +16,7 @@
   --surface:    #161410;
   --border:     rgba(255,255,255,0.08);
   --text:       #e8e3da;
-  --text-muted: #7a7268;
+  --text-muted: #ffffff;
   --accent:     #e05240;
   --tag-bg:     rgba(255,255,255,0.05);
   --overlay:    linear-gradient(to top, rgba(14,13,11,0.95) 0%, transparent 55%);
