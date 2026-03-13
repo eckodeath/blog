@@ -16,7 +16,7 @@ mois: "Mars"
 auteur: "Kurt Grava"
 
 # Titre affiché en grand (HTML autorisé pour l'italique)
-titre_principal: "Lumière <em>de crête</em>"
+titre_principal: "<em>Lumière de crête</em>"
 
 # ── EXIF (optionnels, supprimer la ligne si inconnu) ──────────
 exif_focale:     "35 mm"
@@ -43,9 +43,8 @@ lieu:
 ---
 
 Ce cliché, je l'ai pris presque par hasard — ou plutôt, comme souvent, au terme d'une journée de route et de marche dans les Préalpes d'Azur. Gourdon est perché à 760 mètres, en équilibre au bord du vide, et depuis ses falaises calcaires le monde s'étale loin en contrebas. La vallée du Loup, les villages éparpillés dans les bois, la route qui serpente comme un fil dans les gorges.
-
 Le ciel était couvert ce jour-là. Une lumière froide, diffuse, sans ombres marquées. Le genre de conditions que l'on rechigne parfois à photographier — et pourtant. Cette brume légère qui noie les collines à l'horizon, cette teinte grise qui uniformise les tons, ça donne au paysage une profondeur presque mélancolique. Quelque chose de calme et de lourd à la fois.
-
 J'ai choisi de cadrer large pour inclure les rochers au premier plan, ces blocs calcaires bruts qui rappellent sur quoi repose ce village — littéralement. Sans eux, la photo perdait son ancrage, son vertige. Avec eux, on comprend d'où l'on regarde.
-
 Le traitement est resté sobre. Pas besoin de forcer quoi que ce soit : la scène avait déjà sa propre densité. Un léger travail sur les tons moyens pour éviter que tout parte dans le gris, et c'est tout. Je voulais que la photo reste honnête par rapport à ce que j'ai vécu sur place.
+
+
