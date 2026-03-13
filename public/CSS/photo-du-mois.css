@@ -19,7 +19,6 @@
   --text-muted: #ffffff;
   --accent:     #e05240;
   --tag-bg:     rgba(255,255,255,0.05);
-  --overlay:    linear-gradient(to top, rgba(14,13,11,0.95) 0%, transparent 55%);
 }
 
 /* ─── Reset & Base ────────────────────────────── */
