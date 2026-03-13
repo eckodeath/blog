@@ -167,7 +167,7 @@ main {
 .exif-strip {
   position: absolute;
   bottom: 1.2rem;
-  right: 1.2rem;
+  left: 1.2rem;
   display: flex;
   gap: 1.2rem;
   font-family: 'Space Mono', monospace;
@@ -176,7 +176,7 @@ main {
   color: rgba(255,255,255,0.72);
 }
 [data-theme="light"] .exif-strip { color: rgba(20,18,14,0.55); }
-.exif-item { display: flex; flex-direction: column; align-items: flex-end; gap: 0.1rem; }
+.exif-item { display: flex; flex-direction: column; align-items: flex-start; gap: 0.1rem; }
 .exif-label { opacity: 0.55; font-size: 0.5rem; text-transform: uppercase; letter-spacing: 0.15em; }
 
 /* ─── Meta Row ────────────────────────────────── */
