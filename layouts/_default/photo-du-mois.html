@@ -126,14 +126,10 @@
   <script>
     const html = document.documentElement;
     const btn  = document.getElementById('toggleTheme');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    html.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+    html.setAttribute('data-theme', 'light');
     btn.addEventListener('click', () => {
       const current = html.getAttribute('data-theme');
       html.setAttribute('data-theme', current === 'dark' ? 'light' : 'dark');
-    });
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
-      html.setAttribute('data-theme', e.matches ? 'dark' : 'light');
     });
   </script>
 
