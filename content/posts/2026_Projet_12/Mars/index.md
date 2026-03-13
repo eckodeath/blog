@@ -16,7 +16,7 @@ mois: "Mars"
 auteur: "Kurt Grava"
 
 # Titre affiché en grand (HTML autorisé pour l'italique)
-titre_principal: "Brume <em>de gorges</em>"
+titre_principal: "Brume de gorges"
 
 # ── EXIF (optionnels, supprimer la ligne si inconnu) ──────────
 exif_focale:     "24 mm"
