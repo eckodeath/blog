@@ -71,3 +71,5 @@ Nous sommes déjà en mars. La réflexion prend du temps et c'est normal. L'esse
 
 <p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
 <p style="text-align: right;"> Kurt G.
+
+<em>Post Scriptum :</em> Les articles photos de janvier et de février (voir même celui-ci) seront antidatés afin de respecter l'ordre chronologique des archives du blog.
