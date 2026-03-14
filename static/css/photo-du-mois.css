@@ -2,12 +2,12 @@
 :root { --transition: 0.5s ease; }
 
 [data-theme="light"] {
-  --bg:         #f4f1ec;
-  --surface:    #ebe7df;
+  --bg:         #ffffff;
+  --surface:    #f0f0f0;
   --border:     rgba(0,0,0,0.10);
   --text:       #1a1814;
   --text-muted: #000000;
-  --accent:     #c0392b;
+  --accent:     #4481B6;
   --tag-bg:     rgba(0,0,0,0.06);
 }
 
@@ -17,7 +17,7 @@
   --border:     rgba(255,255,255,0.08);
   --text:       #e8e3da;
   --text-muted: #ffffff;
-  --accent:     #e05240;
+  --accent:     #4481B6;
   --tag-bg:     rgba(255,255,255,0.05);
 }
 
