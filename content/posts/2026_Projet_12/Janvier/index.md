@@ -8,7 +8,7 @@ categories: ["Photographie"]
 
 # ── Photo principale ──────────────────────────────────────────
 # Chemin relatif depuis /static/ ou URL complète
-photo: "/posts/2026_projet_12/Janvier/2026-Projet12-Janvier.png"
+photo: "/posts/2026_projet_12/Janvier/2026-Projet12-Janvier.jpg"
 photo_alt: "Ambre japonais"
 
 # ── Infos affichées ───────────────────────────────────────────

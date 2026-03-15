@@ -8,7 +8,7 @@ categories: ["Photographie"]
 
 # ── Photo principale ──────────────────────────────────────────
 # Chemin relatif depuis /static/ ou URL complète
-photo: "/posts/2026_projet_12/Fevrier/2026-Projet12-Fevrier.png"
+photo: "/posts/2026_projet_12/Fevrier/2026-Projet12-Fevrier.jpg"
 photo_alt: "Miroir de pins"
 
 # ── Infos affichées ───────────────────────────────────────────
