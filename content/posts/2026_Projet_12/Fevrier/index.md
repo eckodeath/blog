@@ -2,7 +2,7 @@
 title: "Projet 12 : Février 2026"
 layout: "photo-du-mois"
 date: 2026-02-28
-draft: true
+draft: false
 tags: ["photographie", "projet 12", "2026", "lifestyle" ]
 categories: ["Photographie"]
 
