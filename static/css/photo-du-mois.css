@@ -151,7 +151,7 @@ main {
 .month-badge {
   position: absolute;
   top: 2.8rem;
-  left: 1.8rem;
+  left: 2.8rem;
   background: var(--bg);
   color: var(--text);
   font-family: 'Space Mono', monospace;
@@ -165,8 +165,8 @@ main {
 
 .exif-strip {
   position: absolute;
-  bottom: 2.8rem;
-  left: 2.8rem;
+  bottom: 4.8rem;
+  left: 4.8rem;
   display: flex;
   gap: 1.2rem;
   font-family: 'Space Mono', monospace;
