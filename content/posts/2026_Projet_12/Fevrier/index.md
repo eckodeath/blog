@@ -8,7 +8,7 @@ categories: ["Photographie"]
 
 # ── Photo principale ──────────────────────────────────────────
 # Chemin relatif depuis /static/ ou URL complète
-photo: "/posts/2026_projet_12/Mars/2026-Projet12-Fevrier.png"
+photo: "/posts/2026_projet_12/Fevrier/2026-Projet12-Fevrier.png"
 photo_alt: "Miroir de pins"
 
 # ── Infos affichées ───────────────────────────────────────────
@@ -37,7 +37,7 @@ materiel:
 
 # ── Lieu (optionnel) ──────────────────────────────────────────
 lieu:
-  nom: "Réserve Naturelle Nationale d'Arjuzanx"
+  nom: "Réserve Naturelle d'Arjuzanx"
   detail: "Landes, France · 44°04′N 0°46′O"
 
 ---
