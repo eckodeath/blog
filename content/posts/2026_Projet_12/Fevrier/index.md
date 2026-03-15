@@ -1,8 +1,8 @@
 ---
 title: "Projet 12 : Février 2026"
 layout: "photo-du-mois"
-date: 2026-03-15
-draft: true
+date: 2026-02-28
+draft: false
 tags: ["photographie", "projet 12", "2026", "lifestyle" ]
 categories: ["Photographie"]
 
@@ -19,19 +19,19 @@ auteur: "Kurt Grava"
 titre_principal: "Miroir de pins"
 
 # ── EXIF (optionnels, supprimer la ligne si inconnu) ──────────
-exif_focale:     "24 mm"
-exif_ouverture:  "f/1,78"
-exif_vitesse:    "1/6897 s"
-exif_iso:        "64"
+exif_focale:     "14 mm"
+exif_ouverture:  "f/2,2"
+exif_vitesse:    "10 s"
+exif_iso:        "800"
 
 # ── Matériel (optionnel) ──────────────────────────────────────
 materiel:
   - label: "Appareil photo"
     valeur: "iPhone 16 Pro Max"
   - label: "Objectif"
-    valeur: "24 mm ƒ1,78"
+    valeur: "13 mm ƒ2,2"
   - label: "Trépied"
-    valeur: "Ulanzi JJ03"
+    valeur: "SmallRig CT-10"
   - label: "Logiciel"
     valeur: "Lightroom"
 

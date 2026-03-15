@@ -2,7 +2,7 @@
 title: "Projet 12 : Janvier 2026"
 layout: "photo-du-mois"
 date: 2026-01-31
-draft: true
+draft: false
 tags: ["photographie", "projet 12", "2026", "lifestyle" ]
 categories: ["Photographie"]
 
@@ -16,7 +16,7 @@ mois: "Janvier"
 auteur: "Kurt Grava"
 
 # Titre affiché en grand (HTML autorisé pour l'italique)
-titre_principal: "Ambre <em>japonais</em>"
+titre_principal: "Ambre japonais"
 
 # ── EXIF (optionnels, supprimer la ligne si inconnu) ──────────
 exif_focale:     "24 mm"
