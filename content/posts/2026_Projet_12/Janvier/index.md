@@ -42,10 +42,10 @@ lieu:
 
 ---
 
-Ce cliché-là ne s'est pas cherché longtemps. Le coffret posé sur la table, ouvert, et cette lumière de fenêtre qui venait naturellement jouer sur l'ambre de la bouteille — il n'y avait qu'à cadrer.
+Ce cliché-là ne s'est pas cherché longtemps. Le coffret posé sur la table, ouvert, cette lumière de fenêtre qui venait jouer sur l'ambre de la bouteille — il n'y avait qu'à cadrer.
 
-J'ai choisi une légère plongée pour rester dans le coffret, pour garder ce sentiment d'un objet qu'on découvre, qu'on déballe encore. Sortir la bouteille aurait cassé quelque chose. L'ensemble — le kraft, les coupes en céramique bicolore, le whisky — racontait déjà une histoire cohérente.
+J'ai choisi une légère plongée pour rester dans le coffret, garder ce sentiment d'un objet qu'on découvre, qu'on déballe encore. Sortir la bouteille aurait cassé quelque chose. L'ensemble racontait déjà une histoire : le kraft, les coupes en céramique bicolore, le whisky.
 
-La lumière naturelle a fait le reste. Ce contraste entre le noir mat des coupes et la robe dorée de l'Akashi Meisei, je n'aurais pas pu le construire artificiellement. Certaines photos se méritent, d'autres s'offrent. Celle-ci s'est offerte.
+La lumière naturelle a fait le reste. Ce contraste entre le noir mat des coupes et la robe dorée de l'Akashi Meisei, je n'aurais pas pu le fabriquer. Certaines photos se méritent, d'autres s'offrent. Celle-ci s'est offerte.
 
-L'Akashi Meisei vient de la distillerie Eigashima, dans la région de Hyogo — la plus ancienne distillerie de whisky japonais. Un blended vieilli en fûts de bourbon, des notes de vanille et d'épices douces. Un beau cadeau. Il me tarde de l'ouvrir.
+L'Akashi Meisei vient de la distillerie Eigashima, dans la région de Hyogo — la plus ancienne distillerie de whisky japonais. Un blended vieilli en fûts de bourbon, des notes de vanille et d'épices douces. Un beau cadeau, je suis comblé.

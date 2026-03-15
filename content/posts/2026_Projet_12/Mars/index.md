@@ -42,10 +42,10 @@ lieu:
 
 ---
 
-Ce cliché, je l'ai pris presque par hasard — ou plutôt, comme souvent, au terme d'une journée de route et de marche dans les Préalpes d'Azur. Gourdon est perché à 760 mètres, en équilibre au bord du vide, et depuis ses falaises calcaires le monde s'étale loin en contrebas. La vallée du Loup, les villages éparpillés dans les bois, la route qui serpente comme un fil dans les gorges.
+Ce cliché, je l'ai pris presque par hasard — ou plutôt au terme d'une journée de route et de marche dans les Préalpes d'Azur, comme ça m'arrive souvent. Gourdon est perché à 760 mètres, en équilibre au bord du vide. Depuis ses falaises calcaires, le monde s'étale loin en contrebas : la vallée du Loup, les villages éparpillés dans les bois, la route qui serpente comme un fil dans les gorges.
 
-Le ciel était couvert ce jour-là. Une lumière froide, diffuse, sans ombres marquées. Le genre de conditions que l'on rechigne parfois à photographier — et pourtant. Cette brume légère qui noie les collines à l'horizon, cette teinte grise qui uniformise les tons, ça donne au paysage une profondeur presque mélancolique. Quelque chose de calme et de lourd à la fois.
+Le ciel était couvert ce jour-là. Une lumière froide, diffuse, sans ombres marquées. Le genre de conditions qu'on rechigne parfois à photographier, et pourtant. Cette brume légère qui noie les collines à l'horizon, cette teinte grise qui uniformise les tons — ça donne au paysage une profondeur presque mélancolique. Quelque chose de pesant et silencieux.
 
-J'ai choisi de cadrer large pour inclure les rochers au premier plan, ces blocs calcaires bruts qui rappellent sur quoi repose ce village — littéralement. Sans eux, la photo perdait son ancrage, son vertige. Avec eux, on comprend d'où l'on regarde.
+J'ai cadré large pour inclure les rochers au premier plan, ces blocs calcaires bruts qui rappellent sur quoi repose ce village. Sans eux, la photo perdait son ancrage, son vertige. Avec eux, on comprend d'où l'on regarde.
 
-Le traitement est resté sobre. Pas besoin de forcer quoi que ce soit : la scène avait déjà sa propre densité. Un léger travail sur les tons moyens pour éviter que tout parte dans le gris, et c'est tout. Je voulais que la photo reste honnête par rapport à ce que j'ai vécu sur place.
+Le traitement est resté sobre. Pas besoin de forcer : la scène avait déjà sa propre densité. Un léger travail sur les tons moyens pour éviter que tout parte dans le gris, et c'est tout. Je voulais que la photo reste fidèle à ce que j'ai vécu sur place.
