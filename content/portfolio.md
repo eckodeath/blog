@@ -5,5 +5,3 @@ layout: "portfolio"
 url: "/portfolio/"
 summary: "Mes photos — astrophotographie, voyages et quotidien."
 ---
-
-Juste un essai pour vérifier
