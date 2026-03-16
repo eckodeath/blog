@@ -1,20 +1,36 @@
 {{- define "main" }}
 
 <style>
-  /* ── RESET PAPERMOD MAX-WIDTH ── */
-  .post-single,
-  .post-content,
-  #portfolio-wrap {
-    max-width: 100% !important;
+  /* ── CASSER LE CONTENEUR PAPERMOD ── */
+  .main {
     padding: 0 !important;
-    margin: 0 !important;
-    width: 100% !important;
   }
 
-  /* ── PAGE ── */
+  .post-single {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .post-header,
+  .post-meta {
+    display: none !important;
+  }
+
+  .post-content {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+
+  /* ── PAGE PLEINE LARGEUR ── */
   #portfolio-wrap {
     background: #f5f3ef;
     min-height: 100vh;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
   }
 
   /* ── HEADER ── */
