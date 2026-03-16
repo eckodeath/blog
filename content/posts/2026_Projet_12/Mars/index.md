@@ -9,7 +9,7 @@ categories: ["Photographie"]
 # ── Photo principale ──────────────────────────────────────────
 # Chemin relatif depuis /static/ ou URL complète
 photo: "/posts/2026_projet_12/Mars/2026-Projet12-Mars.jpg"
-photo_alt: "Préalpes de Grasse"
+photo_alt: "<strong>Préalpes de Grasse</strong>"
 
 # ── Infos affichées ───────────────────────────────────────────
 mois: "Mars"

@@ -16,7 +16,7 @@ mois: "Janvier"
 auteur: "Kurt Grava"
 
 # Titre affiché en grand (HTML autorisé pour l'italique)
-titre_principal: "Ambre japonais"
+titre_principal: "<strong>Ambre japonais</strong>"
 
 # ── EXIF (optionnels, supprimer la ligne si inconnu) ──────────
 exif_focale:     "24 mm"
