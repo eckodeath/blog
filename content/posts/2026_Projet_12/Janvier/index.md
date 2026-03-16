@@ -49,10 +49,3 @@ J'ai choisi une légère plongée pour rester dans le coffret, garder ce sentime
 La lumière naturelle a fait le reste. Ce contraste entre le noir mat des coupes et la robe dorée de l'Akashi Meisei, je n'aurais pas pu le fabriquer. Certaines photos se méritent, d'autres s'offrent. Celle-ci s'est offerte.
 
 L'Akashi Meisei vient de la distillerie Eigashima, dans la région de Hyogo — la plus ancienne distillerie de whisky japonais. Un blended vieilli en fûts de bourbon, des notes de vanille et d'épices douces. Un beau cadeau, je suis comblé.
-
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://eckodeath.netlify.app/2026-projet-12/galerie"
-     style="display: inline-block; background: #f0f0f0; color: #000000; font-family: sans-serif; font-size: 0.8rem; padding: 0.4rem 1.2rem; border-radius: 6px; text-decoration: none;">
-    Retour à la galerie
-  </a>
-</div>
