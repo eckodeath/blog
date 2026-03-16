@@ -1,6 +1,6 @@
 ---
 title: "2026 - Mes bonnes résolutions"
-date: 2026-01-23
+date: 2026-01-11
 draft: false
 tags: ["lifestyle", "journal", "2026", "personnel", "minimalisme"]
 categories: ["Journal"]

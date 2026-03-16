@@ -1,6 +1,6 @@
 ---
 title: "L’Irlande authentique - jours 4 et 5"
-date: 2026-02-22
+date: 2026-02-10
 draft: false
 tags: ["ireland", "voyages", "récit", "irlande", ]
 categories: ["Voyages"]
