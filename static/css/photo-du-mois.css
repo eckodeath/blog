@@ -1,5 +1,5 @@
 /* ─── Google Fonts Import (à coller dans votre <head> HTML) ──────────────────
-   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;1,300&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;1,300&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
    ──────────────────────────────────────────────────────────────────────────── */
 
 /* ─── Theme Variables ─────────────────────────── */
@@ -32,7 +32,7 @@ html { font-size: 16px; scroll-behavior: smooth; }
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   min-height: 100vh;
   transition: background var(--transition), color var(--transition);
   overflow-x: hidden;
