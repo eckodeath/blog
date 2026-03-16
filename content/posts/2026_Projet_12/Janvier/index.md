@@ -52,7 +52,7 @@ L'Akashi Meisei vient de la distillerie Eigashima, dans la région de Hyogo — 
 
 <div style="text-align: center; margin: 2rem 0;">
   <a href="https://eckodeath.netlify.app/2026-projet-12/galerie"
-     style="display: inline-block; background: #d0d0d0; color: #4481B6; font-family: sans-serif; font-size: 1.1rem; padding: 0.75rem 2.5rem; border-radius: 8px; text-decoration: none;">
+     style="display: inline-block; background: #f0f0f0; color: #000000; font-family: sans-serif; font-size: 0.8rem; padding: 0.4rem 1.2rem; border-radius: 6px; text-decoration: none;">
     Retour à la galerie
   </a>
 </div>
