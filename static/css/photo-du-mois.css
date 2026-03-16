@@ -1,3 +1,7 @@
+/* ─── Google Fonts Import (à coller dans votre <head> HTML) ──────────────────
+   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;1,300&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
+   ──────────────────────────────────────────────────────────────────────────── */
+
 /* ─── Theme Variables ─────────────────────────── */
 :root { --transition: 0.5s ease; }
 
@@ -28,7 +32,7 @@ html { font-size: 16px; scroll-behavior: smooth; }
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'DM Sans', sans-serif;
   min-height: 100vh;
   transition: background var(--transition), color var(--transition);
   overflow-x: hidden;
@@ -55,7 +59,7 @@ header {
 }
 
 .site-name {
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.78rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -67,7 +71,7 @@ header {
 .header-right { display: flex; align-items: center; gap: 1.8rem; }
 
 .back-link {
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.68rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -97,7 +101,7 @@ header {
 
 /* ─── Section Label ───────────────────────────── */
 .section-label {
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.65rem;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -154,7 +158,7 @@ main {
   left: 2.8rem;
   background: var(--bg);
   color: var(--text);
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.62rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
@@ -169,7 +173,7 @@ main {
   left: 12.8rem;
   display: flex;
   gap: 1.2rem;
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.58rem;
   letter-spacing: 0.1em;
   color: rgba(255,255,255,0.72);
@@ -199,7 +203,7 @@ main {
 .photo-title em { font-style: italic; color: var(--text-muted); }
 
 .photo-date {
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.65rem;
   color: var(--text-muted);
   letter-spacing: 0.12em;
@@ -215,7 +219,7 @@ main {
 
 .tags { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 0.4rem; }
 .tag {
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.58rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -278,7 +282,7 @@ main {
 }
 .gear-list li:last-child { border-bottom: none; }
 .gear-key {
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.6rem;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -294,7 +298,7 @@ main {
 }
 .location-name { font-size: 1.05rem; font-weight: 300; margin-bottom: 0.2rem; }
 .location-detail {
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.6rem;
   color: var(--text-muted);
   letter-spacing: 0.1em;
@@ -321,7 +325,7 @@ main {
 }
 .nav-link.next { align-items: flex-end; }
 .nav-dir {
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.58rem;
   letter-spacing: 0.15em;
   text-transform: uppercase;
@@ -346,7 +350,7 @@ footer {
   text-align: center;
   padding: 2rem;
   border-top: 1px solid var(--border);
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 0.6rem;
   letter-spacing: 0.14em;
   color: var(--text-muted);
