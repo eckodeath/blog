@@ -364,3 +364,7 @@ a[title*="eckodeath.fr"]::after {
 .dark .logo img {
   content: url("/Logo_header_dark.png");
 }
+
+.gear-val {
+  font-style: normal !important;
+}
