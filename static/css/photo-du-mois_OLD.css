@@ -28,7 +28,7 @@ html { font-size: 16px; scroll-behavior: smooth; }
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: 'Inter', sans-serif;
+  font-family: 'Cormorant Garamond', Georgia, serif;
   min-height: 100vh;
   transition: background var(--transition), color var(--transition);
   overflow-x: hidden;
@@ -55,7 +55,7 @@ header {
 }
 
 .site-name {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.78rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -67,7 +67,7 @@ header {
 .header-right { display: flex; align-items: center; gap: 1.8rem; }
 
 .back-link {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.68rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -97,7 +97,7 @@ header {
 
 /* ─── Section Label ───────────────────────────── */
 .section-label {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.65rem;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -154,7 +154,7 @@ main {
   left: 2.8rem;
   background: var(--bg);
   color: var(--text);
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.62rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
@@ -169,7 +169,7 @@ main {
   left: 12.8rem;
   display: flex;
   gap: 1.2rem;
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.58rem;
   letter-spacing: 0.1em;
   color: rgba(255,255,255,0.72);
@@ -191,7 +191,7 @@ main {
 
 .photo-title {
   font-size: clamp(1.9rem, 4vw, 2.8rem);
-  font-weight: 100;
+  font-weight: 300;
   line-height: 1.15;
   letter-spacing: -0.01em;
   margin-bottom: 0.5rem;
@@ -199,7 +199,7 @@ main {
 .photo-title em { font-style: italic; color: var(--text-muted); }
 
 .photo-date {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.65rem;
   color: var(--text-muted);
   letter-spacing: 0.12em;
@@ -215,7 +215,7 @@ main {
 
 .tags { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 0.4rem; }
 .tag {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.58rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -250,7 +250,7 @@ main {
   line-height: 1.82;
   color: var(--text);
   margin-bottom: 1.4rem;
-  font-weight: 100;
+  font-weight: 300;
 }
 .article-body p:first-child::first-letter {
   font-size: 3.5rem;
@@ -273,12 +273,12 @@ main {
   padding: 0.55rem 0;
   border-bottom: 1px solid var(--border);
   font-size: 0.95rem;
-  font-weight: 100;
+  font-weight: 300;
   transition: border-color var(--transition);
 }
 .gear-list li:last-child { border-bottom: none; }
 .gear-key {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.6rem;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -292,9 +292,9 @@ main {
   border-radius: 2px;
   transition: background var(--transition);
 }
-.location-name { font-size: 1.05rem; font-weight: 100; margin-bottom: 0.2rem; }
+.location-name { font-size: 1.05rem; font-weight: 300; margin-bottom: 0.2rem; }
 .location-detail {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.6rem;
   color: var(--text-muted);
   letter-spacing: 0.1em;
@@ -321,7 +321,7 @@ main {
 }
 .nav-link.next { align-items: flex-end; }
 .nav-dir {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.58rem;
   letter-spacing: 0.15em;
   text-transform: uppercase;
@@ -329,7 +329,7 @@ main {
 }
 .nav-title {
   font-size: 1rem;
-  font-weight: 100;
+  font-weight: 300;
   font-style: italic;
   transition: color 0.2s;
 }
@@ -346,7 +346,7 @@ footer {
   text-align: center;
   padding: 2rem;
   border-top: 1px solid var(--border);
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 0.6rem;
   letter-spacing: 0.14em;
   color: var(--text-muted);
