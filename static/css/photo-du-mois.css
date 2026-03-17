@@ -284,7 +284,10 @@ main {
   letter-spacing: 0.12em;
   color: var(--text-muted);
 }
-.gear-val { font-style: normal !important; }
+.gear-val { 
+  font-style: normal !important; 
+  font-weight: 400 !important;
+}
 
 .location-block {
   background: var(--surface);
