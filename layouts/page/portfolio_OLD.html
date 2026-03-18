@@ -92,24 +92,37 @@
     border-color: #1a1a18;
   }
 
-  /* ── MASONRY GRID (JS) ── */
+  /* ── MASONRY GRID ── */
   .pf-masonry {
-    position: relative;
+    columns: 3;
+    column-gap: 4px;
     padding: 0 4px 80px;
   }
 
+  @media (max-width: 900px) { .pf-masonry { columns: 2; } }
+  @media (max-width: 520px) { .pf-masonry { columns: 1; } }
+
   .pf-item {
-    position: absolute;
+    break-inside: avoid;
+    margin-bottom: 4px;
+    position: relative;
     overflow: hidden;
     cursor: pointer;
+    display: block;
     opacity: 0;
-    transform: translateY(12px);
-    transition: opacity 0.4s ease, transform 0.4s ease;
+    transform: translateY(16px);
+    animation: pfFadeIn 0.6s ease forwards;
   }
 
-  .pf-item.visible {
-    opacity: 1;
-    transform: translateY(0);
+  .pf-item:nth-child(1) { animation-delay: 0.05s; }
+  .pf-item:nth-child(2) { animation-delay: 0.10s; }
+  .pf-item:nth-child(3) { animation-delay: 0.15s; }
+  .pf-item:nth-child(4) { animation-delay: 0.20s; }
+  .pf-item:nth-child(5) { animation-delay: 0.25s; }
+  .pf-item:nth-child(6) { animation-delay: 0.30s; }
+
+  @keyframes pfFadeIn {
+    to { opacity: 1; transform: translateY(0); }
   }
 
   .pf-item img {
@@ -598,53 +611,10 @@ function filteredPhotos() {
     : pfPhotos.filter(p => p.category === currentFilter);
 }
 
-function getColCount() {
-  const w = window.innerWidth;
-  if (w <= 520) return 1;
-  if (w <= 900) return 2;
-  return 3;
-}
-
-function layoutMasonry() {
-  const grid = document.getElementById('pfGrid');
-  const items = Array.from(grid.querySelectorAll('.pf-item'));
-  if (!items.length) return;
-
-  const gap = 4;
-  const cols = getColCount();
-  const totalWidth = grid.offsetWidth - gap * 2;
-  const colWidth = (totalWidth - gap * (cols - 1)) / cols;
-  const colHeights = new Array(cols).fill(0);
-
-  items.forEach((item, i) => {
-    // Find shortest column (left-to-right on tie)
-    let minH = Infinity, col = 0;
-    for (let c = 0; c < cols; c++) {
-      if (colHeights[c] < minH) { minH = colHeights[c]; col = c; }
-    }
-
-    const x = gap + col * (colWidth + gap);
-    const y = colHeights[col];
-
-    item.style.width = colWidth + 'px';
-    item.style.left  = x + 'px';
-    item.style.top   = y + 'px';
-
-    colHeights[col] += item.offsetHeight + gap;
-
-    // Staggered fade-in
-    setTimeout(() => item.classList.add('visible'), i * 40);
-  });
-
-  grid.style.height = Math.max(...colHeights) + 'px';
-}
-
 function renderGrid() {
   visiblePhotos = filteredPhotos();
   const grid = document.getElementById('pfGrid');
   grid.innerHTML = '';
-  grid.style.height = 'auto';
-
   visiblePhotos.forEach((photo, i) => {
     const item = document.createElement('div');
     item.className = 'pf-item';
@@ -660,30 +630,7 @@ function renderGrid() {
     });
     grid.appendChild(item);
   });
-
-  // Wait for images to load before laying out
-  const imgs = grid.querySelectorAll('img');
-  let loaded = 0;
-  const total = imgs.length;
-
-  function onLoad() {
-    loaded++;
-    if (loaded === total) layoutMasonry();
-  }
-
-  imgs.forEach(img => {
-    if (img.complete) onLoad();
-    else { img.addEventListener('load', onLoad); img.addEventListener('error', onLoad); }
-  });
-
-  if (total === 0) layoutMasonry();
 }
-
-window.addEventListener('resize', () => {
-  const items = document.querySelectorAll('.pf-item');
-  items.forEach(i => i.classList.remove('visible'));
-  layoutMasonry();
-});
 
 document.querySelectorAll('.pf-filter').forEach(btn => {
   btn.addEventListener('click', () => {
