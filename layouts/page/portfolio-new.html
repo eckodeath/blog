@@ -1,0 +1,748 @@
+{{- define "main" }}
+
+<style>
+  /* ── CASSER LE CONTENEUR PAPERMOD ── */
+  .main {
+    padding: 0 !important;
+  }
+
+  .post-single {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .post-header,
+  .post-meta {
+    display: none !important;
+  }
+
+  .post-content {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+
+  /* ── PAGE PLEINE LARGEUR ── */
+  #portfolio-wrap {
+    background: #fbfaf8;
+    min-height: 100vh;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+  }
+
+  /* ── HEADER ── */
+  .pf-header {
+    padding: 64px 48px 48px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+
+  .pf-header-left h1 {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: clamp(1.6rem, 3vw, 2.4rem);
+    font-weight: 300;
+    font-style: normal;
+    color: #1a1a18;
+    line-height: 1.1;
+    margin: 0 0 10px;
+    letter-spacing: 0.04em;
+  }
+
+  .pf-header-left p {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #aaa;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin: 0;
+  }
+
+  .pf-header-right {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .pf-filter {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #999;
+    background: transparent;
+    border: 1px solid #ccc;
+    padding: 6px 16px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 0;
+  }
+
+  .pf-filter:hover,
+  .pf-filter.active {
+    background: #1a1a18;
+    color: #f5f3ef;
+    border-color: #1a1a18;
+  }
+
+  /* ── MASONRY GRID (JS) ── */
+  .pf-masonry {
+    position: relative;
+    padding: 0 4px 80px;
+  }
+
+  .pf-item {
+    position: absolute;
+    overflow: hidden;
+    cursor: pointer;
+    opacity: 0;
+    transform: translateY(12px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+  }
+
+  .pf-item.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .pf-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+                filter 0.4s ease;
+    filter: brightness(1);
+  }
+
+  .pf-item:hover img {
+    transform: scale(1.02);
+    filter: brightness(0.88);
+  }
+
+  /* Caption on hover */
+  .pf-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 40px 20px 18px;
+    background: linear-gradient(to top, rgba(0,0,0,0.55) 0%, transparent 100%);
+    opacity: 0;
+    transition: opacity 0.35s ease;
+    pointer-events: none;
+  }
+
+  .pf-item:hover .pf-caption { opacity: 1; }
+
+  .pf-caption-title {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    margin: 0 0 3px;
+    line-height: 1.3;
+  }
+
+  .pf-caption-meta {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 11px;
+    color: rgba(255,255,255,0.65);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  /* ── LIGHTBOX ── */
+  .pf-lb {
+    position: fixed;
+    inset: 0;
+    background: rgba(20,19,17,0.96);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+  }
+
+  .pf-lb.open {
+    opacity: 1;
+    pointer-events: all;
+  }
+
+  .pf-lb-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 92vw;
+    max-height: 92vh;
+    gap: 16px;
+  }
+
+  .pf-lb-content img {
+    max-width: 92vw;
+    max-height: 80vh;
+    object-fit: contain;
+    display: block;
+  }
+
+  .pf-lb-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+  }
+
+  .pf-lb-title {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    color: #e8e6e0;
+  }
+
+  .pf-lb-meta {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 11px;
+    color: rgba(255,255,255,0.4);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  .pf-lb-prev,
+  .pf-lb-next {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: rgba(255,255,255,0.35);
+    font-size: 28px;
+    cursor: pointer;
+    padding: 16px;
+    transition: color 0.2s;
+    line-height: 1;
+  }
+
+  .pf-lb-prev { left: 16px; }
+  .pf-lb-next { right: 16px; }
+  .pf-lb-prev:hover,
+  .pf-lb-next:hover { color: rgba(255,255,255,0.9); }
+
+  .pf-lb-close {
+    position: fixed;
+    top: 20px;
+    right: 24px;
+    background: none;
+    border: none;
+    color: rgba(255,255,255,0.45);
+    font-size: 28px;
+    cursor: pointer;
+    padding: 8px;
+    transition: color 0.2s;
+    line-height: 1;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+  }
+
+  .pf-lb-close:hover { color: #fff; }
+
+  .pf-lb-counter {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 11px;
+    color: rgba(255,255,255,0.3);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
+
+  /* ── HIDE PAPERMOD PAGE TITLE ── */
+  .post-header { display: none !important; }
+</style>
+
+<div id="portfolio-wrap">
+
+  <header class="pf-header">
+    <div class="pf-header-left">
+      <h1>Portfolio</h1>
+      <p>par Kurt Grava</p>
+    </div>
+    <div class="pf-header-right">
+      <button class="pf-filter active" data-filter="all">Tout</button>
+      <button class="pf-filter" data-filter="travel">Voyages</button>
+      <button class="pf-filter" data-filter="2017Projet12">Projet 12 - 2017</button>
+      <button class="pf-filter" data-filter="2018Projet12">Projet 12 - 2018</button>
+      <button class="pf-filter" data-filter="2017USA">USA - 2017</button>
+    </div>
+  </header>
+
+  <div class="pf-masonry" id="pfGrid"></div>
+
+</div>
+
+<!-- LIGHTBOX -->
+<div class="pf-lb" id="pfLb">
+  <button class="pf-lb-close" id="pfLbClose">&#215;</button>
+  <button class="pf-lb-prev" id="pfLbPrev">&#8592;</button>
+  <button class="pf-lb-next" id="pfLbNext">&#8594;</button>
+  <div class="pf-lb-content">
+    <img id="pfLbImg" src="" alt="" />
+    <div class="pf-lb-info">
+      <div class="pf-lb-title" id="pfLbTitle"></div>
+      <div class="pf-lb-meta" id="pfLbMeta"></div>
+    </div>
+  </div>
+  <div class="pf-lb-counter" id="pfLbCounter"></div>
+</div>
+
+<script>
+const pfPhotos = [
+  {
+    id: 1, category: 'travel',
+    title: 'Midleton Distillery',
+    desc: "Verrière à l'entrée",
+    date: 'Juin 2025', location: 'Irlande', gear: 'iPhone 16 PM',
+    img: '/posts/voyages/ireland-part-3/2025-Irlande-303.jpg',
+  },
+  {
+    id: 2, category: 'travel',
+    title: 'Midleton Distillery 01',
+    desc: 'Présentoir',
+    date: 'Juin 2025', location: 'Irlande', gear: 'iPhone 16 PM',
+    img: '/posts/voyages/ireland-part-3/2025-Irlande-307.jpg',
+  },
+  {
+    id: 3, category: 'travel',
+    title: 'Midleton Distillery 02',
+    desc: 'Whisky en pleine maturation',
+    date: 'Juin 2025', location: 'Irlande', gear: 'iPhone 16 PM',
+    img: '/posts/voyages/ireland-part-3/2025-Irlande-321.jpg',
+  },
+  {
+    id: 4, category: 'travel',
+    title: 'Death Valley National Park',
+    desc: 'Salt Lake',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://miro.medium.com/v2/resize:fit:2000/format:webp/1*2NJr7u7mkjP05GV63sTIXQ.jpeg',
+  },
+  {
+    id: 5, category: 'travel',
+    title: 'Las Vegas Hostel',
+    desc: 'Adagio Hostel',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/7svr6KoNGGnWRFGvj1rlvINh/detail',
+  },
+  {
+    id: 50, category: '2017Projet12',
+    title: 'Raindrops',
+    desc: '',
+    date: 'Janvier 2017', location: 'France', gear: 'iPhone 6s',
+    img: 'https://images.refrakt.app/v2/variant/NYBL0RXXBCnyM8ugGkh54reF/detail',
+  },
+  {
+    id: 51, category: '2017Projet12',
+    title: 'Pontoon on the lake',
+    desc: '',
+    date: 'Février 2017', location: 'France', gear: 'iPhone 6s',
+    img: 'https://images.refrakt.app/v2/variant/B3ufSnkAHR9fkSS05XlQ93dX/detail',
+  },
+  {
+    id: 52, category: '2017Projet12',
+    title: 'Church',
+    desc: '',
+    date: 'Mars 2017', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/G22FSshyKuhNOjvWUeUikX09/detail',
+  },
+  {
+    id: 53, category: '2017Projet12',
+    title: 'Field of the Martyrs',
+    desc: '',
+    date: 'Avril 2017', location: 'Portugal', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/dFrdMpJSF6lG6QFM9gkrmFE0/detail',
+  },
+  {
+    id: 54, category: '2017Projet12',
+    title: 'Lily of the valley',
+    desc: '',
+    date: 'Mai 2017', location: 'France', gear: 'iPhone 6s',
+    img: 'https://images.refrakt.app/v2/variant/PHUZqjU9LIAWxMPqpFz05onF/detail',
+  },
+  {
+    id: 55, category: '2017Projet12',
+    title: 'Horizon and sky',
+    desc: '',
+    date: 'Juin 2017', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/jc7BgDzmwozl0Wd4ErGbnNwp/detail',
+  },
+  {
+    id: 56, category: '2017Projet12',
+    title: 'Harbor',
+    desc: '',
+    date: 'Juillet 2017', location: 'France', gear: 'iPhone 6s',
+    img: 'https://images.refrakt.app/v2/variant/ltjBvJHuf33CHigimR0kFXH5/detail',
+  },
+  {
+    id: 57, category: '2017Projet12',
+    title: 'Cliff at the ocean',
+    desc: '',
+    date: 'Aout 2017', location: 'Portugal', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/sDykDxOkbDtlMdEt8SEUxkUs/detail',
+  },
+   {
+    id: 58, category: '2017Projet12',
+    title: 'Lower Antelope Canyon',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/vL5nzTxaJYxOHPBgCkM6dHGi/detail',
+  },
+  {
+    id: 59, category: '2017Projet12',
+    title: 'On the road to Monument Valley',
+    desc: '',
+    date: 'Octobre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/UmNx7wxuLID1DVKycz2Zy3Yv/detail',
+  },
+  {
+    id: 60, category: '2017Projet12',
+    title: 'Under the rain',
+    desc: '',
+    date: 'Novembre 2017', location: 'France', gear: 'iPhone 6s',
+    img: 'https://images.refrakt.app/v2/variant/7ljcbgniKeWv7qvyp4cNi7Or/detail',
+  },
+  {
+    id: 61, category: '2017Projet12',
+    title: 'Christmas selfie',
+    desc: '',
+    date: 'Décembre 2017', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/Y5znaqOhvh60Ag0cAkBgJjQQ/detail',
+  },
+  {
+    id: 62, category: '2018Projet12',
+    title: 'Abandoned',
+    desc: '',
+    date: 'Janvier 2018', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/KIaD8m1ViEvaxiiWGtXI1ojl/detail',
+  },
+  {
+    id: 63, category: '2018Projet12',
+    title: 'Snowy',
+    desc: '',
+    date: 'Février 2018', location: 'France', gear: 'iPhone 6s',
+    img: 'https://images.refrakt.app/v2/variant/9s8Tq8HL7W6i7GA54WmAxvie/detail',
+  },
+  {
+    id: 64, category: '2018Projet12',
+    title: 'From where I stand on the wooden deck',
+    desc: '',
+    date: 'Mars 2018', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/Qi0QikT96qmML8tu1VKsZLAd/detail',
+  },
+  {
+    id: 65, category: '2018Projet12',
+    title: 'Enjoy your meal',
+    desc: '',
+    date: 'Avril 2018', location: 'France', gear: 'iPhone 6s',
+    img: 'https://images.refrakt.app/v2/variant/PQPchdnou77eOKsbQiDZrbge/detail',
+  },
+  {
+    id: 66, category: '2018Projet12',
+    title: 'Sleeping beauty castle',
+    desc: '',
+    date: 'Mai 2018', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/eCo2oX2BC3b1ONk90EOWB1M9/detail',
+  },
+  {
+    id: 67, category: '2018Projet12',
+    title: 'In the sea',
+    desc: '',
+    date: 'Juin 2018', location: 'France', gear: 'iPhone 6s',
+    img: 'https://images.refrakt.app/v2/variant/kVQZdu3Y8EFECE5cdVbWnGcE/detail',
+  },
+  {
+    id: 68, category: '2018Projet12',
+    title: 'Ferris wheel at sunset',
+    desc: '',
+    date: 'Juillet 2018', location: 'France', gear: 'iPhone 6s',
+    img: 'https://images.refrakt.app/v2/variant/1mQxCLnhq5G9o9NZsRk5Qt0p/detail',
+  },
+  {
+    id: 69, category: '2018Projet12',
+    title: 'Horizon',
+    desc: '',
+    date: 'Aout 2018', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/etigzLzlqHpmEpzyGCMhklxz/detail',
+  },
+   {
+    id: 70, category: '2018Projet12',
+    title: 'Maritime channel',
+    desc: '',
+    date: 'Septembre 2018', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/R8ywEfuzxTIK46TeXrYmWAO4/detail',
+  },
+  {
+    id: 71, category: '2018Projet12',
+    title: 'Urban street',
+    desc: '',
+    date: 'Octobre 2018', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/yocqBbKW0IgXLx34jmPcDl5u/detail',
+  },
+  {
+    id: 72, category: '2018Projet12',
+    title: 'Victory symbol',
+    desc: '',
+    date: 'Novembre 2018', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/Ouehz928cyYu7gCMq5fNsLdB/detail',
+  },
+  {
+    id: 73, category: '2018Projet12',
+    title: 'Merry Christmas',
+    desc: '',
+    date: 'Décembre 2018', location: 'France', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/rMv1i0k4Je5G2c8gWAB0v4sA/detail',
+  },
+  {
+    id: 100, category: '2017USA',
+    title: 'Partie 1  - Los Angeles',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/ffhCMwsIZPIqZMUhqkbaauZd/detail',
+    url: 'https://refrakt.app/series/2017-los-angeles',
+  },
+  {
+    id: 101, category: '2017USA',
+    title: 'Partie 2 - Sur la route 66',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/2wvtm5TAloiTZJsOSqnAX8JW/detail',
+    url: 'https://refrakt.app/series/2017-sur-la-route-66-partie-1',
+  },
+  {
+    id: 102, category: '2017USA',
+    title: 'Partie 3  - Grand Canyon',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/cESIAtbO1ae30NReDd4Chkrt/detail',
+    url: 'https://refrakt.app/series/2017-grand-canyon',
+  },
+  {
+    id: 103, category: '2017USA',
+    title: 'Partie 4 - Monument Valley',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/YD3pAsegHQcX7Ohf3kssBgov/detail',
+    url: 'https://refrakt.app/series/2017-monument-valley-et-ses-environs',
+  },
+  {
+    id: 104, category: '2017USA',
+    title: 'Partie 5  - Page et ses environs',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/wCs5NAkXZHHKYt02T87Vv02I/detail',
+    url: 'https://refrakt.app/series/2017-page-et-ses-environs',
+  },
+  {
+    id: 105, category: '2017USA',
+    title: 'Partie 6 - Antelope Canyon',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/xXf6uay9wtadDLSCostUnDBG/detail',
+    url: 'https://refrakt.app/series/2017-antelope-canyon',
+  },
+  {
+    id: 106, category: '2017USA',
+    title: 'Partie 7  - Bryce Canyon',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/scIfpbBLdsRMGCLM96LQdiWn/detail',
+    url: 'https://refrakt.app/series/2017-bryce-canyon',
+  },
+  {
+    id: 107, category: '2017USA',
+    title: 'Partie 8  - Las Vegas',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/WKDeFm1ua44gWPirRleEbHQU/detail',
+    url: 'https://refrakt.app/series/2017-las-vegas-partie-1',
+  },
+  {
+    id: 108, category: '2017USA',
+    title: 'Partie 9  - Death Valley',
+    desc: '',
+    date: 'Septembre 2017', location: 'USA', gear: 'Sony Nex-5R',
+    img: 'https://images.refrakt.app/v2/variant/XIpLZMuzOwtwv8Er1EJIAVDd/detail',
+    url: 'https://refrakt.app/series/2017-death-valley',
+  },
+];
+
+let currentFilter = 'all';
+let currentIndex  = 0;
+let visiblePhotos = [...pfPhotos];
+
+function filteredPhotos() {
+  return currentFilter === 'all'
+    ? pfPhotos
+    : pfPhotos.filter(p => p.category === currentFilter);
+}
+
+function getColCount() {
+  const w = window.innerWidth;
+  if (w <= 520) return 1;
+  if (w <= 900) return 2;
+  return 3;
+}
+
+function layoutMasonry() {
+  const grid = document.getElementById('pfGrid');
+  const items = Array.from(grid.querySelectorAll('.pf-item'));
+  if (!items.length) return;
+
+  const gap = 4;
+  const cols = getColCount();
+  const totalWidth = grid.offsetWidth - gap * 2;
+  const colWidth = (totalWidth - gap * (cols - 1)) / cols;
+  const colHeights = new Array(cols).fill(0);
+
+  items.forEach((item, i) => {
+    // Find shortest column (left-to-right on tie)
+    let minH = Infinity, col = 0;
+    for (let c = 0; c < cols; c++) {
+      if (colHeights[c] < minH) { minH = colHeights[c]; col = c; }
+    }
+
+    const x = gap + col * (colWidth + gap);
+    const y = colHeights[col];
+
+    item.style.width = colWidth + 'px';
+    item.style.left  = x + 'px';
+    item.style.top   = y + 'px';
+
+    colHeights[col] += item.offsetHeight + gap;
+
+    // Staggered fade-in
+    setTimeout(() => item.classList.add('visible'), i * 40);
+  });
+
+  grid.style.height = Math.max(...colHeights) + 'px';
+}
+
+function renderGrid() {
+  visiblePhotos = filteredPhotos();
+  const grid = document.getElementById('pfGrid');
+  grid.innerHTML = '';
+  grid.style.height = 'auto';
+
+  visiblePhotos.forEach((photo, i) => {
+    const item = document.createElement('div');
+    item.className = 'pf-item';
+    item.innerHTML = `
+      <img src="${photo.img}" alt="${photo.title}" loading="lazy" />
+      <div class="pf-caption">
+        <div class="pf-caption-title">${photo.title}</div>
+        <div class="pf-caption-meta">${photo.date} &nbsp;·&nbsp; ${photo.location}</div>
+      </div>`;
+    item.addEventListener('click', () => {
+      if (photo.url) window.open(photo.url, '_blank');
+      else openLb(i);
+    });
+    grid.appendChild(item);
+  });
+
+  // Wait for images to load before laying out
+  const imgs = grid.querySelectorAll('img');
+  let loaded = 0;
+  const total = imgs.length;
+
+  function onLoad() {
+    loaded++;
+    if (loaded === total) layoutMasonry();
+  }
+
+  imgs.forEach(img => {
+    if (img.complete) onLoad();
+    else { img.addEventListener('load', onLoad); img.addEventListener('error', onLoad); }
+  });
+
+  if (total === 0) layoutMasonry();
+}
+
+window.addEventListener('resize', () => {
+  const items = document.querySelectorAll('.pf-item');
+  items.forEach(i => i.classList.remove('visible'));
+  layoutMasonry();
+});
+
+document.querySelectorAll('.pf-filter').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.pf-filter').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentFilter = btn.dataset.filter;
+    renderGrid();
+  });
+});
+
+const lb        = document.getElementById('pfLb');
+const lbImg     = document.getElementById('pfLbImg');
+const lbTitle   = document.getElementById('pfLbTitle');
+const lbMeta    = document.getElementById('pfLbMeta');
+const lbCounter = document.getElementById('pfLbCounter');
+
+function openLb(index) {
+  currentIndex = index;
+  updateLb();
+  lb.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function updateLb() {
+  const p = visiblePhotos[currentIndex];
+  lbImg.src = p.img;
+  lbImg.alt = p.title;
+  lbTitle.textContent = p.title + (p.desc ? ' — ' + p.desc : '');
+  lbMeta.innerHTML    = `${p.gear}<br>${p.date} · ${p.location}`;
+  lbCounter.textContent = `${currentIndex + 1} / ${visiblePhotos.length}`;
+}
+
+function closeLb() {
+  lb.classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+document.getElementById('pfLbClose').addEventListener('click', closeLb);
+
+document.getElementById('pfLbPrev').addEventListener('click', () => {
+  currentIndex = (currentIndex - 1 + visiblePhotos.length) % visiblePhotos.length;
+  updateLb();
+});
+
+document.getElementById('pfLbNext').addEventListener('click', () => {
+  currentIndex = (currentIndex + 1) % visiblePhotos.length;
+  updateLb();
+});
+
+lb.addEventListener('click', e => { if (e.target === lb) closeLb(); });
+
+document.addEventListener('keydown', e => {
+  if (!lb.classList.contains('open')) return;
+  if (e.key === 'Escape')     closeLb();
+  if (e.key === 'ArrowLeft')  { currentIndex = (currentIndex - 1 + visiblePhotos.length) % visiblePhotos.length; updateLb(); }
+  if (e.key === 'ArrowRight') { currentIndex = (currentIndex + 1) % visiblePhotos.length; updateLb(); }
+});
+
+renderGrid();
+</script>
+
+{{- end }}
