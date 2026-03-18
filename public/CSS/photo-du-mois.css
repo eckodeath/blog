@@ -150,8 +150,8 @@ main {
 
 .month-badge {
   position: absolute;
-  top: 1.2rem;
-  left: 1.2rem;
+  top: 2.8rem;
+  left: 2.8rem;
   background: var(--bg);
   color: var(--text);
   font-family: 'Space Mono', monospace;
@@ -165,8 +165,8 @@ main {
 
 .exif-strip {
   position: absolute;
-  bottom: 1.2rem;
-  left: 1.2rem;
+  bottom: 12.8rem;
+  left: 12.8rem;
   display: flex;
   gap: 1.2rem;
   font-family: 'Space Mono', monospace;
@@ -284,7 +284,10 @@ main {
   letter-spacing: 0.12em;
   color: var(--text-muted);
 }
-.gear-val { font-style: italic; }
+.gear-val { 
+  font-style: normal !important; 
+  font-weight: 400 !important;
+}
 
 .location-block {
   background: var(--surface);

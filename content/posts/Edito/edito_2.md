@@ -1,7 +1,7 @@
 ---
 title: "Edito #2 – Remettre de l'ordre"
-date: 2025-08-12
-draft: true
+date: 2026-03-17
+draft: false
 tags: ["édito", "essentiels", "écriture", "blog", "présentation"]
 categories: ["Edito"]
 summary: ""
