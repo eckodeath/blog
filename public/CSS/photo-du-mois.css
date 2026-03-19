@@ -165,8 +165,8 @@ main {
 
 .exif-strip {
   position: absolute;
-  bottom: 12.8rem;
-  left: 12.8rem;
+  bottom: 1.8rem;
+  left: 1.8rem;
   display: flex;
   gap: 1.2rem;
   font-family: 'Space Mono', monospace;
