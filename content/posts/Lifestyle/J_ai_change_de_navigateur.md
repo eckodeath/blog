@@ -61,13 +61,3 @@ Firefox, c’est l’alternative qui coche plusieurs cases :
 ---
 
 **Pour conclure** : Chrome reste roi de la performance brute et de l’intégration Google, mais Firefox brille par sa philosophie, son respect de la vie privée, sa flexibilité et sa meilleure optimisation sur macOS. C’est une question de priorités… et pour moi, la confidentialité l’a emporté.
-
-
----
-
-{{< amazon
-  name="Desk Valet"
-  img="https://m.media-amazon.com/images/I/71eK3weLNLL._AC_SL1500_.jpg"
-  url="https://amzn.to/41ndZVy"
-  dark="true"
->}}
