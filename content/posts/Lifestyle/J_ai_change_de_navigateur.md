@@ -61,3 +61,105 @@ Firefox, c’est l’alternative qui coche plusieurs cases :
 ---
 
 **Pour conclure** : Chrome reste roi de la performance brute et de l’intégration Google, mais Firefox brille par sa philosophie, son respect de la vie privée, sa flexibilité et sa meilleure optimisation sur macOS. C’est une question de priorités… et pour moi, la confidentialité l’a emporté.
+
+
+---
+
+---
+title: "Nom de l'article"
+date: 2026-03-20
+---
+
+<!-- =============================================
+     BANNIÈRE PRODUIT — Template réutilisable
+     Remplace les valeurs entre [CROCHETS]
+     ============================================= -->
+
+<div style="
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 60%, #0f3460 100%);
+  border-radius: 16px;
+  padding: 28px 32px;
+  margin: 32px 0;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+  font-family: 'Georgia', serif;
+  color: #fff;
+  overflow: hidden;
+  position: relative;
+">
+
+  <!-- Effet décoratif de fond -->
+  <div style="
+    position: absolute;
+    top: -40px; right: -40px;
+    width: 180px; height: 180px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.04);
+    pointer-events: none;
+  "></div>
+
+  <!-- Image du produit -->
+  <img
+    src="https://m.media-amazon.com/images/I/71eK3weLNLL._AC_SL1500_.jpg"
+    alt="Desk Valet Brown"
+    style="
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+      border-radius: 12px;
+      flex-shrink: 0;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+      border: 2px solid rgba(255,255,255,0.1);
+    "
+  />
+
+  <!-- Infos produit -->
+  <div style="flex: 1; min-width: 0;">
+    <p style="
+      margin: 0 0 4px 0;
+      font-size: 0.75rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.5);
+      font-family: 'Arial', sans-serif;
+    ">Produit recommandé</p>
+
+    <h3 style="
+      margin: 0 0 16px 0;
+      font-size: 1.4rem;
+      font-weight: 700;
+      line-height: 1.2;
+      color: #fff;
+      font-family: 'Georgia', serif;
+    ">Desk Valet</h3>
+
+    <!-- Bouton -->
+    <a
+      href="https://amzn.to/4uWWjho"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="
+        display: inline-block;
+        padding: 10px 22px;
+        background: #e94560;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 8px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        font-family: 'Arial', sans-serif;
+        letter-spacing: 0.05em;
+        transition: background 0.2s;
+      "
+      onmouseover="this.style.background='#c73652'"
+      onmouseout="this.style.background='#e94560'"
+    >
+      Voir le produit →
+    </a>
+  </div>
+
+</div>
+
+<!-- Suite de l'article ici -->
