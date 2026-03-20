@@ -3,7 +3,7 @@
 {{ $border := cond $dark "1px solid #181818" "1px solid #e8e8e8" }}
 {{ $nameColor := cond $dark "#f0f0f0" "#111" }}
 {{ $priceColor := cond $dark "#FF9900" "#B12704" }}
-{{ $imgBg := cond $dark "#2a2a3e" "#f7f7f7" }}
+{{ $imgBg := cond $dark "#1F1F1F" "#f7f7f7" }}
 <div style="display:flex;align-items:center;gap:20px;background:{{ $bg }};border:{{ $border }};border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 2px 12px rgba(0,0,0,0.15);font-family:-apple-system,'Segoe UI',sans-serif;position:relative;overflow:hidden;">
 <div style="position:absolute;left:0;top:0;bottom:0;width:4px;background:#FF9900;border-radius:12px 0 0 12px;"></div>
 <a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer sponsored" data-umami-event="Amazon - Article (contenu)" style="flex-shrink:0;display:block;">
