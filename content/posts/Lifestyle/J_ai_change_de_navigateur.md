@@ -70,4 +70,5 @@ Firefox, c’est l’alternative qui coche plusieurs cases :
   img="https://m.media-amazon.com/images/I/71eK3weLNLL._AC_SL1500_.jpg"
   url="https://amzn.to/41ndZVy"
   price="29,99"
+  dark="true"
 >}}
