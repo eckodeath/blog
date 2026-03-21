@@ -63,7 +63,11 @@ draft: false
 
 Eckodeath.fr est un site web statique créé avec <a href="https://gohugo.io/" target="_blank">Hugo</a> et j'utilise le thème <a href="https://github.com/adityatelange/hugo-PaperMod" target="_blank">PaperMod</a> pour obtenir un design épuré et responsive. J'ai optimisé le site moi-même et avec beaucoup d'amour et surtout de patience. Le code source est géré sur <a href="https://github.com/" target="_blank">GitHub</a> et le site est déployé automatiquement via <a href="https://www.netlify.com/" target="_blank">Netlify</a>. Le nom de domaine eckodeath.fr est quant à lui enregistré et géré chez <a href="https://www.ovhcloud.com/" target="_blank">OVH</a>.
 
-**© eckodeath.fr - Tous droits réservés** : Les textes, photos et vidéos partagés ici sont le fruit de mon travail et de mes expériences. Merci de ne pas les utiliser sans mon autorisation écrite. Si vous souhaitez partager un extrait, contactez-moi : je suis toujours ouvert à l’échange !
+## <p style="text-align: center;"> Mon matériel
+
+J'ai crée une page dédiée si vos souhaitez découvrir l'ensemble du matériel que j'utilise au quotidien (bien entendu cette page sera mise à jour au fur et à mesure de son évolution)
+
+<p style="text-align: center;"><a href="https://eckodeath.netlify.app/materiel/">Mon matériel au quotidien</a>
 
 
 ## <p style="text-align: center;"> Mes réseaux sociaux
@@ -72,3 +76,4 @@ Eckodeath.fr est un site web statique créé avec <a href="https://gohugo.io/" t
       Merci de suivre mes aventures sur <strong>eckodeath.fr</strong>. Si vous souhaitez me suivre sur les divers réseaux sociaux que j’utilise, je vous laisse le lien vers ma page personnelle : <a href="https://eckodeath.carrd.co" target="_blank">eckodeath.carrd.co</a>
 </p>
 
+**© eckodeath.fr - Tous droits réservés** : Les textes, photos et vidéos partagés ici sont le fruit de mon travail et de mes expériences. Merci de ne pas les utiliser sans mon autorisation écrite. Si vous souhaitez partager un extrait, contactez-moi : je suis toujours ouvert à l’échange !
