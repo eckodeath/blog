@@ -368,3 +368,39 @@ a[title*="eckodeath.fr"]::after {
 .gear-val {
   font-style: normal !important;
 }
+
+/* â”€â”€ Search icon : remplace le texte par un SVG loupe â”€â”€ */
+#menu-item-search a {
+font-size: 0; /* cache le texte "search" */
+display: inline-flex;
+align-items: center;
+justify-content: center;
+width: 24px;
+height: 24px;
+opacity: 0.75;
+transition: opacity 0.25s ease, transform 0.25s ease;
+}
+#menu-item-search a:hover {
+opacity: 1;
+transform: scale(1.12);
+}
+#menu-item-search a::before {
+content: "";
+display: block;
+width: 20px;
+height: 20px;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5' stroke='currentColor' stroke-width='1.6' stroke-linecap='round'/%3E%3Ccircle cx='10.5' cy='10.5' r='4.5' stroke='currentColor' stroke-width='0.7' stroke-linecap='round' opacity='0.35'/%3E%3Ccircle cx='10.5' cy='10.5' r='1' fill='currentColor' opacity='0.5'/%3E%3Cpath d='M15.5 15.5L20 20' stroke='currentColor' stroke-width='1.6' stroke-linecap='round'/%3E%3Cpath d='M13.5 13.7 L14.5 14.5' stroke='currentColor' stroke-width='0.9' stroke-linecap='round' opacity='0.4'/%3E%3C/svg%3E");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+}
+/* Adapte la couleur selon le thÃ¨me */
+:root {
+--search-icon-filter: invert(0);
+}
+.dark {
+--search-icon-filter: invert(1);
+}
+#menu-item-search a::before {
+filter: var(--search-icon-filter);
+}
