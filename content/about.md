@@ -65,11 +65,11 @@ Eckodeath.fr est un site web statique créé avec <a href="https://gohugo.io/" t
 
 ## <p style="text-align: center;"> Mon matériel
 
-J'ai décidé de créer une page dédiée afin de vous permettre de découvrir, si vous le souhaitez, l'ensemble du matériel que j'utilise au quotidien. Les liens proposés sur cette page (et sur certaines autres du blog) sont des liens affiliés, cela ne change rien pour vous et cela vous permet de me soutenir.
+J'ai décidé de créer une page dédiée afin de vous permettre de découvrir, si vous le souhaitez, l'ensemble du matériel que j'utilise au quotidien. Bien entendu cette page sera mise à jour au fur et à mesure de l'évolution de mon setup.
 
 <p style="text-align: center;"><a href="https://eckodeath.netlify.app/materiel/">Mon matériel au quotidien</a>
 
-Bien entendu cette page sera mise à jour au fur et à mesure de l'évolution de mon setup.
+ Les liens proposés sur cette page (et sur certaines autres du blog) sont des liens affiliés, cela ne change rien pour vous et cela vous permet de me soutenir.
 
 
 ## <p style="text-align: center;"> Mes réseaux sociaux
