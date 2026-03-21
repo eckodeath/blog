@@ -369,34 +369,38 @@ a[title*="eckodeath.fr"]::after {
   font-style: normal !important;
 }
 
-/* ── Search icon dans le menu PaperMod ── */
-.menu a[href="/search/"] {
-  font-size: 0;
-  display: inline-flex;
+/* ── Search icon ── */
+a[accesskey="/"] {
+  font-size: 0 !important;
+  display: inline-flex !important;
   align-items: center;
   justify-content: center;
-  width: 24px;
-  height: 24px;
+  width: 22px;
+  height: 22px;
   opacity: 0.7;
   transition: opacity 0.25s ease, transform 0.25s ease;
 }
 
-.menu a[href="/search/"]:hover {
+a[accesskey="/"]:hover {
   opacity: 1;
   transform: scale(1.12);
 }
 
-.menu a[href="/search/"]::before {
+a[accesskey="/"] span {
+  font-size: 0 !important;
+}
+
+a[accesskey="/"]::before {
   content: "";
   display: block;
   width: 18px;
   height: 18px;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5' stroke='%23888' stroke-width='1.6' stroke-linecap='round'/%3E%3Ccircle cx='10.5' cy='10.5' r='4.5' stroke='%23888' stroke-width='0.7' opacity='0.4'/%3E%3Ccircle cx='10.5' cy='10.5' r='1' fill='%23888' opacity='0.5'/%3E%3Cpath d='M15.5 15.5L20 20' stroke='%23888' stroke-width='1.6' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5' stroke='currentColor' stroke-width='1.6' stroke-linecap='round'/%3E%3Ccircle cx='10.5' cy='10.5' r='4.5' stroke='currentColor' stroke-width='0.7' opacity='0.4'/%3E%3Ccircle cx='10.5' cy='10.5' r='1' fill='currentColor' opacity='0.5'/%3E%3Cpath d='M15.5 15.5L20 20' stroke='currentColor' stroke-width='1.6' stroke-linecap='round'/%3E%3C/svg%3E");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  filter: var(--search-icon-filter, invert(0));
 }
 
-.dark .menu a[href="/search/"]::before {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5' stroke='%23B5D4F4' stroke-width='1.6' stroke-linecap='round'/%3E%3Ccircle cx='10.5' cy='10.5' r='4.5' stroke='%23B5D4F4' stroke-width='0.7' opacity='0.4'/%3E%3Ccircle cx='10.5' cy='10.5' r='1' fill='%23B5D4F4' opacity='0.5'/%3E%3Cpath d='M15.5 15.5L20 20' stroke='%23B5D4F4' stroke-width='1.6' stroke-linecap='round'/%3E%3C/svg%3E");
-}
+:root { --search-icon-filter: invert(0); }
+.dark { --search-icon-filter: invert(1); }
