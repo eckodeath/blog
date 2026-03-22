@@ -1,7 +1,7 @@
 ---
-title: "Les accessoires indispensables pour mon MacBook Air M4"
-date: 2026-02-24
-draft: true
+title: "Les accessoires de mon MacBook Air M4"
+date: 2026-03-22
+draft: false
 tags: ["MacBook", "Essentiels", "Accessoires", "MacBook Air", "MacBook Air M4"]
 categories: ["Journal"]
 summary: ""
