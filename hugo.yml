@@ -107,6 +107,14 @@ menu:
       name: "À propos"
       url: /about/
       weight: 30
+    - identifier: cat-edito
+      name: "Edito"
+      url: /categories/edito/
+      weight: 11
+    - identifier: cat-journal
+      name: "Journal"
+      url: /categories/journal/
+      weight: 12
 
 
 outputs:
