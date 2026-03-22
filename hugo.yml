@@ -107,12 +107,10 @@ menu:
       name: "À propos"
       url: /about/
       weight: 30
-    
     - name: Photographie
       parent: categories        # ← doit correspondre à l'identifier ci-dessus
       url: /categories/photographie/
       weight: 1
-
     - name: Voyages
       parent: categories
       url: /categories/voyages/
