@@ -110,11 +110,11 @@ menu:
     - identifier: cat-edito
       name: "Edito"
       url: /categories/edito/
-      weight: 1
+      weight: 11
     - identifier: cat-journal
       name: "Journal"
       url: /categories/journal/
-      weight: 2
+      weight: 12
 
 
 outputs:
