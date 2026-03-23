@@ -125,9 +125,7 @@ main {
 /* ─── Hero Photo ──────────────────────────────── */
 .photo-hero {
   position: relative;
-  width: 125%;
-  left: 50%;
-  transform: translateX(-50%);
+  width: 100%;
   overflow: hidden;
   border-radius: 2px;
   margin-bottom: 2.2rem;
