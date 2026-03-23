@@ -62,7 +62,6 @@ title: "Mon matériel"
   width: 64px;
   height: 64px;
   border-radius: 8px;
-  background: #f5f5f5;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -101,7 +100,6 @@ title: "Mon matériel"
   .materiel-section-label::after { background: #2a2a2a; }
   .materiel-row { border-bottom-color: #2a2a2a; }
   .materiel-row:first-of-type { border-top-color: #2a2a2a; }
-  .materiel-thumb { background: #1e1e1e; }
   .materiel-name { color: #f0f0f0; }
   .materiel-desc { color: #555; }
   .materiel-arrow { color: #444; }
