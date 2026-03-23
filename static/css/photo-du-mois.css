@@ -31,7 +31,7 @@ body {
   font-family: 'Cormorant Garamond', Georgia, serif;
   min-height: 100vh;
   transition: background var(--transition), color var(--transition);
-  overflow-x: hidden;
+  overflow-x: clip; /* clip au lieu de hidden pour garder position:sticky fonctionnel */
 }
 
 /* Grain texture */
@@ -125,9 +125,11 @@ main {
 /* ─── Hero Photo ──────────────────────────────── */
 .photo-hero {
   position: relative;
-  width: 125%;
-  left: 50%;
-  transform: translateX(-50%);
+  /* Breakout à 125% de la largeur viewport, centré */
+  width: 125vw;
+  max-width: 125vw;
+  margin-left: calc(-12.5vw + 0px);
+  left: 0;
   overflow: hidden;
   border-radius: 2px;
   margin-bottom: 2.2rem;
@@ -372,4 +374,8 @@ footer {
   .meta-right { align-items: flex-start; }
   .tags { justify-content: flex-start; }
   .exif-strip { display: none; }
+  .photo-hero {
+    width: 100vw;
+    margin-left: -1.4rem; /* annule le padding du main */
+  }
 }
