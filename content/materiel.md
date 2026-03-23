@@ -44,7 +44,7 @@ title: "Mon matériel"
   grid-template-columns: 256px 1fr auto;
   align-items: center;
   gap: 16px;
-  padding: 6px 0;
+  padding: 2px 0;
   border-bottom: 0.5px solid #e5e5e5;
   text-decoration: none;
   transition: opacity 0.15s;
@@ -123,7 +123,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-   <a class="materiel-row" href="https://amzn.to/4fk7itH" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/4fk7itH" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/MacBook_Air_M4_matos.png" alt="MacBook Air M4">
       </div>
@@ -134,7 +134,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-   <a class="materiel-row" href="https://amzn.to/3GTgqcc" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/3GTgqcc" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/ipad_pro_2017_matos.png" alt="iPad Pro 2017">
       </div>
@@ -156,7 +156,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-  <a class="materiel-row" href="https://amzn.to/45JWXVk" target="_blank" rel="noopener">
+   <a class="materiel-row" href="https://amzn.to/45JWXVk" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/AirPods_Pro_2_matos.png" alt="AirPods Pro 2">
       </div>
@@ -172,7 +172,7 @@ title: "Mon matériel"
   <div class="materiel-group">
     <div class="materiel-section-label">Photo & Vidéo</div>
 
-  <a class="materiel-row" href="#" target="_blank" rel="noopener">
+   <a class="materiel-row" href="#" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/sony_nex_5r_matos.png" alt="Sony NEX-5R">
       </div>
@@ -232,7 +232,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-  <a class="materiel-row" href="https://amzn.to/4luMrFM" target="_blank" rel="noopener">
+   <a class="materiel-row" href="https://amzn.to/4luMrFM" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/ringconn_gen2_matos.png" alt="RingConn Gen 2">
       </div>
