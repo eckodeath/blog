@@ -1,4 +1,6 @@
-# Mon matériel
+<h1 style="text-align: center;">Mon matériel</h1>
+
+<h3 style="text-align: left;">Apple</h3>
 
 <div class="materiel-grid">
   <div class="card">
@@ -30,16 +32,20 @@
   </div>
 
   <div class="card">
-    <img src="/images/materiel/Lexar_ES5_matos.png/" alt="Lexar ES5">
-    <div class="card-content">
-      <a href="https://amzn.to/4lccDoi" target="_blank">Lexar ES5</a>
-    </div>
-  </div>
-
-  <div class="card">
     <img src="/images/materiel/apple_watch_series_7_matos.png/" alt="Apple Watch Series 7">
     <div class="card-content">
       <a href="https://amzn.to/4eNetdT" target="_blank">Apple Watch Series 7</a>
+    </div>
+  </div>
+</div>
+
+<h3 style="text-align: left;">Photo & Vidéo</h3>
+
+<div class="materiel-grid">
+  <div class="card">
+    <img src="/images/materiel/Lexar_ES5_matos.png/" alt="Lexar ES5">
+    <div class="card-content">
+      <a href="https://amzn.to/4lccDoi" target="_blank">Lexar ES5</a>
     </div>
   </div>
 
