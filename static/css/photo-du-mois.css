@@ -150,23 +150,16 @@ main {
 
 .month-badge {
   position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 2.2rem;
+  top: 0.8rem;
+  left: 0.8rem;
   background: var(--bg);
   color: var(--text);
   font-family: 'Space Mono', monospace;
   font-size: 0.62rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  writing-mode: vertical-rl;
-  transform: rotate(180deg);
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  padding-bottom: 25%;
-  border-radius: 0;
+  padding: 0.35rem 0.75rem;
+  border-radius: 1px;
   transition: background var(--transition), color var(--transition);
 }
 
