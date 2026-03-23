@@ -41,10 +41,10 @@ title: "Mon matériel"
 
 .materiel-row {
   display: grid;
-  grid-template-columns: 128px 1fr auto;
+  grid-template-columns: 256px 1fr auto;
   align-items: center;
   gap: 16px;
-  padding: 14px 0;
+  padding: 6px 0;
   border-bottom: 0.5px solid #e5e5e5;
   text-decoration: none;
   transition: opacity 0.15s;
@@ -59,8 +59,8 @@ title: "Mon matériel"
 }
 
 .materiel-thumb {
-  width: 128px;
-  height: 128px;
+  width: 256px;
+  height: 256px;
   border-radius: 8px;
   display: flex;
   align-items: center;
@@ -123,7 +123,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-  <a class="materiel-row" href="https://amzn.to/4fk7itH" target="_blank" rel="noopener">
+   <a class="materiel-row" href="https://amzn.to/4fk7itH" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/MacBook_Air_M4_matos.png" alt="MacBook Air M4">
       </div>
@@ -134,7 +134,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-  <a class="materiel-row" href="https://amzn.to/3GTgqcc" target="_blank" rel="noopener">
+   <a class="materiel-row" href="https://amzn.to/3GTgqcc" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/ipad_pro_2017_matos.png" alt="iPad Pro 2017">
       </div>
