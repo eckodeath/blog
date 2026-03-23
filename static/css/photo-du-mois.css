@@ -125,8 +125,7 @@ main {
 /* ─── Hero Photo ──────────────────────────────── */
 .photo-hero {
   position: relative;
-  width: 125vw;
-  margin-left: -12.5vw;
+  width: 100%;
   overflow: hidden;
   border-radius: 2px;
   margin-bottom: 2.2rem;
@@ -135,12 +134,10 @@ main {
 }
 .photo-hero img {
   width: 100%;
-  max-height: 80vh;
-  object-fit: cover;
+  height: auto;
   display: block;
   transition: transform 8s ease;
 }
-
 .photo-hero:hover img { transform: scale(1.02); }
 
 .photo-overlay {
@@ -373,5 +370,4 @@ footer {
   .meta-right { align-items: flex-start; }
   .tags { justify-content: flex-start; }
   .exif-strip { display: none; }
-  .photo-hero { width: 100vw; margin-left: -1.4rem; }
 }
