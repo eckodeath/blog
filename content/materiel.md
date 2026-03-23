@@ -112,7 +112,7 @@ title: "Mon matériel"
   <div class="materiel-group">
     <div class="materiel-section-label">Apple</div>
 
-    <a class="materiel-row" href="https://amzn.to/3TRxlOU" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/3TRxlOU" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/iphone_16_pro_max_matos.png" alt="iPhone 16 Pro Max">
       </div>
@@ -123,7 +123,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-    <a class="materiel-row" href="https://amzn.to/4fk7itH" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/4fk7itH" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/MacBook_Air_M4_matos.png" alt="MacBook Air M4">
       </div>
@@ -134,7 +134,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-    <a class="materiel-row" href="https://amzn.to/3GTgqcc" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/3GTgqcc" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/ipad_pro_2017_matos.png" alt="iPad Pro 2017">
       </div>
@@ -145,7 +145,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-    <a class="materiel-row" href="https://amzn.to/4eNetdT" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/4eNetdT" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/apple_watch_series_7_matos.png" alt="Apple Watch Series 7">
       </div>
@@ -156,7 +156,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-    <a class="materiel-row" href="https://amzn.to/45JWXVk" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/45JWXVk" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/AirPods_Pro_2_matos.png" alt="AirPods Pro 2">
       </div>
@@ -172,7 +172,7 @@ title: "Mon matériel"
   <div class="materiel-group">
     <div class="materiel-section-label">Photo & Vidéo</div>
 
-    <a class="materiel-row" href="#" target="_blank" rel="noopener">
+  <a class="materiel-row" href="#" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/sony_nex_5r_matos.png" alt="Sony NEX-5R">
       </div>
@@ -183,7 +183,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-    <a class="materiel-row" href="https://amzn.to/3ISPdab" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/3ISPdab" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/sony_16_50_matos.png" alt="Sony 16-50mm">
       </div>
@@ -194,7 +194,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-    <a class="materiel-row" href="https://amzn.to/4mLRR07" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/4mLRR07" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/sony_55_210_matos.png" alt="Sony 55-210mm">
       </div>
@@ -205,7 +205,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-    <a class="materiel-row" href="https://amzn.to/3Hk3Vq1" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/3Hk3Vq1" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/smallrig_ct10_matos.png" alt="Trépied SmallRig CT-10">
       </div>
@@ -221,7 +221,7 @@ title: "Mon matériel"
   <div class="materiel-group">
     <div class="materiel-section-label">Accessoires & Stockage</div>
 
-    <a class="materiel-row" href="https://amzn.to/4lccDoi" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/4lccDoi" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/Lexar_ES5_matos.png" alt="Lexar ES5">
       </div>
@@ -232,7 +232,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-    <a class="materiel-row" href="https://amzn.to/4luMrFM" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://amzn.to/4luMrFM" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/ringconn_gen2_matos.png" alt="RingConn Gen 2">
       </div>
@@ -243,7 +243,7 @@ title: "Mon matériel"
       <span class="materiel-arrow">↗</span>
     </a>
 
-    <a class="materiel-row" href="https://www.decathlon.fr/p/sac-a-dos-appareil-photo-randonnee-30l-nh-explorer-900-focus/_/R-p-344239" target="_blank" rel="noopener">
+  <a class="materiel-row" href="https://www.decathlon.fr/p/sac-a-dos-appareil-photo-randonnee-30l-nh-explorer-900-focus/_/R-p-344239" target="_blank" rel="noopener">
       <div class="materiel-thumb">
         <img src="/images/materiel/quechua_nh_900_matos.png" alt="Quechua NH900 Explore">
       </div>
