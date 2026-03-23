@@ -43,8 +43,8 @@ title: "Mon matériel"
   display: grid;
   grid-template-columns: 256px 1fr auto;
   align-items: center;
-  gap: 4px;
-  padding: 2px 0;
+  gap: 16px;
+  padding: -10px 0;
   border-bottom: 0.5px solid #e5e5e5;
   text-decoration: none;
   transition: opacity 0.15s;
