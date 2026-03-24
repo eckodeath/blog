@@ -21,11 +21,11 @@ title: "Mon matériel"
 
 .materiel-section-label {
   font-family: 'Syne', sans-serif;
-  font-size: 16px;
-  font-weight: 700;
+  font-size: 16px !important;
+  font-weight: 700 !important;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  color: #999;
+  color: #999 !important;
   margin-bottom: 2rem;
   display: flex;
   align-items: center;
@@ -35,8 +35,8 @@ title: "Mon matériel"
 .materiel-section-label::after {
   content: '';
   flex: 1;
-  height: 0.5px;
-  background: #e5e5e5;
+  height: 1.5px;
+  background: #111;
 }
 
 .materiel-row {
@@ -96,11 +96,11 @@ title: "Mon matériel"
 }
 
 @media (prefers-color-scheme: dark) {
-  .materiel-section-label { color: #666; }
-  .materiel-section-label::after { background: #2a2a2a; }
+  .materiel-section-label { color: #666 !important; }
+  .materiel-section-label::after { background: #f0f0f0; }
   .materiel-row { border-bottom-color: #2a2a2a; }
   .materiel-row:first-of-type { border-top-color: #2a2a2a; }
-  .materiel-name { color: #f0f0f0; }
+  .materiel-name { color: #f0f0f0 !important; }
   .materiel-desc { color: #555; }
   .materiel-arrow { color: #444; }
 }
