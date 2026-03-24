@@ -21,9 +21,9 @@ title: "Mon matériel"
 
 .materiel-section-label {
   font-family: 'Syne', sans-serif;
-  font-size: 10px;
-  font-weight: 600;
-  letter-spacing: 0.15em;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
   text-transform: uppercase;
   color: #999;
   margin-bottom: 2rem;
@@ -79,7 +79,7 @@ title: "Mon matériel"
   font-family: 'Syne', sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #000000 !important;
+  color: #111;
   line-height: 1.3;
 }
 
