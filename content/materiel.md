@@ -79,7 +79,7 @@ title: "Mon matériel"
   font-family: 'Syne', sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #111;
+  color: #111 !important;
   line-height: 1.3;
 }
 
