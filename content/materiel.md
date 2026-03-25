@@ -36,7 +36,7 @@ title: "Mon matériel"
   content: '';
   flex: 1;
   height: 1.5px;
-  background: #111;
+  background: #e5e5e5;
 }
 
 .materiel-row {
@@ -45,13 +45,13 @@ title: "Mon matériel"
   align-items: center;
   gap: 16px;
   padding: 0px 0;
-  border-bottom: 0.5px solid #e5e5e5;
+  border-bottom: 1.5px solid #111;
   text-decoration: none;
   transition: opacity 0.15s;
 }
 
 .materiel-row:first-of-type {
-  border-top: 0.5px solid #e5e5e5;
+  border-top: 1.5px solid #111;
 }
 
 .materiel-row:hover {
@@ -97,9 +97,9 @@ title: "Mon matériel"
 
 @media (prefers-color-scheme: dark) {
   .materiel-section-label { color: #666 !important; }
-  .materiel-section-label::after { background: #f0f0f0; }
-  .materiel-row { border-bottom-color: #2a2a2a; }
-  .materiel-row:first-of-type { border-top-color: #2a2a2a; }
+  .materiel-section-label::after { background: #2a2a2a; }
+  .materiel-row { border-bottom-color: #f0f0f0; }
+  .materiel-row:first-of-type { border-top-color: #f0f0f0; }
   .materiel-name { color: #f0f0f0 !important; }
   .materiel-desc { color: #555; }
   .materiel-arrow { color: #444; }
