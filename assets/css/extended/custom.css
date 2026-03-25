@@ -369,20 +369,16 @@ a[title*="eckodeath.fr"]::after {
   font-style: normal !important;
 }
 
-/* Détache le bouton de la navbar et le fixe en bas à gauche */
+/* On retire le bouton de son contexte navbar */
 #theme-toggle {
     position: fixed !important;
     bottom: 20px;
     left: 20px;
+    top: auto !important;
     z-index: 9999;
-
-    /* Optionnel : lui donner un fond pour le rendre plus lisible */
+    display: flex !important;   /* force l'affichage même dans la navbar */
     background: var(--theme);
     border-radius: 50%;
     padding: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-}
-
-.nav #theme-toggle {
-    display: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
 }
