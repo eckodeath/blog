@@ -89,6 +89,18 @@ params:
     hiddenInList: false
     hiddenInSingle: false
 
+ [[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/eckodeath/"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://x.com/eckodeath"
+
+  [[params.socialIcons]]
+  name = "rss"
+  url = "/index.xml"
+
 menu:
   main:
     - identifier: categories
