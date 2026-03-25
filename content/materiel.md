@@ -79,8 +79,13 @@ title: "Mon matériel"
   font-family: 'Syne', sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #000000 !important;
   line-height: 1.3;
+}
+
+a.materiel-row .materiel-name,
+a.materiel-row:visited .materiel-name,
+a.materiel-row:hover .materiel-name {
+  color: #000000 !important;
 }
 
 .materiel-desc {
@@ -101,6 +106,9 @@ title: "Mon matériel"
   .materiel-row { border-bottom-color: #2a2a2a; }
   .materiel-row:first-of-type { border-top-color: #2a2a2a; }
   .materiel-name { color: #ffffff !important; }
+  a.materiel-row .materiel-name,
+  a.materiel-row:visited .materiel-name,
+  a.materiel-row:hover .materiel-name { color: #ffffff !important; }
   .materiel-desc { color: #555; }
   .materiel-arrow { color: #444; }
 }
