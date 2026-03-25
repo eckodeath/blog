@@ -80,12 +80,15 @@ title: "Mon matériel"
   font-size: 15px;
   font-weight: 600;
   line-height: 1.3;
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
 }
 
 a.materiel-row .materiel-name,
 a.materiel-row:visited .materiel-name,
 a.materiel-row:hover .materiel-name {
   color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
 }
 
 .materiel-desc {
@@ -105,10 +108,10 @@ a.materiel-row:hover .materiel-name {
   .materiel-section-label::after { background: #2a2a2a; }
   .materiel-row { border-bottom-color: #2a2a2a; }
   .materiel-row:first-of-type { border-top-color: #2a2a2a; }
-  .materiel-name { color: #ffffff !important; }
+  .materiel-name { color: #ffffff !important; -webkit-text-fill-color: #ffffff !important; }
   a.materiel-row .materiel-name,
   a.materiel-row:visited .materiel-name,
-  a.materiel-row:hover .materiel-name { color: #ffffff !important; }
+  a.materiel-row:hover .materiel-name { color: #ffffff !important; -webkit-text-fill-color: #ffffff !important; }
   .materiel-desc { color: #555; }
   .materiel-arrow { color: #444; }
 }
