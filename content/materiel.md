@@ -63,7 +63,7 @@ title: "Mon matériel"
   font-size: 15px;
   font-weight: 600;
   line-height: 1.3;
-  color: #111;
+  color: #111 !important;
 }
 
 .materiel-desc {
@@ -96,31 +96,31 @@ title: "Mon matériel"
   <div class="materiel-group">
     <div class="materiel-section-label">Apple</div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/iphone_16_pro_max_matos.png" alt="iPhone 16 Pro Max"></div>
       <div><div class="materiel-name">iPhone 16 Pro Max</div><div class="materiel-desc">Smartphone</div></div>
       <a class="materiel-link" href="https://amzn.to/3TRxlOU" target="_blank" rel="noopener">↗</a>
     </div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/MacBook_Air_M4_matos.png" alt="MacBook Air M4"></div>
       <div><div class="materiel-name">MacBook Air M4</div><div class="materiel-desc">Ordinateur portable</div></div>
       <a class="materiel-link" href="https://amzn.to/4fk7itH" target="_blank" rel="noopener">↗</a>
     </div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/ipad_pro_2017_matos.png" alt="iPad Pro 2017"></div>
       <div><div class="materiel-name">iPad Pro 2017</div><div class="materiel-desc">Tablette</div></div>
       <a class="materiel-link" href="https://amzn.to/3GTgqcc" target="_blank" rel="noopener">↗</a>
     </div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/apple_watch_series_7_matos.png" alt="Apple Watch Series 7"></div>
       <div><div class="materiel-name">Apple Watch Series 7</div><div class="materiel-desc">Montre connectée</div></div>
       <a class="materiel-link" href="https://amzn.to/4eNetdT" target="_blank" rel="noopener">↗</a>
     </div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/AirPods_Pro_2_matos.png" alt="AirPods Pro 2"></div>
       <div><div class="materiel-name">AirPods Pro 2</div><div class="materiel-desc">Écouteurs</div></div>
       <a class="materiel-link" href="https://amzn.to/45JWXVk" target="_blank" rel="noopener">↗</a>
@@ -131,25 +131,25 @@ title: "Mon matériel"
   <div class="materiel-group">
     <div class="materiel-section-label">Photo & Vidéo</div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/sony_nex_5r_matos.png" alt="Sony NEX-5R"></div>
       <div><div class="materiel-name">Sony NEX-5R</div><div class="materiel-desc">Appareil photo hybride</div></div>
       <span class="materiel-link">↗</span>
     </div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/sony_16_50_matos.png" alt="Sony 16-50mm"></div>
       <div><div class="materiel-name">Sony 16-50mm F3.5-5.6</div><div class="materiel-desc">Objectif grand angle</div></div>
       <a class="materiel-link" href="https://amzn.to/3ISPdab" target="_blank" rel="noopener">↗</a>
     </div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/sony_55_210_matos.png" alt="Sony 55-210mm"></div>
       <div><div class="materiel-name">Sony 55-210mm F4.5-6.3</div><div class="materiel-desc">Objectif téléphoto</div></div>
       <a class="materiel-link" href="https://amzn.to/4mLRR07" target="_blank" rel="noopener">↗</a>
     </div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/smallrig_ct10_matos.png" alt="Trépied SmallRig CT-10"></div>
       <div><div class="materiel-name">Trépied SmallRig CT-10</div><div class="materiel-desc">Trépied compact</div></div>
       <a class="materiel-link" href="https://amzn.to/3Hk3Vq1" target="_blank" rel="noopener">↗</a>
@@ -160,19 +160,19 @@ title: "Mon matériel"
   <div class="materiel-group">
     <div class="materiel-section-label">Accessoires & Stockage</div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/Lexar_ES5_matos.png" alt="Lexar ES5"></div>
       <div><div class="materiel-name">Lexar ES5</div><div class="materiel-desc">SSD externe</div></div>
       <a class="materiel-link" href="https://amzn.to/4lccDoi" target="_blank" rel="noopener">↗</a>
     </div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/ringconn_gen2_matos.png" alt="RingConn Gen 2"></div>
       <div><div class="materiel-name">RingConn Gen 2</div><div class="materiel-desc">Bague connectée</div></div>
       <a class="materiel-link" href="https://amzn.to/4luMrFM" target="_blank" rel="noopener">↗</a>
     </div>
 
-    <div class="materiel-row">
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/quechua_nh_900_matos.png" alt="Quechua NH900 Explore"></div>
       <div><div class="materiel-name">Quechua NH900 Explore</div><div class="materiel-desc">Sac à dos 30L</div></div>
       <a class="materiel-link" href="https://www.decathlon.fr/p/sac-a-dos-appareil-photo-randonnee-30l-nh-explorer-900-focus/_/R-p-344239" target="_blank" rel="noopener">↗</a>
