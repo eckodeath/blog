@@ -11,7 +11,7 @@ title: "Mon matériel"
 }
 
 .materiel-group {
-  margin-bottom: 6rem;
+  margin-bottom: 8rem;
 }
 
 .materiel-section-label {
