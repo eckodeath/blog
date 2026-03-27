@@ -30,11 +30,11 @@ Le soir, on a posé nos valises aux **Terrasses d'Èze**. L'ensemble de l'hôtel
 
 ## Jour 2 — Cannes, la Croisette et une pâtisserie qui tient ses promesses
 
-Le lendemain matin, direction Cannes. La Croisette hors saison, c'est presque reposant — les gens marchent vraiment, la mer est accessible, le bruit des festivités n'est pas là. On a longé le bord de mer à pied, senti l'air iodé, regardé les palaces défiler sans s'y arrêter. Puis on a plongé dans la vieille ville — le quartier du Suquet, ses ruelles, son marché, son rythme différent du front de mer.
+Le lendemain matin, direction Cannes. La Croisette hors saison, c'est presque reposant : les gens flânent, la mer est accessible, le bruit des festivités n'est pas là. On a longé le bord de mer à pied, senti l'air iodé, regardé les palaces défiler sans s'y arrêter. Puis on a plongé dans la vieille ville afin de découvrir des pépites tels que le quartier du Suquet, ses ruelles, son marché, son rythme différent du front de mer.
 
-L'arrêt qui s'imposait : **Philippe Tayac**. Pâtissier cannois reconnu, ses vitrines méritent qu'on s'y attarde. Les entremets sont précis, les textures travaillées, rien ne semble laissé au hasard. On a pris le temps de choisir, on a dégusté sur place, et on a un peu regretté de ne pas en avoir pris davantage pour la route.
+L'arrêt qui s'imposait : **Philippe Tayac**. Pâtissier cannois reconnu, ses vitrines méritent qu'on s'y attarde. Les entremets sont précis, les textures travaillées, rien ne semble laissé au hasard. On a pris le temps de choisir, on a dégusté sur place et on a été conquis.
 
-Pour les deux nuits suivantes, on avait réservé au **Five Seas Hôtel**, hôtel grand luxe pour nous avec ses 5 étoiles, bien placé entre le port et la vieille ville. Un hôtel dans un registre différent des Terrasses d'Èze, plus urbain, plus design mais avec son propre caractère et un service qu'on n'oublie pas facilement.
+Pour les deux nuits squi viennent, on avait réservé au **Five Seas Hôtel**, hôtel grand luxe pour nous avec ses 5 étoiles, bien placé entre le port et la vieille ville. Un hôtel dans un registre différent des Terrasses d'Èze, plus urbain, plus design mais avec son propre caractère et un service qu'on n'oublie pas facilement.
 
 ## Jour 3 — Villages et routes du haut pays
 

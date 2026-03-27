@@ -261,7 +261,6 @@ main {
   float: left;
   line-height: 0.85;
   margin-right: 0.12em;
-  font-style: italic;
   color: var(--accent);
 }
 
