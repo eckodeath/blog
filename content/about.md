@@ -15,7 +15,7 @@ draft: false
      <p>
       Mon blog est un espace personnel et créatif où je combine images, récits et réflexions, avec pour objectif de partager mes expériences avec sincérité, inspirer celles et ceux qui aiment explorer, créer des connexions autour de passions communes : le voyage, la photographie et la technologie.
      <p>
-      Si vous souhaitez me découvrir davantage, j’ai écrit un article sur moi : <a href="https://eckodeath.fr/posts/lhomme-derriere-le-pseudo/" target="_blank">L’homme derrière le pseudo, qui suis je réellement ?</a>
+      Si vous souhaitez me découvrir davantage, j’ai écrit un article sur moi : <a href="https://eckodeath.netlify.app/posts/l_homme_derriere_le_pseudo/" target="_blank">L’homme derrière le pseudo, qui suis je réellement ?</a>
     </p>
 
   </div>
