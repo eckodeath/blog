@@ -14,15 +14,15 @@ cover:
 
 Il y a des weekends qui se méritent et qui se désirent. Celui-là, on l'attendait depuis un moment.
 
-Direction la Côte d'Azur avec ma femme pour trois jours. Pas de circuit organisé, pas de planning serré, juste l'envie de prendre le temps, de manger bien, de regarder la mer et de se retrouver.
+Direction la Côte d'Azur avec ma femme pour trois jours. Pas de circuit organisé, pas de planning serré, juste l'envie de prendre le temps, de bien manger, de regarder la mer et de se retrouver.
 
 ## Jour 1 — Monaco et ses contrastes
 
 Première étape : Monaco. On connaît le côté ostentatoire, les Lamborghini garées n'importe où, les yachts qui donnent le vertige et les vitrines qui ne s'adressent clairement pas à tout le monde. Ce n'est pas pour ça qu'on y va.
 
-On y va pour **Cédric Grolet**.
+<p style="text-align: right;"> On y va pour <B>Cédric Grolet</B>.
 
-C'est devenu un passage obligé pour nous. Si vous ne connaissez pas, c'est un pâtissier français dont les créations ressemblent à des fruits tellement parfaits qu'on hésite à les croquer — une pêche en trompe-l'œil, une noisette reconstituée à l'identique, un citron qui n'en est pas un. Le niveau de détail est déconcertant. Et le goût suit. On a pris le temps de choisir devant la vitrine, de déguster sur place, de comparer nos avis — et on en a encore parlé le soir au dîner. Ce genre de détour gastronomique, pour nous, c'est autant une expérience qu'un repas.
+C'est devenu un passage obligé pour nous. Si vous ne connaissez pas, c'est un pâtissier français dont les créations ressemblent à des fruits tellement parfaits qu'on hésite à les croquer : une pêche en trompe-l'œil, une noisette reconstituée à l'identique, un citron qui n'en est pas un. Le niveau de détail est déconcertant. Et le goût suit. On a pris le temps de choisir devant la vitrine, de déguster sur place, de comparer nos avis, de se les partager et on en a encore parlé le soir au dîner. Ce genre de détour gastronomique, pour nous, c'est autant une expérience qu'un repas (le tarif aussi)
 
 Après Monaco, la route monte vers **Èze**. Le village perché à plus de 400 mètres, les ruelles en pierres qui grimpent dans tous les sens, la Méditerranée en fond permanent. On ne s'en lasse pas. On a visité **l'usine de parfumerie Fragonard** — une visite plus intéressante qu'elle n'y paraît sur le papier. On y découvre tout le processus de fabrication d'un parfum, de la fleur brute au flacon fini, avec des explications claires sur les matières premières, les techniques d'extraction, les familles olfactives. On ressort le nez plein de souvenirs et les mains dans les poches — ou pas, selon la résistance de chacun face à la boutique à la sortie.
 
