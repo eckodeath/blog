@@ -30,6 +30,10 @@ Plus besoin de fouiller dans les archives du blog ou de tomber dessus par hasard
 
 C'est un truc qui me dérangeait depuis un moment sans que je sache comment résoudre le problème. Le logo sombre était là, mais il ne ressemblait à rien de précis. J'ai corrigé ça : la version sombre du logo reflète maintenant vraiment l'identité du site. Ça paraît anodin mais quand ça colle des deux côtés, c'est quand même mieux.
 
+### Le bouton jour/nuit
+
+Autre petit détail qui change pas mal l'expérience : le bouton de bascule entre le mode clair et le mode sombre a été déplacé. Il était perdu dans le header, maintenant il flotte en bas à gauche de l'écran. Toujours accessible, sans gêner la lecture. Ce genre de truc discret qui améliore quand même le confort au quotidien.
+
 ### Les dates dans la timeline
 
 Dernier chantier, le moins visible : j'ai réorganisé les dates de publication de quelques articles (notamment ceux du projet 12). Certains avaient des dates un peu au hasard, posés là sans vraiment réfléchir à la chronologie. La timeline Archives et la première page sont maintenant dans un ordre qui a du sens.
