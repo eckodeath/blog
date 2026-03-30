@@ -250,7 +250,7 @@ main {
 
 /* Article */
 .article-body p {
-  font-size: 1.05rem;
+  font-size: 0.9rem;
   line-height: 1.78;
   color: var(--text);
   margin-bottom: 1.4rem;
