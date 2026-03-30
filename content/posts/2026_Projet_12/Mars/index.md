@@ -40,6 +40,12 @@ lieu:
   nom: "Préalpes de Grasse"
   detail: "Alpes-Maritimes, France · 43°43′N 6°58′E"
 
+# ── Navigation prev / next ────────────────────────────────────
+prev_lien: "/posts/2026_projet_12/fevrier/"
+prev_titre: "Février"
+next_lien: "/posts/2026_projet_12/avril/"
+next_titre: "Avril"
+
 ---
 
 Ce cliché, je l'ai pris presque par hasard — ou plutôt au terme d'une journée de route et de marche dans les Préalpes d'Azur, comme ça m'arrive souvent. Gourdon est perché à 760 mètres, en équilibre au bord du vide. Depuis ses falaises calcaires, le monde s'étale loin en contrebas : la vallée du Loup, les villages éparpillés dans les bois, la route qui serpente comme un fil dans les gorges.
