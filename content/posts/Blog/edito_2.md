@@ -41,4 +41,4 @@ Dernier chantier, le moins visible : j'ai réorganisé les dates de publication 
 Voilà pour ce tour des coulisses. Rien de spectaculaire, juste du ménage.
 
 <p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
-<p style="text-align: right;"> Kurt
+<p style="text-align: right;"> Kurt G.

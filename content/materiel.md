@@ -161,6 +161,12 @@ title: "Mon matériel"
     <div class="materiel-section-label">Accessoires & Stockage</div>
 
   <div class="materiel-row">
+      <div class="materiel-thumb"><img src="/images/materiel/Asus_ProArt_matos.png" alt="Asus ProArt"></div>
+      <div><div class="materiel-name">Asus ProArt PA27JCV</div><div class="materiel-desc">Moniteur 5K</div></div>
+      <a class="materiel-link" href="https://amzn.to/4v0Q5gg" target="_blank" rel="noopener">↗</a>
+    </div>
+
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/Lexar_ES5_matos.png" alt="Lexar ES5"></div>
       <div><div class="materiel-name">Lexar ES5</div><div class="materiel-desc">SSD externe</div></div>
       <a class="materiel-link" href="https://amzn.to/4lccDoi" target="_blank" rel="noopener">↗</a>
