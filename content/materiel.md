@@ -179,6 +179,12 @@ title: "Mon matériel"
     </div>
 
   <div class="materiel-row">
+      <div class="materiel-thumb"><img src="/images/materiel/Cable_incharge_matos.png" alt="Rolling Square inCharge X"></div>
+      <div><div class="materiel-name">Rolling Square inCharge X</div><div class="materiel-desc">Câbles</div></div>
+      <a class="materiel-link" href="https://amzn.to/3NMI1PF" target="_blank" rel="noopener">↗</a>
+    </div>
+
+  <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/ringconn_gen2_matos.png" alt="RingConn Gen 2"></div>
       <div><div class="materiel-name">RingConn Gen 2</div><div class="materiel-desc">Bague connectée</div></div>
       <a class="materiel-link" href="https://amzn.to/4luMrFM" target="_blank" rel="noopener">↗</a>
