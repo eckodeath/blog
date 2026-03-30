@@ -40,6 +40,12 @@ lieu:
   nom: "Réserve Naturelle d'Arjuzanx"
   detail: "Landes, France · 44°04′N 0°46′O"
 
+# ── Navigation prev / next ────────────────────────────────────
+prev_lien: "/posts/2026_projet_12/janvier/"
+prev_titre: "Janvier"
+next_lien: "/posts/2026_projet_12/mars/"
+next_titre: "Mars"
+
 ---
 
 Il y a des photos qui se préparent, et d'autres qu'on vole dans la nuit. Celle-ci, je l'ai volée.

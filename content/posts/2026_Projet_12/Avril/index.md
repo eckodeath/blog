@@ -40,6 +40,12 @@ lieu:
   nom: "Cathédrale Saint-Nicolas"
   detail: "Monaco · 43°43′N 7°25′E"
 
+# ── Navigation prev / next ────────────────────────────────────
+prev_lien: "/posts/2026_projet_12/mars/"
+prev_titre: "Mars"
+next_lien: "/posts/2026_projet_12/mai/"
+next_titre: "Mai"
+
 ---
 
 Il y a des endroits qui imposent le silence dès qu'on y entre. La Cathédrale Saint-Nicolas de Monaco en fait partie. Pas besoin de chercher le cadrage — il s'impose de lui-même, dans l'axe, les yeux tirés vers cette abside dorée qui brûle doucement au fond de la nef.

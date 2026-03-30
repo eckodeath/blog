@@ -40,6 +40,12 @@ lieu:
  nom: "Bordeaux"
  detail: "Gironde, France · 44°50′N 0°34′O"
 
+# ── Navigation prev / next ────────────────────────────────────
+# prev_lien: ""
+# prev_titre: ""
+next_lien: "/posts/2026_projet_12/fevrier/"
+next_titre: "Février"
+
 ---
 
 Ce cliché-là ne s'est pas cherché longtemps. Le coffret posé sur la table, ouvert, cette lumière de fenêtre qui venait jouer sur l'ambre de la bouteille — il n'y avait qu'à cadrer.
