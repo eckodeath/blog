@@ -53,7 +53,7 @@
         <div class="section-label" style="margin-bottom:0.7rem">Photo du Mois</div>
         <h1 class="photo-title">{{ .Params.titre_principal | safeHTML }}</h1>
         {{ $moisEN := .Date.Format "January" }}{{ $moisFR := dict "January" "janvier" "February" "février" "March" "mars" "April" "avril" "May" "mai" "June" "juin" "July" "juillet" "August" "août" "September" "septembre" "October" "octobre" "November" "novembre" "December" "décembre" }}
-        <p class="photo-date">{{ .Date.Format "2" }} {{ index $moisFR $moisEN }} {{ .Date.Format "2006" }} &nbsp;·&nbsp; par {{ .Params.auteur | default "Kurt Grava" }}</p>
+        <p class="photo-date">{{ .Date.Format "2" }} {{ index $moisFR $moisEN }} {{ .Date.Format "2006" }} </p>
       </div>
       <div class="meta-right">
         <div class="tags">
