@@ -284,6 +284,7 @@ main {
 .gear-val { 
   font-style: normal !important; 
   font-weight: 400 !important;
+  font-size: 0.78rem;
 }
 
 .location-block {
