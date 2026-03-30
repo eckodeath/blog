@@ -119,18 +119,18 @@ title: "Mon matériel"
       <div><div class="materiel-name">Apple Watch Series 7</div><div class="materiel-desc">Montre connectée</div></div>
       <a class="materiel-link" href="https://amzn.to/4eNetdT" target="_blank" rel="noopener">↗</a>
     </div>
+    
+  <div class="materiel-row">
+      <div class="materiel-thumb"><img src="/images/materiel/Porte_cartes_magsafe_matos.png" alt="Porte Cartes Magsafe"></div>
+      <div><div class="materiel-name">Porte Cartes</div><div class="materiel-desc">Accessoires</div></div>
+      <a class="materiel-link" href="https://amzn.to/4thA2sK" target="_blank" rel="noopener">↗</a>
+    </div>
+  </div>
 
   <div class="materiel-row">
       <div class="materiel-thumb"><img src="/images/materiel/AirPods_Pro_2_matos.png" alt="AirPods Pro 2"></div>
       <div><div class="materiel-name">AirPods Pro 2</div><div class="materiel-desc">Écouteurs</div></div>
       <a class="materiel-link" href="https://amzn.to/45JWXVk" target="_blank" rel="noopener">↗</a>
-    </div>
-  </div>
-
-  <div class="materiel-row">
-      <div class="materiel-thumb"><img src="/images/materiel/Porte_cartes_magsafe_matos.png" alt="Porte Cartes Magsafe"></div>
-      <div><div class="materiel-name">Porte Cartes</div><div class="materiel-desc">Écouteurs</div></div>
-      <a class="materiel-link" href="https://amzn.to/4thA2sK" target="_blank" rel="noopener">↗</a>
     </div>
   </div>
 
