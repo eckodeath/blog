@@ -295,9 +295,9 @@ main {
 .location-name { font-size: 1rem; font-weight: 400; margin-bottom: 0.2rem; }
 .location-detail {
   font-family: 'DM Mono', monospace;
-  font-size: 0.6rem;
+  font-size: 0.75rem;
   color: var(--text-muted);
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
 }
 
 /* ─── Navigation Prev/Next ────────────────────── */
