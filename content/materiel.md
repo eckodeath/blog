@@ -127,6 +127,13 @@ title: "Mon matériel"
     </div>
   </div>
 
+  <div class="materiel-row">
+      <div class="materiel-thumb"><img src="/images/materiel/Porte_cartes_magsafe_matos.png" alt="Porte Cartes Magsafe"></div>
+      <div><div class="materiel-name">Porte Cartes</div><div class="materiel-desc">Écouteurs</div></div>
+      <a class="materiel-link" href="https://amzn.to/4thA2sK" target="_blank" rel="noopener">↗</a>
+    </div>
+  </div>
+
   <!-- Photo & Vidéo -->
   <div class="materiel-group">
     <div class="materiel-section-label">Photo & Vidéo</div>
