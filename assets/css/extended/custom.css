@@ -385,8 +385,8 @@ a[title*="eckodeath.fr"]::after {
 
 /* ── Footer override ── */
 footer.footer {
-  border-top: none !important;
-  border: none !important;
+  margin-top: 0 !important;
+  padding-top: 0.5rem !important;
 }
 
 /* ── Footer social icons ── */
