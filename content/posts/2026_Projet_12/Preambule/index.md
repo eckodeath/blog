@@ -72,4 +72,6 @@ Nous sommes déjà en mars. La réflexion prend du temps et c'est normal. L'esse
 <p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
 <p style="text-align: right;"> Kurt G.
 
-<em>Post Scriptum :</em> Les articles photos de janvier et de février (voir même celui-ci) seront antidatés afin de respecter l'ordre chronologique des archives du blog.
+<em>Post Scriptum :</em> Les articles photos de janvier et de février (voir même celui-ci) seront antidatés afin de respecter l'ordre chronologique des archives du blog (=> réalisé le 18/03/2026).
+
+<em>Post Scriptum 2 :</em> Comme je l'ai indiqué dans l'article <a href="https://eckodeath.netlify.app/posts/blog/edito_2/">édito 2</a>, j'ai crée une page dédiée au projet 12 - 2026 nommée <em>Galerie</em> afin qu'il vous soit plus facile de retrouver l'intégralité des publications de cette série.

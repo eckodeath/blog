@@ -16,15 +16,15 @@ Bienvenue dans ce deuxième édito. Pas de grande intro, vous connaissez le prin
 
 Ces dernières semaines, j'ai passé du temps dans les coulisses du blog. Pas pour ajouter des choses — plutôt pour corriger ce qui clochait et remettre de l'ordre là où ça en manquait.
 
-### Le Projet 12 a enfin sa maison
+### Le Projet 12 a sa propre page
 
-Ceux qui suivent savent que le Projet 12 occupe une place à part ici. Mais les publications étaient éparpillées, sans point d'entrée, sans ancrage. J'ai créé une page dédiée qui regroupe tous les articles du Projet 12 que vous pouvez découvrir là : 
+Ceux qui me suivent depuis longtemps savent que la photographie occupe une place importante dans mon coeur, le projet 12 de cette année en est le reflet mais les publications étaient éparpillées, sans point d'entrée, sans ancrage. J'ai créé une page dédiée qui regroupe tous les articles du Projet 12 que vous pouvez découvrir là : 
 
 <p style="text-align: center;"><a href="https://eckodeath.netlify.app/2026-projet-12/galerie">2026 - Projet 12</a>
 
 screenshot
 
-Plus besoin de fouiller dans les archives du blog ou de tomber dessus par hasard. Toutes les publications sont là, dans l'ordre tout simplement.
+Plus besoin de fouiller dans les archives du blog ou de tomber dessus par hasard. Toutes les publications sont là, dans l'ordre tout simplement. J'ai également rajouté en bas de chaque article, la possibilité de naviguer directement vers le mois précédent ou le mois suivant afin de ne pas être obliger de repasser par la galerie.
 
 ### Le logo en mode sombre
 
