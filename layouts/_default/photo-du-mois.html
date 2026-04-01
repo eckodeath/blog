@@ -13,7 +13,7 @@
 
   <!-- ── Header ── -->
   <header>
-    <a class="site-name" href="https://eckodeath.fr">ecko<span>death</span></a>
+    <a class="site-logo" href="https://eckodeath.fr"><img src="/Logo_header_final_1.png" alt="eckodeath.fr" /></a>
     <div class="header-right">
       <a class="back-link" href="https://eckodeath.fr">← retour au blog</a>
       <button class="theme-toggle" id="toggleTheme" title="Basculer le thème">
@@ -53,7 +53,7 @@
         <div class="section-label" style="margin-bottom:0.7rem">Photo du Mois</div>
         <h1 class="photo-title">{{ .Params.titre_principal | safeHTML }}</h1>
         {{ $moisEN := .Date.Format "January" }}{{ $moisFR := dict "January" "janvier" "February" "février" "March" "mars" "April" "avril" "May" "mai" "June" "juin" "July" "juillet" "August" "août" "September" "septembre" "October" "octobre" "November" "novembre" "December" "décembre" }}
-        <p class="photo-date">{{ .Date.Format "2" }} {{ index $moisFR $moisEN }} {{ .Date.Format "2006" }} </p>
+        <p class="photo-date">{{ .Date.Format "2" }} {{ index $moisFR $moisEN }} {{ .Date.Format "2006" }} &nbsp;·&nbsp; par {{ .Params.auteur | default "Kurt Grava" }}</p>
       </div>
       <div class="meta-right">
         <div class="tags">
@@ -126,8 +126,6 @@
 
   </main>
 
-    </main>
- 
   <footer>
     <div class="footer-social">
       <a href="https://instagram.com/eckodeath" target="_blank" rel="noopener" title="Instagram">
