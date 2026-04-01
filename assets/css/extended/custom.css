@@ -409,3 +409,7 @@ a[title*="eckodeath.fr"]::after {
 .footer-social a:hover {
   color: var(--primary);
 }
+
+.footer span:last-child {
+  display: none !important;
+}
