@@ -343,16 +343,27 @@ main {
 
 /* ─── Footer ──────────────────────────────────── */
 footer {
-  text-align: center;
   padding: 2rem;
   border-top: 1px solid var(--border);
-  font-family: 'DM Mono', monospace;
-  font-size: 0.6rem;
-  letter-spacing: 0.14em;
-  color: var(--text-muted);
-  text-transform: uppercase;
   transition: border-color var(--transition);
 }
+ 
+.footer-social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.6rem;
+}
+ 
+.footer-social a {
+  color: var(--text-muted);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  transition: color 0.2s;
+}
+ 
+.footer-social a:hover { color: var(--accent); }
 
 /* ─── Responsive ──────────────────────────────── */
 @media (max-width: 720px) {
