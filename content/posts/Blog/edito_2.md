@@ -26,6 +26,8 @@ screenshot
 
 Plus besoin de fouiller dans les archives du blog ou de tomber dessus par hasard. Toutes les publications sont là, dans l'ordre tout simplement. J'ai également rajouté en bas de chaque article, la possibilité de naviguer directement vers le mois précédent ou le mois suivant afin de ne pas être obliger de repasser par la galerie.
 
+J'en ai également profité pour rajouter un lien direct en bas de page vers mes réseaux sociaux si vous souhaitez en savoir plus sur moi et peutêtre me suivre...
+
 ### Le logo en mode sombre
 
 C'est un truc qui me dérangeait depuis un moment sans que je sache comment résoudre le problème. Le logo sombre était là, mais il ne ressemblait à rien de précis. J'ai corrigé ça : la version sombre du logo reflète maintenant vraiment l'identité du site. Ça paraît anodin mais quand ça colle des deux côtés, c'est quand même mieux.

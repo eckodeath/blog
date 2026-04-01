@@ -65,15 +65,22 @@
       transition: border-color var(--transition);
     }
 
-    .site-name {
-      font-family: 'DM Mono', monospace;
-      font-size: 0.78rem;
-      letter-spacing: 0.18em;
-      text-transform: uppercase;
-      color: var(--text-muted);
+    .site-logo {
+      display: flex;
+      align-items: center;
       text-decoration: none;
     }
-    .site-name span { color: var(--accent); }
+
+    .site-logo img {
+      height: 32px;
+      width: auto;
+      display: block;
+      content: url('/Logo_header_final_1.png');
+    }
+
+    [data-theme="dark"] .site-logo img {
+      content: url('/Logo_header_dark.png');
+    }
 
     .header-right { display: flex; align-items: center; gap: 1.8rem; }
 
@@ -326,7 +333,7 @@
 <body>
 
   <header>
-    <a class="site-name" href="https://eckodeath.fr">ecko<span>death</span></a>
+    <a class="site-logo" href="https://eckodeath.fr"><img src="/Logo_header_final_1.png" alt="eckodeath.fr" /></a>
     <div class="header-right">
       <a class="back-link" href="https://eckodeath.fr">← retour au blog</a>
       <button class="theme-toggle" id="toggleTheme" title="Basculer le thème">
