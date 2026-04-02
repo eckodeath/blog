@@ -4,7 +4,7 @@ date: 2026-04-02
 draft: true
 tags: ["achat", "maison", "ikea", "domotique", "homekit", "minimalisme"]
 categories: ["Journal"]
-description: "J'ai succombé à la VARMBLIXT d'IKEA le jour de sa sortie en France. Une lampe connectée signée Sabine Marcelis, compatible Matter, pilotée depuis Maison d'Apple — et honnêtement, je ne regrette pas."
+description: ""
 cover:
   image: ""
   alt: "IKEA VARMBLIXT lampe connectée"
@@ -13,24 +13,18 @@ cover:
 
 Il y a des achats qu'on assume. Un objectif, un livre, une paire de chaussures trop chère mais qu'on sait qu'on portera dix ans. Et puis il y a les autres — ceux qu'on fait en sachant très bien ce qu'on fait, poussé par un algorithme, une vidéo qui tombe au mauvais moment, une forme de désir qu'on ne s'explique pas vraiment mais qu'on ne cherche pas non plus à contenir.
 
-La *VARMBLIXT d'IKEA*, c'est clairement le deuxième cas.
+La **VARMBLIXT d'IKEA**, c'est clairement le deuxième cas.
 
 J'avais vu passer cette lampe des dizaines de fois. Sur Instagram, dans des appartements filmés avec cet angle légèrement plongeant qu'on commence à reconnaître de loin. Elle apparaît toujours posée sur un bureau ou une console, baignant la pièce dans une lumière rose ou orange qui rend tout un peu plus doux, un peu plus habité. Il y a quelque chose dans sa silhouette — ce disque en verre dépoli de 30 cm, presque plat, qui repose sur un socle discret — qui donne envie de la toucher avant même de savoir ce qu'elle fait. Ce n'est pas un coup de foudre rationnel. C'est juste que l'objet existe et que, d'un coup, on se demande pourquoi il n'est pas déjà chez soi. C'est une création de Sabine Marcelis, designer néerlandaise connue pour son travail sur la lumière et le verre, et ça se voit : il y a une vraie intention derrière la forme, pas juste un globe qu'on a décidé de rendre connecté.
 
 Elle coûte 49,99 euros. Et le 1er avril, jour de sa sortie officielle en France, je me suis retrouvé chez IKEA à la chercher dans les rayons. Pas commandée en ligne, pas ajoutée à une liste d'envies en attendant de voir. Achetée le jour J, en magasin, comme si c'était urgent. Ce ne l'était pas. Mais j'y suis allé quand même.
 
-En vrai, l'objet tient ses promesses. Le globe en verre dépoli fait 30 cm de diamètre pour seulement 12 cm de hauteur — c'est plus une soucoupe qu'une boule, et ça change tout dans la façon dont elle se pose dans une pièce sans l'encombrer. Elle éclaire avec 180 lumens en 3W, ce qui ne suffira pas à lire un roman dans le noir mais fait exactement ce qu'on lui demande : créer une ambiance. La télécommande livrée avec suffit pour le quotidien. Et les couleurs couvrent un spectre large — des rouges profonds, des oranges chauds, des bleus nuit, des roses très pâles — avec une graduation douce qui évite l'effet discothèque. À noter qu'elle peut aussi se fixer au mur en applique, ce que j'envisage sérieusement pour une deuxième.
-
-Je n'ai pas eu besoin d'ouvrir l'application IKEA une seule fois. La VARMBLIXT utilise le protocole Matter over Thread, ce qui veut dire qu'elle s'intègre directement dans l'app Maison d'Apple — programmation, scènes, contrôle depuis le Centre de contrôle, tout passe par là. C'est exactement ce qu'on attend de ce type de produit en 2026, et c'est encore loin d'être systématique chez les fabricants. Un vrai point en sa faveur.
-
-Je l'allume même la journée depuis qu'elle est chez moi. Rarement en mode arc-en-ciel, je la laisse plutôt sur un bleu très doux quand je lis ou en blanc chaud quand j'ai besoin d'un peu de lumière sans allumer le plafonnier. Elle est devenue une habitude très vite, ce qui est probablement la meilleure chose qu'on puisse dire d'un objet qu'on n'était pas censé acheter.
-
-Je vous laisse avec quelques photos du déballage et de la bête :
+Voici quelques photos du déballage et de la bête en elle même :
 
 <div class="medium-wide-image">
   <div class="side-by-side">
     <figure>
-      <img src="/posts/lifestyle/achat-varmblixt/ikea_varmblixt-1.jpg" alt="Photo 1">
+      <img src="/posts/Lifestyle/Achat-Varmblixt/ikea_varmblixt-1.jpg" alt="Photo 1">
     </figure>
     <figure>
       <img src="/posts/lifestyle/achat-varmblixt/ikea_varmblixt-2.jpg" alt="Photo 2">
@@ -82,7 +76,11 @@ Je vous laisse avec quelques photos du déballage et de la bête :
   </div>
 </div>
 
+En vrai, l'objet tient ses promesses. Le globe en verre dépoli fait 30 cm de diamètre pour seulement 12 cm de hauteur — c'est plus une soucoupe qu'une boule, et ça change tout dans la façon dont elle se pose dans une pièce sans l'encombrer. Elle éclaire avec 180 lumens en 3W, ce qui ne suffira pas à lire un roman dans le noir mais fait exactement ce qu'on lui demande : créer une ambiance. La télécommande livrée avec suffit pour le quotidien. Et les couleurs couvrent un spectre large — des rouges profonds, des oranges chauds, des bleus nuit, des roses très pâles — avec une graduation douce qui évite l'effet discothèque. À noter qu'elle peut aussi se fixer au mur en applique, ce que j'envisage sérieusement pour une deuxième.
 
+Je n'ai pas eu besoin d'ouvrir l'application IKEA une seule fois. La VARMBLIXT utilise le protocole Matter over Thread, ce qui veut dire qu'elle s'intègre directement dans l'app Maison d'Apple — programmation, scènes, contrôle depuis le Centre de contrôle, tout passe par là. C'est exactement ce qu'on attend de ce type de produit en 2026, et c'est encore loin d'être systématique chez les fabricants. Un vrai point en sa faveur.
+
+Je l'allume même la journée depuis qu'elle est chez moi. Rarement en mode arc-en-ciel, je la laisse plutôt sur un bleu très doux quand je lis ou en blanc chaud quand j'ai besoin d'un peu de lumière sans allumer le plafonnier. Elle est devenue une habitude très vite, ce qui est probablement la meilleure chose qu'on puisse dire d'un objet qu'on n'était pas censé acheter.
 
 Soyez honnête elle est classe quand même ? Est ce que vous allez craquer vous aussi ?
 
