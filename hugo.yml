@@ -95,6 +95,31 @@ menu:
       name: Catégories
       url: /categories/
       weight: 10
+    - identifier: edito
+      name: Edito
+      url: /categories/edito/
+      parent: categories
+      weight: 11
+    - identifier: journal
+      name: Journal
+      url: /categories/journal/
+      parent: categories
+      weight: 12
+    - identifier: photographie
+      name: Photographie
+      url: /categories/photographie/
+      parent: categories
+      weight: 13
+    - identifier: tutoriel
+      name: Tutoriel
+      url: /categories/tutoriel/
+      parent: categories
+      weight: 14
+    - identifier: voyages
+      name: Voyages
+      url: /categories/voyages/
+      parent: categories
+      weight: 15
     - identifier: archives
       name: Archives
       url: /archives/
