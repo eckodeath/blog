@@ -42,7 +42,10 @@ draft: false
 
 <div class="about-divider"></div>
 
-<p class="about-copyright">© eckodeath.fr — Tous droits réservés. Les textes, photos et vidéos partagés ici sont le fruit de mon travail et de mes expériences. Merci de ne pas les utiliser sans mon autorisation écrite. Si vous souhaitez partager un extrait, contactez-moi : je suis toujours ouvert à l'échange.</p>
+<div class="about-copyright">
+  <strong>© eckodeath.fr — Tous droits réservés.</strong><br>
+  Les textes, photos et vidéos partagés ici sont le fruit de mon travail et de mes expériences. Merci de ne pas les utiliser sans mon autorisation écrite. Si vous souhaitez partager un extrait, contactez-moi — je suis toujours ouvert à l'échange.
+</div>
 
 <style>
 .about-hero {
@@ -118,10 +121,23 @@ draft: false
   font-style: italic;
 }
 .about-copyright {
-  font-size: 0.8rem;
+  margin-top: 1rem;
+  padding: 24px 28px;
+  background: var(--code-bg);
+  border-left: 3px solid var(--border);
+  font-size: 0.85rem;
+  font-weight: 300;
   color: var(--secondary);
   line-height: 1.6;
 }
+
+.about-copyright strong {
+  color: var(--primary);
+  font-weight: 500;
+  display: block;
+  margin-bottom: 6px;
+}
+
 @media (max-width: 640px) {
   .about-hero {
     flex-direction: column;
