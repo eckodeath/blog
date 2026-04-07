@@ -466,3 +466,7 @@ a[title*="eckodeath.fr"]::after {
 .archive-entry-title a:hover {
   text-decoration: underline;
 }
+
+.archive-year:not(:last-of-type) {
+  border-bottom: none;
+}
