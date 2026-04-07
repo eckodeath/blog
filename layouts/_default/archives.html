@@ -1,0 +1,35 @@
+{{- define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description }}</div>
+  {{- end }}
+</header>
+
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Draft" false }}
+
+{{- range $pages.GroupByDate "2006" }}
+<div class="archive-year">
+  <h2 class="archive-year-header" id="{{ .Key }}">
+    {{ .Key }}
+    <span class="archive-count">— {{ len .Pages }} article{{ if gt (len .Pages) 1 }}s{{ end }}</span>
+  </h2>
+  <ul class="archive-posts">
+    {{- range .Pages }}
+    <li class="archive-entry">
+      {{- $mois := slice "" "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre" }}
+      <span class="archive-entry-date">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Day | printf "%02d" }} {{ index $mois .Date.Month }}
+        </time>
+      </span>
+      <span class="archive-entry-title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </span>
+    </li>
+    {{- end }}
+  </ul>
+</div>
+{{- end }}
+{{- end }}
