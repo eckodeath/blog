@@ -81,6 +81,8 @@ Je l'allume même la journée depuis qu'elle est chez moi. Rarement en mode arc-
 
 Soyez honnête elle est classe quand même ? Est ce que vous allez craquer vous aussi ?
 
+---
+
 <p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
 <p style="text-align: right;"> Kurt G.
 

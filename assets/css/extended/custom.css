@@ -482,9 +482,9 @@ a[title*="eckodeath.fr"]::after {
 }
 
 #menu li.has-dropdown > a .dropdown-arrow {
-  font-size: 0.7rem;
-  margin-left: 2px;
-  opacity: 0.6;
+  font-size: 1rem;
+  margin-left: 4px;
+  opacity: 1;
 }
 
 #menu li.has-dropdown .dropdown {
