@@ -415,6 +415,11 @@ a[title*="eckodeath.fr"]::after {
   color: var(--primary);
 }
 
+.footer-social a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
 /* Archives — groupées par année uniquement */
 .archive-year {
   margin-bottom: 2.5rem;
