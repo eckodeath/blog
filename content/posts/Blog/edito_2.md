@@ -1,7 +1,7 @@
 ---
 title: "Edito #2 – Remettre de l'ordre"
 date: 2026-04-10
-draft: false
+draft: true
 tags: ["édito", "essentiels", "écriture", "blog", "présentation"]
 categories: ["Edito"]
 summary: ""
@@ -28,7 +28,7 @@ Ceux qui me suivent depuis longtemps savent que la photographie occupe une place
   </a>
 </div>
  
- 
+
 
 Plus besoin de fouiller dans les archives du blog ou de tomber dessus par hasard. Toutes les publications sont là, dans l'ordre tout simplement. J'ai également rajouté en bas de chaque article, la possibilité de naviguer directement vers le mois précédent ou le mois suivant afin de ne pas être obliger de repasser par la galerie.
  
