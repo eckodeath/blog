@@ -56,13 +56,7 @@ La difficulté en intérieur d'église, c'est toujours la gestion des contrastes
 
 La cathédrale abrite les tombes de Grace Kelly et du Prince Rainier III. On ne le voit pas sur la photo mais comme je suis sympa, je vous mets les photos correspondantes :
 
-<div class="medium-wide-image">
-  <div class="side-by-side">
-    <figure>
-      <img src="/posts/2026_projet_12/Avril/2026-Projet12-Avril-2.jpg" alt="Photo 2">
-    </figure>
-    <figure>
-      <img src="/posts/2026_projet_12/Avril/2026-Projet12-Avril-3.jpg" alt="Photo 3">
-    </figure>
-  </div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1.5rem 0;">
+  <img src="/posts/2026_projet_12/Avril/2026-Projet12-Avril-2.jpg" alt="Description photo 1" style="width: 100%; height: auto;">
+  <img src="/posts/2026_projet_12/Avril/2026-Projet12-Avril-3.jpg" alt="Description photo 2" style="width: 100%; height: auto;">
 </div>
