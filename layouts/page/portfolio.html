@@ -25,7 +25,7 @@
 
   /* ── PAGE PLEINE LARGEUR ── */
   #portfolio-wrap {
-    background: #fbfaf8;
+    background: var(--theme);
     min-height: 100vh;
     width: 100vw;
     position: relative;
@@ -48,7 +48,7 @@
     font-size: clamp(1.6rem, 3vw, 2.4rem);
     font-weight: 300;
     font-style: normal;
-    color: #1a1a18;
+    color: var(--primary);
     line-height: 1.1;
     margin: 0 0 10px;
     letter-spacing: 0.04em;
@@ -58,7 +58,7 @@
     font-family: 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 12px;
     font-weight: 400;
-    color: #aaa;
+    color: var(--secondary);
     letter-spacing: 0.1em;
     text-transform: uppercase;
     margin: 0;
@@ -76,9 +76,9 @@
     font-size: 12px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: #999;
+    color: var(--secondary);
     background: transparent;
-    border: 1px solid #ccc;
+    border: 1px solid var(--border);
     padding: 6px 16px;
     cursor: pointer;
     transition: all 0.2s ease;
@@ -87,9 +87,9 @@
 
   .pf-filter:hover,
   .pf-filter.active {
-    background: #1a1a18;
-    color: #f5f3ef;
-    border-color: #1a1a18;
+    background: var(--primary);
+    color: var(--theme);
+    border-color: var(--primary);
   }
 
   /* ── MASONRY GRID (JS) ── */
