@@ -1,5 +1,5 @@
 ---
-title: "72h sur la Côte d'Azur"
+title: "72 hrs sur la Côte d'Azur"
 date: 2026-04-17
 draft: true
 categories: ["photographie"]
@@ -12,9 +12,7 @@ cover:
 ---
 
 > ## Contexte : 
-> Le titre de cet article reprend l'idée originale "72 hrs in ..." d'un photographe TRES talentueux du nom de Finn Beales que j'ai découvert grâce à mon ami [Thibaudd](https://thibaud.blot.im/). L'idée de cette série est venu à l'esprit de Finn suite à son expérience professionnelle qui lui a permis d'être photographe attitré du *Hay Festival* (festival littéraire né en 1988 dans sa ville natale de Hay-on-Wye aux Pays de Galles). Le format est né du fait que le temps qu'il passé sur place était seulement de 72 heures car ces festivals se déroulaient seulement sur un week-end. En réalité, l'inspiration des lieux en si peu de temps était plus une contrainte qu'il a essayé de documenter.
-> Le journal photographique *72 Hours in…* chronique ainsi ses voyages dans des dizaines de villes et pays. C'est un projet résolument intime et personnel, en marge de son travail commercial. Ce projet n'est plus directement disponible sur son site web et a abouti à un livre intitulé *72 hours: Volume 1* qu'il est à l'heure actuelle impossible à acquérir...
-
+> Le titre de cet article reprend l'idée originale "72 hrs in ..." de Finn Beales, j'ai fait un article dédié sur le sujet : [72 hrs in ... : Origine](https://eckodeath.fr/photographie/)
 
 Il y a des weekends qui se méritent et qui se désirent. Celui-là, on l'attendait depuis un moment.
 
@@ -52,8 +50,7 @@ En fin d'après-midi, on a repris la route vers Cannes pour rejoindre le **Five 
 
 Trois jours. Des parfums, du sucre, de la pierre, de la mer et surtout du temps passé à deux, ensemble loin des écrans et des obligations du quotidien.
 
-*Post Scriptum :* Pour faire réellement honneur à cette série, j'aurais dû limiter mes écrits mais j'avais besoin de contexte pour que mes images vous parlent. Je tiens également à préciser que je n'ai aucunement l'ambition d'être du même niveau que le travail de Finn.
-Si vous souhaitez découvrir cette série, je vous mets les liens vers ses épisodes encore disponibles :  [72 hrs in Rwanda](https://www.madebyfinn.com/72hrs-in-rwanda) / [72 hrs on Fogo Island](https://www.madebyfinn.com/72-hrs-on-fogo-island) / [72 hrs in Scotland](https://www.madebyfinn.com/72-hrs-in-scotland) / [72 hrs in Hong-Kong](https://www.madebyfinn.com/72-hrs-in-hong-kong) / [72 hrs in Ireland](https://www.madebyfinn.com/72-hrs-in-northern-ireland) / [72 hrs in Bangladesh](https://www.madebyfinn.com/72-hrs-in-bangladesh) / [72 hrs in India](https://www.madebyfinn.com/72hrs-india)
+*Post Scriptum :* Pour faire réellement honneur à cette série, j'aurais dû limiter mes écrits mais j'avais besoin de contexte pour que mes images vous parlent. Je tiens également à préciser que je n'ai aucunement l'ambition, l'intention et encore moins le niveau pour comparer mon travail à celui de Finn.
 
 
 <p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
