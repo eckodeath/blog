@@ -544,3 +544,18 @@ a[title*="eckodeath.fr"]::after {
   line-height: 1.2;
 }
 
+:root {
+  --main-width: 825px;
+}
+
+.header {
+  max-width: 1225px;
+  margin: 0 auto;
+}
+
+.post-content,
+.post-header,
+.post-footer {
+  max-width: 825px;
+  margin: 0 auto;
+}
