@@ -544,6 +544,7 @@ a[title*="eckodeath.fr"]::after {
   line-height: 1.2;
 }
 
+/* === Taille du contenu 720 à 820 et header modifié === */
 :root {
   --main-width: 825px;
 }
@@ -558,4 +559,13 @@ a[title*="eckodeath.fr"]::after {
 .post-footer {
   max-width: 825px;
   margin: 0 auto;
+}
+
+/* === Espacement vertical entre rangées d'images === */
+.post-content p:has(> img:only-child),
+.post-content p:has(> img + img) {
+  margin-top: 0 !important;
+  margin-bottom: 2px !important;
+  line-height: 0;
+  font-size: 0;
 }
