@@ -32,7 +32,7 @@ params:
       url: "<link2>"
 
   label:
-    icon: "/Logo_header_final_1.png"
+    icon: "/Logo_header_white.png"
     iconHeight: 150
   
   ShowReadingTime: false
