@@ -357,7 +357,7 @@ a[title*="eckodeath.fr"]::after {
 }
 
 .logo img {
-  content: url("/Logo_header_final_1.png");
+  content: url("/Logo_header_white.png");
 }
 
 /* Logo en mode sombre : on remplace par le logo nuit */
