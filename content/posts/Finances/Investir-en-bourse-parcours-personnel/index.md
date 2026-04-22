@@ -18,7 +18,7 @@ cover:
 
 <p style="text-align: center;"><strong>Et quoi de mieux pour ça que de s'intéresser à la finance et à l'investissement en bourse ?</strong></p>
 
-<p style="text-align: justify;">Aujourd'hui, je lance une nouvelle série d'articles sur ce blog et je commence par vous raconter mon parcours depuis l'ouverture de mon PEA en septembre 2025. Pas de jargon compliqué, pas de leçons magistrales — juste mon expérience, mes doutes, mes erreurs et ce que j'ai appris en chemin.
+<p style="text-align: justify;">Aujourd'hui, je lance une nouvelle série d'articles sur ce blog et je commence par vous raconter mon parcours depuis l'ouverture de mon PEA en septembre 2025. Pas de jargon compliqué, pas de leçons magistrales. Je veux juste partagé mon expérience, mes doutes, mes erreurs et ce que j'ai appris en chemin.
 
 ## Pourquoi j'ai franchi le pas ?
 
