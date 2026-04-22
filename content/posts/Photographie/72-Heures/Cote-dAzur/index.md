@@ -22,6 +22,44 @@ Direction la Côte d'Azur avec ma femme pour trois jours. Pas de circuit organis
 
 Premier arrêt : **Saint-Tropez**. Même hors saison, ça reste Saint-Tropez : le port, les pointus amarrés, les ruelles colorées de la citadelle, les terrasses encore animées malgré le calme relatif de l'hiver. On y passe, on respire, on profite pour goûter la fameuse tarte tropézienne et on repart.
 
+<div class="medium-wide-image">
+  <div class="image-grid">
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-38.jpg" alt="Photo 1">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-37.jpg" alt="Photo 2">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-39.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-40.jpg" alt="Photo 4">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-41.jpg" alt="Photo 5">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-46.jpg" alt="Photo 6">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-42.jpg" alt="Photo 4">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-43.jpg" alt="Photo 5">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-44.jpg" alt="Photo 6">
+    </figure> 
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-45.jpg" alt="Photo 5">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-46.jpg" alt="Photo 6">
+    </figure>  
+  </div>
+</div>
+
 Cap ensuite sur **Mougins**. Village d'art et de gastronomie perché sur les hauteurs de Cannes, Mougins a quelque chose que les villages "carte postale" n'ont pas toujours : une vraie vie, des galeries ouvertes, des restaurants qui existent en dehors de la saison touristique. On y a traîné plus qu'ailleurs et c'était le bon choix.
 
 Après en avoir pris plein les yeux, nous prenons la direction de **Èze**. Le village perché à plus de 400 mètres, les ruelles en pierres qui grimpent dans tous les sens, la Méditerranée en fond permanent. On ne s'en lasse pas. En début de soirée, on a visité **l'usine de parfumerie Fragonard** — une visite plus intéressante qu'elle n'y paraît sur le papier. On y découvre tout le processus de fabrication d'un parfum, de la fleur brute au flacon fini, avec des explications claires sur les matières premières, les techniques d'extraction, les familles olfactives. On ressort le nez plein de souvenirs et les mains dans les poches — ou pas, selon la résistance de chacun face à la boutique à la sortie, autant vous dire que ma femme n'est pas très résistante...

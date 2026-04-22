@@ -11,6 +11,7 @@ cover:
     relative: false
 ---
 
+<br>
 
 Cette série : *72hrs in ...* a un nom emprunté. Je le dis tout de suite parce que l'idée originale mérite d'être présentée avant que je parle de ce que j'a décidé d'en faire.
 

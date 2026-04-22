@@ -12,7 +12,9 @@ cover:
     relative: false
 ---
 
-40. C'est le nouveau chiffre qui caractérise ma vie... 
+<br>
+
+<p style="text-align: right;">40. C'est le nouveau chiffre qui caractérise ma vie... 
 
 Je l'ai fêté en famille, comme il se doit. Des bougies, des gens qui comptent, le genre de moment où tu souris et où en même temps une partie de toi regarde la scène de loin, un peu en dehors.
 
