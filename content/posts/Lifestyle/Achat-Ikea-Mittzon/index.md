@@ -28,7 +28,20 @@ La profondeur de 60 cm, c'est le minimum pour que tout rentre sans que le bureau
 
 Deux détails que j'ai découverts en commande et qui m'ont confortés dans le choix : la multiprise intégrée directement dans le plan de travail, et l'élément noir disponible pour finir le plateau côté mur. Sur le papier ça paraît anecdotique. En vrai, la multiprise intégrée règle d'un coup le problème des câbles qui traînent sur le bureau ou qui disparaissent derrière — tout se branche là, proprement, sans bricolage. Et l'élément noir en bout de plan de travail donne une finition cohérente avec le piètement, comme si le bureau avait été pensé d'un seul tenant plutôt qu'assemblé à la pièce.
 
-<!-- PHOTOS : insérer ici les photos du bureau monté et en place -->
+<div class="medium-wide-image">
+  <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-2.jpg" alt="" />
+</div>
+
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-1.jpg" alt="">
+    </figure>
+    <figure>
+      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-3.jpg" alt="">
+    </figure>
+  </div>
+</div>
 
 ---
 
@@ -38,7 +51,20 @@ Je ne travaille pas debout toute la journée. Je ne vais pas prétendre le contr
 
 L'installation a pris une après-midi. Les instructions IKEA restent des instructions IKEA — logiques dans l'ensemble, avec deux ou trois moments où on retourne la feuille dans tous les sens. Rien d'insurmontable.
 
-<!-- PHOTOS : insérer ici quelques détails en gros plan (multiprise intégrée, commande tactile, finition noyer, élément noir) -->
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-4.jpg" alt="">
+    </figure>
+    <figure>
+      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-5.jpg" alt="">
+    </figure>
+  </div>
+</div>
+
+<div class="medium-wide-image">
+  <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-6.jpg" alt="" />
+</div>
 
 ---
 
