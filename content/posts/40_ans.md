@@ -39,3 +39,8 @@ Je peux pas mettre ça en pause. Je peux pas cadrer le bon moment et appuyer. Ç
 C'est peut-être pour ça qui me touche autant à 40 ans. Je commence à voir le monde de l'extérieur. Lui, pas encore (et c'est tant mieux)
 
 Je me demande si c'est juste moi, ce son baissé en permanence. Cette façon d'être présent et ailleurs en même temps, de voir les gens jouer leurs rôles sans pouvoir m'empêcher de le remarquer. J'imagine que non. Qu'à un moment ça arrive, et que t'apprends à faire avec...
+
+<p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
+<p style="text-align: right;"> Kurt G.
+
+---

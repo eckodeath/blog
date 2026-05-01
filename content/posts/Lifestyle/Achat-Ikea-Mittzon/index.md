@@ -1,8 +1,8 @@
 ---
-title: "Le bureau assis-debout que j'aurais dû acheter bien plus tôt"
+title: "J'ai craqué pour un bureau assis-debout"
 date: 2026-04-27
 draft: true
-description: "Après des années à remettre ça à plus tard, j'ai enfin craqué pour un bureau assis-debout. Voici pourquoi j'ai choisi le Mittzon d'IKEA et ce que ça change vraiment."
+description: ""
 categories: ["Journal"]
 tags: ["achat", "maison", "ikea", "bureau", "mittzon", "minimalisme"]
 cover:
@@ -10,13 +10,14 @@ cover:
   alt: "Bureau Mittzon IKEA plaqué noyer avec piètement électrique noir"
 ---
 
+<br>
+
 Le bureau assis-debout, c'est le genre d'achat qu'on reporte. On se dit que c'est cher, que ça prend de la place, que ça attend. Puis un jour arrive.
 
 J'ai passé un temps ridicule à me renseigner. Des vidéos de setups sur YouTube, des fils Reddit, des comparatifs copié-collés d'un site à l'autre. J'avais une liste de critères que je ne savais pas vraiment prioriser. Et au bout de tout ça, j'ai choisi le Mittzon d'IKEA — plaqué noyer, piètement électrique noir.
 
 Pas la décision la plus spectaculaire du monde pour quelqu'un qui regarde des setups à plusieurs milliers d'euros. Mais j'assume.
 
----
 
 ## Pourquoi le Mittzon
 
@@ -29,21 +30,20 @@ La profondeur de 60 cm, c'est le minimum pour que tout rentre sans que le bureau
 Deux détails que j'ai découverts en commande et qui m'ont confortés dans le choix : la multiprise intégrée directement dans le plan de travail, et l'élément noir disponible pour finir le plateau côté mur. Sur le papier ça paraît anecdotique. En vrai, la multiprise intégrée règle d'un coup le problème des câbles qui traînent sur le bureau ou qui disparaissent derrière — tout se branche là, proprement, sans bricolage. Et l'élément noir en bout de plan de travail donne une finition cohérente avec le piètement, comme si le bureau avait été pensé d'un seul tenant plutôt qu'assemblé à la pièce.
 
 <div class="medium-wide-image">
-  <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-2.jpg" alt="" />
+  <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-2.jpg" alt="Photo 2" />
 </div>
 
 <div class="medium-wide-image">
   <div class="side-by-side">
     <figure>
-      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-1.jpg" alt="">
+      <img src="/posts/Lifestyle/Achat-Ikea-Mittzon/Ikea_Mittzon-1.jpg" alt="Photo 1">
     </figure>
     <figure>
-      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-3.jpg" alt="">
+      <img src="/posts/Lifestyle/Achat-Ikea-Mittzon/Ikea_Mittzon-3.jpg" alt="Photo 3">
     </figure>
   </div>
 </div>
 
----
 
 ## Ce que ça change (et ce que ça ne change pas)
 
@@ -54,19 +54,18 @@ L'installation a pris une après-midi. Les instructions IKEA restent des instruc
 <div class="medium-wide-image">
   <div class="side-by-side">
     <figure>
-      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-4.jpg" alt="">
+      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-4.jpg" alt="Photo 4">
     </figure>
     <figure>
-      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-5.jpg" alt="">
+      <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-5.jpg" alt="Photo 5">
     </figure>
   </div>
 </div>
 
 <div class="medium-wide-image">
-  <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-6.jpg" alt="" />
+  <img src="/posts/lifestyle/achat-ikea-mittzon/ikea_mittzon-6.jpg" alt="Photo 6" />
 </div>
 
----
 
 ## Et maintenant
 
@@ -74,4 +73,8 @@ Ce bureau marque quelque chose que je voulais faire depuis longtemps : un articl
 
 J'ai toujours été curieux de voir ce que les gens ont sur leur bureau. Pas pour la valeur du matériel, mais pour ce que ça dit de la façon dont ils travaillent. C'est le genre d'article qui me tient à cœur depuis des années — il arrive bientôt.
 
-— Kurt
+<br>
+<p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
+<p style="text-align: right;"> Kurt G.
+
+---
