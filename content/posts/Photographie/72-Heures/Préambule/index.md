@@ -1,7 +1,7 @@
 ---
 title: "72 hrs in ... : Origine"
-date: 2026-04-16
-draft: true
+date: 2026-05-03
+draft: false
 categories: ["photographie"]
 tags: ["72 heures", "week-end", "voyages", "récit", "personnel", "photographie"]
 cover:
@@ -13,9 +13,9 @@ cover:
 
 <br>
 
-Cette série : *72hrs in ...* a un nom emprunté. Je le dis tout de suite parce que l'idée originale mérite d'être présentée avant que je parle de ce que j'a décidé d'en faire.
+J'ai décidé de me lancer dans une nouvelle série : *72hrs in ...* Cette série a tout simplement un nom emprunté. Je le dis tout de suite parce que l'idée originale mérite d'être présentée avant que je parle de ce que j'ai décidé d'en faire.
 
-*72 hrs in…* est un concept de Finn Beales, photographe primé gallois que j'ai découvert grâce à mon ami [Thibaudd](https://www.instagram.com/thib_audd/). J'ai décidé de m'en inspirer pour documenter mes propres voyages à l'étranger / week-ends en France, quelques escapades ailleurs quand l'occasion se présente. Mais avant d'en parler, voilà d'où ça vient.
+*72 hrs in…* est un concept de Finn Beales, photographe primé gallois que j'ai découvert grâce à mon ami [Thibaudd](https://www.instagram.com/thib_audd/). J'ai décidé de m'en inspirer pour documenter mes propres voyages à l'étranger / week-ends en France ou encore de simples escapades ailleurs quand l'occasion se présente. Mais avant d'en parler, voilà d'où ça vient.
 
 ---
 
@@ -68,13 +68,13 @@ La série n'est plus disponible directement sur son site. La page d'index a disp
 - <a href="https://www.madebyfinn.com/72hrs-india" target="_blank">72 hrs in India</a>
 
 
-Ce sont les seules URLs que j'ai réussit à retrouver mais on ressent clairement en parcourant son site que cette série n'est plus quelque chose qu'il cherche à maintenir actif. Il a par contre publié un livre, *72 hours: Volume 1*, qui compile une sélection de destinations : Islande, Alberta, Californie du Nord, Pacific Northwest, Terre-Neuve. Introuvable aujourd'hui, épuisé partout (eet j'ai cherché, croyez moi). C'est un peu dommage, parce que c'est exactement le genre de travail qui méritait un objet physique.
+Ce sont les seules URLs que j'ai réussit à retrouver mais on ressent clairement en parcourant son site que cette série n'est plus quelque chose qu'il cherche à maintenir actif. Il a par contre publié un livre, *72 hours: Volume 1*, qui compile une sélection de destinations : Islande, Alberta, Californie du Nord, Pacific Northwest, Terre-Neuve. Introuvable aujourd'hui, épuisé partout (et j'ai cherché, croyez moi). C'est un peu dommage, parce que c'est exactement le genre de travail qui méritait un objet physique.
 
 ---
 
-Ma version sera plus modeste, que ce soit géographiquement et visuellement. Même contrainte de temps, même idée derrière : voir ce qu'on retient d'un endroit quand on n'a pas le luxe de s'y installer. 
+Ma version sera plus modeste que ce soit géographiquement et visuellement. Même contrainte de temps (enfin je vais essayer ou pas), même idée derrière : voir ce qu'on retient d'un endroit quand on n'a pas le luxe de s'y installer et de partager avec vous une découverte.
 
-Ce premier article est une présentation de la série, une façon de rendre à Finn Beales ce qui lui appartient et rendre un hommage à cette magnifique série.
+Ce premier article est une présentation de la série, une façon de rendre à Finn Beales ce qui lui appartient permettant de rendre un hommage à cette magnifique série et à ce grand artiste.
 
 
 <p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
@@ -84,8 +84,9 @@ Ce premier article est une présentation de la série, une façon de rendre à F
 
 *Post Scriptum :* [Thibaudd](https://thibaud.blot.im/) a également lancé sa propre série depuis quelques mois qu'il a lui même adapté en fonction de ses envies, voici certains liens :
 
-- [72hrs in Lisbon](https://thibaud.blot.im/72hrs-in-lisbon)
-- [48hrs in London](https://thibaud.blot.im/48hrs-in-london)
-- [72hrs in Firenze](https://thibaud.blot.im/72hrs-in-firenze)
+- <a href="https://thibaud.blot.im/72hrs-in-lisbon" target="_blank">72 hrs in Lisbon</a>
+- <a href="https://thibaud.blot.im/48hrs-in-london" target="_blank">48 hrs in London</a>
+- <a href="https://thibaud.blot.im/72hrs-in-firenze" target="_blank">72 hrs in Firenze</a>
+
 
 ---
