@@ -13,7 +13,7 @@ cover:
 
 <br>
 
-J'ai décidé de me lancer dans une nouvelle série : *72hrs in ...* Cette série a tout simplement un nom emprunté. Je le dis tout de suite parce que l'idée originale mérite d'être présentée avant que je parle de ce que j'ai décidé d'en faire.
+J'ai décidé de me lancer dans une nouvelle série intitulée *72hrs in ...* Cette série a tout simplement un nom emprunté. Je le dis tout de suite parce que l'idée originale mérite d'être présentée avant que je parle de ce que j'ai décidé d'en faire.
 
 *72 hrs in…* est un concept de Finn Beales, photographe primé gallois que j'ai découvert grâce à mon ami [Thibaudd](https://www.instagram.com/thib_audd/). J'ai décidé de m'en inspirer pour documenter mes propres voyages à l'étranger / week-ends en France ou encore de simples escapades ailleurs quand l'occasion se présente. Mais avant d'en parler, voilà d'où ça vient.
 
