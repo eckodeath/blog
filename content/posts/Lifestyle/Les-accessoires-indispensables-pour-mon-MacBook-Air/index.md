@@ -12,6 +12,9 @@ cover:
     relative: false
 ---
 
+<br>
+<br>
+
 Depuis que j'ai mon MacBook Air M4 je me suis rendu compte qu'il est bien plus qu'un simple ordinateur : c'est mon poste de travail mobile, mon studio créatif et mon compagnon de voyage. Pour en tirer le meilleur, j'utilise une sélection d'accessoires que je trouve indispensable permettant à la fois de le protéger, d'optimiser et de fluidifier son usage au quotidien.
 
 ### 1. Une coque de protection fine et solide

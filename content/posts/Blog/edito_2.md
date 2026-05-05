@@ -12,6 +12,9 @@ cover:
     relative: false
 ---
 
+<br>
+<br>
+
 Bienvenue dans ce deuxième édito. Pas de grande intro, vous connaissez le principe maintenant.
  
 Ces dernières semaines, j'ai passé du temps dans les coulisses du blog. Pas pour ajouter des choses (quoi que) mais plutôt pour corriger ce qui clochait, améliorer l'ergonomie et remettre de l'ordre là où ça en manquait.

@@ -12,6 +12,9 @@ cover:
     relative: false
 ---
 
+<br>
+<br>
+
 Bienvenue dans ce premier **édito**, pour ceux qui me suivent depuis le début/longtemps vous savez que j’apprécie énormément ce format d’article. Il me permet de partager avec vous ce qui me passe par la tête sans filtre, sans frioture et sans me préocupper du design. C’est une manière pour moi de rester transparent, de partager mes réflexions et de vous donner un aperçu de ce qui se construit ici, petit à petit.
 
 Depuis quelque temps, une idée revient souvent dans mon esprit : **alléger pour mieux respirer**. Et cela m’a conduit à une série de décisions concrètes pour rendre ce blog plus clair, plus simple, plus aligné avec ce que je suis aujourd’hui.

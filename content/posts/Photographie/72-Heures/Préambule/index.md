@@ -12,6 +12,7 @@ cover:
 ---
 
 <br>
+<br>
 
 J'ai décidé de me lancer dans une nouvelle série intitulée *72hrs in ...* Cette série a tout simplement un nom emprunté. Je le dis tout de suite parce que l'idée originale mérite d'être présentée avant que je parle de ce que j'ai décidé d'en faire.
 
