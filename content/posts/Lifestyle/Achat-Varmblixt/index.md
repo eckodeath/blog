@@ -13,7 +13,6 @@ cover:
 
 <br>
 <br>
-<br>
 
 Il y a des achats qu'on assume : un objectif, un livre, une paire de chaussures trop chère mais qu'on sait qu'on portera dix ans et puis il y a les autres — ceux qu'on fait en sachant très bien ce qu'on fait, poussé par un algorithme, une vidéo qui tombe au mauvais moment, une forme de désir qu'on ne s'explique pas vraiment mais qu'on ne cherche pas non plus à contenir.
 
