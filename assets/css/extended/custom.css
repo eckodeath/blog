@@ -569,3 +569,14 @@ a[title*="eckodeath.fr"]::after {
   line-height: 0;
   font-size: 0;
 }
+
+/* Titre et date des articles centrés */
+.post-header h1.post-title {
+  text-align: center !important;
+  display: block !important;
+  justify-content: unset !important;
+}
+
+.post-header .post-meta {
+  justify-content: center;
+}
