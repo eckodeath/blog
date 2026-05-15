@@ -1,7 +1,7 @@
 ---
 title: "72 hrs sur la Côte d'Azur"
-date: 2026-04-17
-draft: true
+date: 2026-05-15
+draft: false
 categories: ["photographie"]
 tags: ["72 heures", "week-end", "voyages", "récit", "personnel", "photographie"]
 cover:
@@ -14,7 +14,7 @@ cover:
 <br>
 
 > ## Contexte : 
-> Le titre de cet article reprend l'idée originale "72 hrs in ..." de Finn Beales, j'ai fait un article dédié sur le sujet : [72 hrs in ... : Origine](https://eckodeath.fr/photographie/)
+> Le titre de cet article reprend l'idée originale "72 hrs in ..." de Finn Beales, j'ai fait un article dédié sur le sujet : [72 hrs in ... : Origine](https://eckodeath.netlify.app/posts/photographie/72-heures/pr%C3%A9ambule/)
 
 
 Il y a des weekends qui se méritent et qui se désirent. Celui-là, on l'attendait depuis un moment.
@@ -191,7 +191,7 @@ Deuxième étape de notre week-end : direction Monaco. On connaît le côté ost
   <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-16.jpg" alt="" />
 </div>
 
-On en as pris plein les yeux mias en réalité ce n'est pas pour ça qu'on y va.
+On en as pris plein les yeux mais en réalité ce n'est pas pour ça qu'on y va.
 
 
 <p style="text-align: right;"> On y va pour <B>Cédric Grolet</B>.
@@ -268,10 +268,6 @@ L'arrêt qui s'imposait : **Philippe Tayac**. Pâtissier cannois reconnu, ses vi
   </div>
 </div>
 
-<div class="medium-wide-image">
-  <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-54.jpg" alt="Image un peu plus large que le texte" />
-</div>
-
 En fin d'après-midi, on a décidé de rejoindre notre hôtel, le **Five Seas Hôtel** afin de profiter de son luxe et même de sa piscine :
 
 <div class="medium-wide-image">
@@ -280,11 +276,15 @@ En fin d'après-midi, on a décidé de rejoindre notre hôtel, le **Five Seas H�
 
  ainsi que du calme du port tout proche avant de remballer les valises le lendemain matin et de rentrer chez nous en se disant : on reviendra...
 
+ <div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Cote-dAzur/72hrs_Cote_azur-54.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
 ---
 
 Trois jours. Des parfums, du sucre, de la pierre, de la mer et surtout du temps passé à deux, ensemble loin des écrans et des obligations du quotidien.
 
-*Post Scriptum :* Pour faire réellement honneur à cette série, j'aurais dû limiter mes écrits mais j'avais besoin de contexte pour que mes images vous parlent. Je tiens également à préciser que je n'ai aucunement l'ambition, l'intention et encore moins le niveau pour comparer mon travail à celui de Finn.
+*Post Scriptum :* Pour faire réellement honneur à cette série, j'aurais dû limiter mes écrits mais j'avais besoin de contexte pour que mes images vous parlent et j'assume ce choix. Je tiens également à préciser que je n'ai aucunement l'ambition, l'intention et encore moins le niveau pour comparer mon travail à celui de Finn.
 
 
 <p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
