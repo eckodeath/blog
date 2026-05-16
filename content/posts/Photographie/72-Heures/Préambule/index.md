@@ -79,7 +79,7 @@ Ce premier article est une présentation de la série, une façon de rendre à F
 
 
 <p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
-<p style="text-align: right;"> Kurt Grava
+<p style="text-align: right;"> Kurt G.
 
 ---
 
