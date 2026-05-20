@@ -1,7 +1,7 @@
 ---
 title: "Quarante ans..."
 date: 2026-05-16
-draft: true
+draft: false
 tags: ["2026", "bilan", "biographie", "blog", "personnel"]
 categories: ["Journal"]
 summary: ""
@@ -13,6 +13,7 @@ cover:
 ---
 
 <br>
+<br>
 
 <p style="text-align: right;">40. C'est le nouveau chiffre qui caractérise ma vie... 
 
@@ -22,7 +23,7 @@ C'est ça le truc que j'avais pas vu venir à 40 ans. Pas les douleurs de dos. P
 
 Ça m'arrive de plus en plus souvent. Une conversation récemment — des gens que je connais, un sujet qui me concernait — et j'étais pas vraiment là. Je les regardais parler. Je voyais qui voulait avoir raison, qui attendait son tour, qui écoutait vraiment et qui faisait semblant. Comme si quelqu'un avait baissé le son et que je regardais les gens jouer leur partition sans l'entendre. J'ai dit deux ou trois trucs au bon moment. Personne a remarqué que j'étais ailleurs. Ce qui m'inquiète c'est que cela arrive de plus en plus souvent...
 
-C'est pas de la tristesse. C'est pas du cynisme non plus — enfin, pas que. C'est juste que tu commences à voir les mécanismes. Les rôles que les gens jouent, au boulot, en famille, partout. Et une fois que tu les vois, tu peux plus vraiment faire semblant de pas les voir. T'es là, tu participes, tu ris aux bons moments. Mais t'es aussi, toujours un peu, en train d'observer.
+C'est pas de la tristesse. C'est pas du cynisme non plus, enfin pas que. C'est juste que tu commences à voir les mécanismes. Les rôles que les gens jouent, au boulot, en famille, partout. Et une fois que tu les vois, tu peux plus vraiment faire semblant de pas les voir. T'es là, tu participes, tu ris aux bons moments. Mais t'es aussi, toujours un peu, en train d'observer.
 
 Y'a pas eu de rupture franche. Juste un tri silencieux, des trucs et des gens qui ont disparu progressivement faute d'entretien. J'ai pas tout choisi. La plupart du temps ça s'est choisi sans moi.
 
