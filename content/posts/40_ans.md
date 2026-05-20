@@ -1,6 +1,6 @@
 ---
 title: "Quarante ans..."
-date: 2026-05-16
+date: 2026-05-20
 draft: false
 tags: ["2026", "bilan", "biographie", "blog", "personnel"]
 categories: ["Journal"]
