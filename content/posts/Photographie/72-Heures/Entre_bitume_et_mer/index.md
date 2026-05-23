@@ -14,6 +14,10 @@ cover:
 <br>
 <br>
 
+> ## Contexte : 
+> Le titre de cet article reprend l'idée originale "72 hrs in ..." de Finn Beales, j'ai fait un article dédié sur le sujet : [72 hrs in ... : Origine](https://eckodeath.netlify.app/posts/photographie/72-heures/pr%C3%A9ambule/)
+
+
 Il y a des week-ends qu'on construit volontairement sur des contrastes. Celui-là, c'était deux jours de bruit, d'odeurs de gomme brûlée et de vitesse — puis un troisième à longer la mer en silence.
 
 Direction Le Castellet : l'ELMS au Circuit Paul Ricard d'abord, la côte méditerranéenne ensuite. Même périmètre, deux mondes totalement différents.
