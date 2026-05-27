@@ -8,7 +8,7 @@ categories: ["Photographie"]
 
 # ── Photo principale ──────────────────────────────────────────
 # Chemin relatif depuis /static/ ou URL complète
-photo: "/posts/2026_projet_12/Avril/2026-Projet12-Mai.jpg"
+photo: "/posts/2026_projet_12/Mai/2026-Projet12-Mai.jpg"
 photo_alt: "<strong>Diodes éteintes</strong>"
 
 # ── Infos affichées ───────────────────────────────────────────
