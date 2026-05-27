@@ -1,8 +1,8 @@
 ---
 title: "Projet 12 : Mai 2026"
 layout: "photo-du-mois"
-date: 2026-05-30
-draft: true
+date: 2026-05-27
+draft: false
 tags: ["photographie", "projet 12", "2026", "lifestyle" ]
 categories: ["Photographie"]
 
