@@ -7,13 +7,13 @@ draft: false
 <section class="about-hero">
   <div class="about-hero-text">
     <h2 class="about-section-label">Mon histoire</h2>
-    <p>Je m'appelle Kurt Grava, j'ai 38 ans et depuis 2012, je publie sous le nom @eckodeath. Eckodeath est un projet personnel né de mes passions pour le voyage, la photographie, le partage d'expériences et la technologie.</p>
+    <p>Je m'appelle Kurt Grava, j'ai 40 ans et depuis 2012, je publie sous le nom @eckodeath. Eckodeath est un projet personnel né de mes passions pour le voyage, la photographie, le partage d'expériences et la technologie.</p>
     <p>Je suis un blogueur indépendant, un photographe autodidacte et un amoureux du numérique. J'aime capturer ce qui m'entoure, raconter ce que je vis, tester ce qui m'inspire, vivre tout simplement.</p>
     <p>Mon blog est un espace personnel et créatif où je combine images, récits et réflexions, avec pour objectif de partager mes expériences avec sincérité, inspirer celles et ceux qui aiment explorer, créer des connexions autour de passions communes : le voyage, la photographie et la technologie.</p>
     <p class="about-hero-link">→ <a href="https://eckodeath.fr/posts/l_homme_derriere_le_pseudo/" target="_blank">L'homme derrière le pseudo, qui suis-je réellement ?</a></p>
   </div>
   <div class="about-hero-photo">
-    <img src="/images/about_profil_2.png" alt="Portrait de Kurt Grava" />
+    <img src="/images/about_profil_1.jpg" alt="Portrait de Kurt Grava" />
   </div>
 </section>
 
