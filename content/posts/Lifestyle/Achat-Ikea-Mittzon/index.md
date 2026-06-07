@@ -1,7 +1,7 @@
 ---
 title: "J'ai craqué pour un bureau assis-debout"
-date: 2026-04-27
-draft: true
+date: 2026-06-07
+draft: false
 description: ""
 categories: ["Journal"]
 tags: ["achat", "maison", "ikea", "bureau", "mittzon", "minimalisme"]
@@ -20,7 +20,7 @@ J'ai passé un temps ridicule à me renseigner. Des vidéos de setups sur YouTub
 Pas la décision la plus spectaculaire du monde pour quelqu'un qui regarde des setups à plusieurs milliers d'euros. Mais j'assume.
 
 
-## Pourquoi le Mittzon
+## Pourquoi le Mittzon ?
 
 Ce qui m'a convaincu, c'est surtout la finition. Le plateau en plaqué noyer n'a rien à voir avec un décor papier — il y a une vraie matière, une chaleur qu'on sent en posant les mains dessus. Ça semble bête à dire mais ça compte, quand c'est là devant vous huit heures par jour.
 
