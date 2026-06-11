@@ -68,7 +68,7 @@ L'installation a pris une après-midi. Les instructions IKEA restent des instruc
 </div>
 
 
-## Et maintenant
+## Et maintenant ?
 
 Ce bureau marque quelque chose que je voulais faire depuis longtemps : un article desk setup complet. Photographier tout ce qui est posé là, raconter pourquoi chaque chose se trouve à cet endroit, parler des accessoires qu'on finit par enlever autant que de ceux qu'on garde.
 
