@@ -36,20 +36,21 @@ Plus de 25 500 spectateurs ce week-end, un nouveau record d'affluence pour les 4
 
 Place aux photos :
 
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-51.jpg" alt="" />
+</div>
 <div class="medium-wide-image image-grid grid-3">
   <figure>
-    <img src="/posts/photographie/72-Heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-52.jpg" alt="">
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-52.jpg" alt="">
   </figure>
   <figure>
-    <img src="/posts/photographie/72-Heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-53.jpg" alt="">
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-50.jpg" alt="">
   </figure>
   <figure>
-    <img src="/posts/photographie/72-Heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-50.jpg" alt="">
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-53.jpg" alt="">
   </figure>
 </div>
-<div class="medium-wide-image">
-  <img src="/posts/photographie/72-Heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-51.jpg" alt="" />
-</div>
+
 
 
 # Jour 3 — La côte
