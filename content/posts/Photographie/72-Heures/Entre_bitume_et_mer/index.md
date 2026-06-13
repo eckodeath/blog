@@ -46,3 +46,10 @@ C'est le genre de balade qu'on fait sans forcément s'y préparer et qui finit p
 ---
 
 Trois jours, deux registres complètement différents. Le bruit, la vitesse, l'odeur de gomme brûlée pendant deux jours puis le silence relatif d'un sentier côtier avec juste le vent et la mer pour le troisième. C'est ça que j'aime dans ce format : la contrainte de temps oblige à ne pas choisir, à tout mettre dans le même sac et à voir ce que ça donne.
+
+<p style="text-align: right;"> A bientôt sur <a href="https://eckodeath.netlify.app">eckodeath.fr</a>
+<p style="text-align: right;"> Kurt G.
+
+---
+
+**Post Scriptum :** Je suis conscient que mes photos de voitures ont encore une large marge de progression. Les images mettent les voitures en valeur mais elles ne restituent qu'une partie de la scène : les roues apparaissent figées là où elles devraient être floues, trahies par leur rotation. Le filé est une technique qui s'apprivoise et manifestement j'ai encore du travail...
