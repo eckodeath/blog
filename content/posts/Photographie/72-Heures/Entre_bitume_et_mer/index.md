@@ -1,6 +1,6 @@
 ---
 title: "72 hrs entre bitume et mer"
-date: 2026-06-05
+date: 2026-06-13
 draft: true
 categories: ["photographie"]
 tags: ["72 heures", "week-end", "voyages", "récit", "personnel", "photographie"]
@@ -33,6 +33,23 @@ Le paddock, lui, c'est plus calme. Les camions des écuries, les hospitalities, 
 En GT3, je suivais en priorité la Mercedes-AMG n°62 d'Iron Lynx avec Maxime Martin au volant. En LMP2, c'était l'Oreca n°30 de Duqueine Team — Doriane Pin, Giorgio Roda et Richard Verschoor. Doriane Pin est ma pilote féminine préférée depuis un moment : championne F1 Academy 2025, pilote de développement Mercedes, et suffisamment douée en endurance pour qu'on sache déjà que les prototypes c'est là qu'elle est à son meilleur. Aux qualifs du samedi, l'Oreca n°30 avait signé la pole en Pro-Am avant d'être pénalisée pour une irrégularité technique — de quoi passer le dimanche à regarder l'équipe remonter depuis le fond de la catégorie.
 
 Plus de 25 500 spectateurs ce week-end, un nouveau record d'affluence pour les 4 Heures du Castellet. Ça se sentait et ça fait plaisir de voir que ce genre d'évènement commence à attirer de plus en plus de foule.
+
+Place aux photos :
+
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-Heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-52.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-Heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-53.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-Heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-50.jpg" alt="">
+  </figure>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-Heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-51.jpg" alt="" />
+</div>
 
 
 # Jour 3 — La côte
