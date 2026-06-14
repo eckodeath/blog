@@ -50,6 +50,27 @@ Place aux photos :
     <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-53.jpg" alt="">
   </figure>
 </div>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-54.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-55.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-56.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-57.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-58.jpg" alt="">
+  </figure>
+</div>
 
 
 
