@@ -120,7 +120,6 @@ Place aux photos :
     <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-73.jpg" alt="">
   </figure>
 </div>
-</div>
 <div class="medium-wide-image">
   <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-74.jpg" alt="" />
 </div>
@@ -168,10 +167,9 @@ Place aux photos :
   </figure>
 </div>
 
+
 Si vous souhaitez découvrir plus de clichés pris lors de ces deux journées de folie, j'ai crée un album sur mon espace Flickr : <a href="https://www.flickr.com/photos/eckodeath/albums/72177720334181195" target="_blank">ELMS - 2026</a>
 
-
-<br>
 
 # Jour 3 — La côte
 
@@ -218,7 +216,6 @@ On a marché pendant des heures. La Méditerranée à gauche, les collines derri
       <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-5.jpg" alt="Photo">
     </figure>
   </div>
-</div>
 </div>
 <div class="medium-wide-image">
   <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-11.jpg" alt="" />
@@ -284,7 +281,7 @@ On a marché pendant des heures. La Méditerranée à gauche, les collines derri
 <div class="medium-wide-image">
   <div class="side-by-side">
     <figure>
-      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-28.jpg" alt="Photo">
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-30.jpg" alt="Photo">
     </figure>
     <figure>
       <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-29.jpg" alt="Photo">
