@@ -71,14 +71,227 @@ Place aux photos :
     <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-58.jpg" alt="">
   </figure>
 </div>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-61.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-62.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-64.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-63.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-65.jpg" alt="">
+  </figure>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-66.jpg" alt="" />
+</div>
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-67.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-68.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-69.jpg" alt="">
+  </figure>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-70.jpg" alt="" />
+</div>
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-71.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-72.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-73.jpg" alt="">
+  </figure>
+</div>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-74.jpg" alt="" />
+</div>
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-75.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-77.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-76.jpg" alt="">
+  </figure>
+</div>
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-78.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-79.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-80.jpg" alt="">
+  </figure>
+</div>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-84.jpg" alt="Photo 3">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-85.jpg" alt="Photo 2">
+    </figure>
+  </div>
+</div>
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-81.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-82.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-83.jpg" alt="">
+  </figure>
+</div>
+
+Si vous souhaitez découvrir plus de clichés pris lors de ces deux journées de folie, j'ai crée un album sur mon espace Flickr : <a href="https://www.flickr.com/photos/eckodeath/albums/72177720334181195" target="_blank">ELMS - 2026</a>
 
 
+<br>
 
 # Jour 3 — La côte
 
 Le lendemain, on a laissé le circuit derrière et on est descendus vers la mer. Pas de plan précis — juste longer la côte à pied et voir ce que ça donnait.
 
 On a marché pendant des heures. La Méditerranée à gauche, les collines derrière, un sentier qui monte et descend selon le relief. On a croisé plusieurs plages en chemin — certaines accessibles facilement, d'autres au bout d'un petit dénivelé qui mérite le détour. Un port aussi, avec ses bateaux au calme, les filets qui sèchent, une lumière de début mai qui est encore douce avant que l'été s'installe vraiment.
+
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-4.jpg" alt="" />
+</div>
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-1.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-3.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-2.jpg" alt="">
+  </figure>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-6.jpg" alt="" />
+</div>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-7.jpg" alt="Photo">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-8.jpg" alt="Photo">
+    </figure>
+  </div>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-9.jpg" alt="" />
+</div>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-10.jpg" alt="Photo">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-5.jpg" alt="Photo">
+    </figure>
+  </div>
+</div>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-11.jpg" alt="" />
+</div>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-12.jpg" alt="Photo">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-13.jpg" alt="Photo">
+    </figure>
+  </div>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-14.jpg" alt="" />
+</div>
+<div class="medium-wide-image image-grid grid-3">
+  <figure>
+    <img src="/posts/photographie/72-heures/entre_bitume_et_mer/72hrs_entre_bitume_et_mer-15.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-16.jpg" alt="">
+  </figure>
+  <figure>
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-17.jpg" alt="">
+  </figure>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-19.jpg" alt="" />
+</div>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-20.jpg" alt="Photo">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-21.jpg" alt="Photo">
+    </figure>
+  </div>
+</div>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-23.jpg" alt="Photo">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-24.jpg" alt="Photo">
+    </figure>
+  </div>
+</div>
+<div class="medium-wide-image side-by-side-ratio">
+  <figure class="vertical">
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-25.jpg" alt="Verticale">
+  </figure>
+  <figure class="horizontal">
+    <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-26.jpg" alt="Horizontale">
+  </figure>
+</div>
+<div class="medium-wide-image">
+  <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-27.jpg" alt="" />
+</div>
+<div class="medium-wide-image">
+  <div class="side-by-side">
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-28.jpg" alt="Photo">
+    </figure>
+    <figure>
+      <img src="/posts/photographie/72-heures/Entre_bitume_et_mer/72hrs_entre_bitume_et_mer-29.jpg" alt="Photo">
+    </figure>
+  </div>
+</div>
+
 
 C'est le genre de balade qu'on fait sans forcément s'y préparer et qui finit par durer bien plus longtemps que prévu. Les enfants tiennent mieux qu'on ne croit quand il y a de l'eau à voir au bout de chaque virage.
 
