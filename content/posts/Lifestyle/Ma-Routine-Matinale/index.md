@@ -1,5 +1,5 @@
 ---
-title: "Ma Routine Matinale : Le rituel qui a tout changé"
+title: "Ma routine matinale : le rituel qui a tout changé"
 date: 2026-06-18
 draft: false
 tags: ["motivation", "lifestyle", "alimentation", "personnel", "discipline", "vie simple"]
