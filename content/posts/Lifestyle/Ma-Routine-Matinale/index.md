@@ -1,7 +1,7 @@
 ---
 title: "Ma Routine Matinale : Le rituel qui a tout changé"
-date: 2026-03-28
-draft: true
+date: 2026-06-18
+draft: false
 tags: ["motivation", "lifestyle", "alimentation", "personnel", "discipline", "vie simple"]
 categories: ["Lifestyle"]
 summary: ""
@@ -11,8 +11,9 @@ cover:
     caption: ""
     relative: false
 ---
+<br>
+<br>
 
----
 
 *Il y a quelques mois, j'ai décidé de reprendre les choses en main — côté sport, alimentation, tête et cela a commencé par le matin.*
 
@@ -41,12 +42,12 @@ Le RSS, c'est ma sélection personnelle : je décide de ce que je lis, pas un al
 
 ## 30 minutes de marche
 
-Ensuite, le tapis de marche. Trente minutes à allure tranquille. Ce n'est pas encore du sport mais c'est une mise en route de mon corps. Le moment où les idées de la veille décantent, où parfois quelque chose d'utile remonte à la surface.
+Ensuite, le tapis de marche. Trente minutes à allure tranquille ou modérée (en fonction de mon humeur). Ce n'est pas encore du sport mais c'est une mise en route de mon corps. Le moment où les idées de la veille décantent, où parfois quelque chose d'utile remonte à la surface.
 Rien de spectaculaire. Mais c'est ce genre de truc qu'on ne remarque que quand on l'arrête.
 
 ## 30 minutes d'exercices
 
-Là, on passe aux choses sérieuses. Corde à sauter, gainage, course, tennis. Je varie pour ne pas m'ennuyer. L'ennui tue une routine plus sûrement que n'importe quelle blessure.
+Là, on passe aux choses sérieuses. Corde à sauter, gainage, course à pied, tennis. Je varie pour ne pas m'ennuyer. L'ennui tue une routine plus sûrement que n'importe quelle blessure.
 Ce qui compte, ce n'est pas la performance. C'est d'être là. Une séance moyenne faite vaut mieux que la séance parfaite qu'on reporte. Et en milieu de séance, quand les endorphines arrivent, on se demande toujours pourquoi on avait besoin d'autant de volonté pour commencer.
 
 ## Deuxième grand verre d'eau
@@ -55,11 +56,19 @@ Après l'effort, avant la douche : encore un grand verre d'eau. Le corps a trans
 ## La douche froide
 Et pour finir : la douche froide. Oui, froide (enfin j'essaie). Les premières fois, le cerveau résiste, le corps proteste. Avec le temps, c'est devenu quelque chose que je n'appréhende plus, c'est le genre de choc qui remet les idées en place mieux que n'importe quel café.
 
-<p style="text-align: right;"> Après tout ça, la journée peut commencer pour de vrai.
+<br>
+<br>
+
+
+<p style="text-align: center;"> Après tout ça, la journée peut commencer pour de vrai.
+
+<br>
+<br>
+
 
 ---
 
-## Et maintenant ?
+## Et ensuite ?
 
 À ce stade seulement, je considère que ma journée démarre vraiment. Tout ce qui vient ensuite, je l'aborde différemment et ce n'est pas par magie mais parce que j'ai déjà fait quelque chose avant que la journée ne m'impose quoi que ce soit.
 Cette routine n'a rien de révolutionnaire, c'est la mienne, elle n'est pas parfaite/idéale, je l'ajuste au fil du temps et c'est à peu près tout ce qu'on peut demander à une routine.
@@ -67,7 +76,7 @@ Cette routine n'a rien de révolutionnaire, c'est la mienne, elle n'est pas parf
 <p style="text-align: center;"> Et vous, c'est quoi votre matin idéal ?
 
 
-<p style="text-align: right;"> Merci de m'avoir lu — à bientôt sur <a href="https://eckodeath.fr">eckodeath.fr</a>
+<p style="text-align: right;"> Merci de m'avoir lu et à bientôt sur <a href="https://eckodeath.fr">eckodeath.fr</a>
 <p style="text-align: right;"> Kurt G.
 
 ---
