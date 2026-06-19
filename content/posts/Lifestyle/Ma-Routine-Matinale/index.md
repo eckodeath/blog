@@ -20,6 +20,10 @@ cover:
 On entend souvent dire que les matins définissent les journées. Pendant longtemps, j'ai balayé ça avec des convictions toutes faites je n'étais "pas du matin", et c'était très bien ainsi. Puis j'ai réalisé que mes journées partaient dans tous les sens parce que je les laissais me tomber dessus, plutôt que de les prendre par la main avant qu'elles ne commencent.
 Depuis, j'ai une routine que j'essaie de tenir. Elle n'est pas parfaite. Certains matins déraillent mais elle est là.
 
+<div class="medium-wide-image">
+  <img src="/posts/lifestyle/ma-routine-matinale/ma_routine_matinale_1.jpg" alt="Image un peu plus large que le texte" />
+</div>
+
 ## 6h30 — Le réveil, sans négociation
 
 Six heures et demie. L'alarme sonne. Pendant longtemps, j'étais champion du snooze, juste cinq minutes, encore cinq de plus, jusqu'à ce que la matinée soit déjà bien entamée et que l'heure de partir travailler soit là. Maintenant, je me lève. C'est tout.
