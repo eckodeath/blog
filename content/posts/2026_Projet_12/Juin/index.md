@@ -44,7 +44,7 @@ lieu:
 prev_lien: "/posts/2026_projet_12/mai/"
 prev_titre: "Avril"
 next_lien: "/posts/2026_projet_12/juillet/"
-next_titre: "Juin"
+next_titre: "Juillet"
 
 ---
 
