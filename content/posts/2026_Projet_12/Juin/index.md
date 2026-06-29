@@ -50,7 +50,7 @@ next_titre: "Juillet"
 
 Lama Monachile, on la voit sur toutes les photos de Polignano a Mare (j'étais donc obligé de choisir celle là parmi toutes celles que j'avais sélectionné). La crique encaissée, les maisons blanches qui débordent par-dessus les falaises, le pont au fond. Je connaissais l'image avant d'y mettre les pieds.
 
-Ce qui ne se voit pas sur les autres photos, c'est le bruit. En juin, la plage est pleine. Des dizaines de personnes dans l'eau, sur les rochers, sur le sable. Le belvédère au-dessus donne une vue en légère plongée qui permet de tout embrasser d'un seul coup d'œil : la foule, l'eau transparente, les falaises de chaque côté, le ciel couvert qui diffuse une lumière sans ombres.
+Ce qui ne se voit pas sur les autres photos, c'est le bruit de la scène. En juin, la plage est pleine. Des dizaines de personnes dans l'eau, sur les rochers, sur le sable. Le belvédère au-dessus donne une vue en légère plongée qui permet de tout embrasser d'un seul coup d'œil : la foule, l'eau transparente, les falaises de chaque côté, le ciel couvert qui diffuse une lumière sans ombres.
 
 J'ai cadré large pour garder les deux parois rocheuses et le pont au fond. Sans eux, c'est une photo de plage bondée. Avec eux, la crique devient un théâtre.
 

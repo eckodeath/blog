@@ -1,6 +1,6 @@
 ---
 title: "Desk setup - 2026"
-date: 2026-05-08
+date: 2026-06-30
 draft: true
 description: "Ce qui se passe sur mon bureau — l'écran, le clavier, le disque, l'iPad en troisième écran et le diffuseur à flamme. Pas de superflu, aucun câble visible."
 categories: ["Journal"]
@@ -16,7 +16,7 @@ cover:
 
 J'ai toujours aimé regarder les bureaux des autres. Pas pour les prix, ni pour les marques plutôt pour comprendre comment quelqu'un s'installe pour travailler, ce qu'il garde à portée de main, ce qu'il a fini par enlever. Voilà donc le mien.
 
-Le bureau lui-même, c'est le Mittzon d'IKEA en plaqué noyer — [j'en ai déjà parlé ici](#). Ce qui m'intéresse dans cet article, c'est ce qui est dessus.
+Le bureau lui-même, c'est le Mittzon d'IKEA en plaqué noyer — <a href="http://localhost:1313/posts/lifestyle/achat-ikea-mittzon/">j'en ai déjà parlé ici</a>. Ce qui m'intéresse dans cet article, c'est ce qui est dessus.
 
 <!-- PHOTO : vue d'ensemble du bureau -->
 
