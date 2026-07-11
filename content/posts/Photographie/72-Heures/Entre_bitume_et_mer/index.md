@@ -1,7 +1,7 @@
 ---
 title: "72 hrs entre bitume et mer"
-date: 2026-06-13
-draft: true
+date: 2026-07-11
+draft: false
 categories: ["photographie"]
 tags: ["72 heures", "week-end", "voyages", "récit", "personnel", "photographie"]
 cover:
