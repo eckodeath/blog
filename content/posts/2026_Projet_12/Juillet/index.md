@@ -9,20 +9,20 @@ categories: ["Photographie"]
 # ── Photo principale ──────────────────────────────────────────
 # Chemin relatif depuis /static/ ou URL complète
 photo: "/posts/2026_projet_12/Juillet/2026-Projet12-Juillet.jpg"
-photo_alt: "<strong>Creux de falaise</strong>"
+photo_alt: "<strong>Étincelles suspendues</strong>"
 
 # ── Infos affichées ───────────────────────────────────────────
 mois: "Juillet"
 auteur: "Kurt Grava"
 
 # Titre affiché en grand (HTML autorisé pour l'italique)
-titre_principal: "Creux de falaise"
+titre_principal: "Étincelles suspendues"
 
 # ── EXIF (optionnels, supprimer la ligne si inconnu) ──────────
 exif_focale:     "24 mm"
 exif_ouverture:  "f/1,78"
-exif_vitesse:    "1/540 s"
-exif_iso:        "80"
+exif_vitesse:    "2 s"
+exif_iso:        "1250"
 
 # ── Matériel (optionnel) ──────────────────────────────────────
 materiel:
@@ -31,14 +31,14 @@ materiel:
   - label: "Objectif"
     valeur: "24 mm ƒ1,78"
   - label: "Trépied"
-    valeur: "-"
+    valeur: "SmallRig CT-10"
   - label: "Logiciel"
-    valeur: "Photomator"
+    valeur: "Lightroom"
 
 # ── Lieu (optionnel) ──────────────────────────────────────────
 lieu:
-  nom: "Polignano a Mare"
-  detail: "Pouilles, Italie · 40°59′N 17°13′E"
+  nom: "Front de mer d'Arcachon"
+  detail: "Gironde, France · 44°39′N 1°10′O"
 
 # ── Navigation prev / next ────────────────────────────────────
 prev_lien: "/posts/2026_projet_12/juin/"
@@ -48,7 +48,8 @@ next_titre: "Août"
 
 ---
 
--
-
--
+Le feu d'artifice du 14 juillet à Arcachon dure vingt minutes. Les premières secondes, tu cherches ta position, tu regardes où ça part, tu tâtonnes. Après tu appuies.
+J'ai utilisé le mode nuit de l'iPhone à deux secondes. Assez long pour attraper plusieurs explosions dans le même cadre, assez court pour que les trajectoires restent nettes. Les traînées d'étincelles qui retombent, les nœuds de fumée qui s'accumulent au centre, les étoiles isolées qui explosent plus haut — tout s'est passé dans le même intervalle de temps et d'espace.
+Ce qui m'a retenu dans cette image, c'est la densité. Beaucoup de choses dans deux secondes et la photo en garde la trace.
+Le fond noir a fait le reste. Pas de ciel, pas de contexte, pas de foule visible. Juste les trajectoires.
 
