@@ -53,3 +53,7 @@ J'ai utilisé le mode nuit de l'iPhone à deux secondes. Assez long pour attrape
 Ce qui m'a retenu dans cette image, c'est la densité. Beaucoup de choses dans deux secondes et la photo en garde la trace.
 Le fond noir a fait le reste. Pas de ciel, pas de contexte, pas de foule visible. Juste les trajectoires.
 
+**Post Scriptum** : Au moment où je publie cette photo, les forêts autour d'Arcachon et de Bordeaux brûlent encore. Le feu n'est pas maîtrisé. Les images qui circulent sont celles de la fumée, des flammes, des évacuations, des pins qui tombent. Je les regarde comme tout le monde, depuis chez moi, avec ce sentiment d'impuissance qu'on ne sait pas vraiment nommer.
+
+J'aurais pu choisir une photo de cette catastrophe pour illustrer juillet. J'en ai. Mais ce mois a existé avant ça — il a existé comme ce soir-là sur le bassin, avec des centaines de personnes debout dans la nuit, la tête levée vers le même ciel. Ce feu d'artifice, ces étincelles suspendues une fraction de seconde avant de disparaître. J'ai préféré garder ce moment-là. Pas pour effacer ce qui vient de se passer, mais parce que c'est aussi ça, Arcachon — et que ça méritait d'exister encore un peu.
+
