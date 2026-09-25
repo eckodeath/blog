@@ -43,7 +43,7 @@ lieu:
 # ── Navigation prev / next ────────────────────────────────────
 prev_lien: "/posts/2026_projet_12/juin/"
 prev_titre: "Juin"
-next_lien: "/posts/2026_projet_12/Août/"
+next_lien: "/posts/2026_projet_12/Aout/"
 next_titre: "Août"
 
 ---
