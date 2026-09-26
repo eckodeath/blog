@@ -23,7 +23,7 @@ Ces dernières semaines ont été denses, entre les coulisses du blog et quelque
 J'ai ouvert un portfolio sur le site. L'idée c'est d'avoir un endroit qui regroupe tous mes projets photo finalisés au fil des années — pas les dernières publications, pas les travaux en cours, mais ce qui est abouti et que j'assume pleinement. Chaque projet y est présenté comme un ensemble cohérent, avec son propre contexte. C'est peut-être l'endroit du site qui me ressemble le plus, parce que c'est celui où j'ai le plus trié. 
 
 <div class="medium-wide-image">
-  <img src="/static/images/portfolio_presentation.jpg" alt="Portfolio" />
+  <img src="/images/portfolio_presentation.jpg" alt="Portfolio" />
 </div>
 
 Vous pouvez y accéder depuis le menu en haut à droite ou directement via ce lien : 
@@ -35,7 +35,7 @@ Vous pouvez y accéder depuis le menu en haut à droite ou directement via ce li
 
 
 # Quelques ajustements visuels
-Rien de majeur, mais quelques trucs qui me gênaient depuis un moment. La date sous le titre de chaque article est maintenant centrée. L'espace entre l'en-tête et le corps du texte a été augmenté — sur mobile notamment, ça manquait d'air. Et j'ai ajouté une ligne de séparation entre la fin du texte et le footer, pour mieux délimiter visuellement la fin de la lecture. Ce genre de chose, on le voit pas forcément, mais l'absence se remarque.
+Rien de majeur, mais quelques trucs qui me gênaient depuis un moment. La date sous le titre de chaque article est maintenant centrée. L'espace entre l'en-tête et le corps du texte a été augmenté, sur mobile notamment ça manquait d'air. Et j'ai ajouté une ligne de séparation entre la fin du texte et le footer, pour mieux délimiter visuellement la fin de la lecture. Ce genre de chose, on le voit pas forcément, mais l'absence se remarque.
 
 
 
