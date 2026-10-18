@@ -120,10 +120,14 @@ menu:
       url: /categories/voyages/
       parent: categories
       weight: 15
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 20
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 20
+      weight: 30
     - identifier: search
       name: "🔍"
       url: /search/
@@ -131,7 +135,7 @@ menu:
     - identifier: about
       name: "À propos"
       url: /about/
-      weight: 30
+      weight: 50
 
 
 outputs:
