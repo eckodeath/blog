@@ -14,7 +14,7 @@ cover:
 
 Aujourd’hui, je me suis rendu compte que malgré le fait que cela fait des années que je suis présent sur la toile sous le pseudo **eckodeath**, je n’ai jamais pris le temps / eu l’envie de réellement me dévoiler / me livrer sur ma vie personnelle… Et si on corrigeait ça ?
 
-Donc pour commencer, je m’appelle Kurt Grava, j’ai 38 ans et je suis né à Marseille. J’ai migré à l’ouest de la France avec mes parents à l’âge de 12 ans et après avoir suivi des études en informatique, je travaille aujourd’hui en tant qu’administrateur réseaux dans une société près de Bordeaux. Je retourne très souvent dans ma région natale pour voir ma famille car mes parents sont revenus à leurs origines territoriales depuis qu’ils sont à la retraite.
+Donc pour commencer, je m’appelle Kurt Grava, j’ai 39 ans et je suis né à Marseille. J’ai migré à l’ouest de la France avec mes parents à l’âge de 12 ans et après avoir suivi des études en informatique, je travaille aujourd’hui en tant qu’administrateur réseaux dans une société près de Bordeaux. Je retourne très souvent dans ma région natale pour voir ma famille car mes parents sont revenus à leurs origines territoriales depuis qu’ils sont à la retraite.
 
 Ma vie s’écrit avec trois verbes : **écrire**, **photographier** et **voyager**. Ce ne sont pas des hobbies, ce sont **MES PASSIONS**. Ce sont des manières de vivre, de comprendre le monde, de partager, de me connecter aux autres et à moi-même.
 
