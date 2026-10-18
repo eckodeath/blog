@@ -13,7 +13,7 @@ cover:
 <br>
 <br>
 
-J'ai installé une application d'émulation début août, sur mon iPhone. Pas de projet derrière tout ça, une vidéo YouTube sur l'émulation tombée dans mon fil un soir et du coup l'envie d'essayer avant d'aller me coucher m'a envahi. Je m'attendais à tester cinq minutes et refermer l'appli. Deux mois après, j'y joue tous les jours et j'ai même fini par acheter une manette Backbone, celle qui se branche en USB-C et dans laquelle le téléphone vient se coincer directement, comme une console à part entière.
+J'ai installé une application d'émulation début août, sur mon iPhone. Pas de projet derrière tout ça, une vidéo YouTube sur l'émulation tombée dans mon fil un soir et du coup l'envie d'essayer avant d'aller me coucher m'a envahi. Je m'attendais à tester cinq minutes et refermer l'appli. Trois mois après, j'y joue tous les jours et j'ai même fini par acheter une manette Backbone, celle qui se branche en USB-C et dans laquelle le téléphone vient se coincer directement, comme une console à part entière.
 
 La première chose que j'ai relancée, c'est Pokémon Rouge. L'écran titre est apparu exactement comme dans mon souvenir, la même musique compressée, le même logo qui tremble légèrement au démarrage. Je n'avais pas rouvert ce jeu depuis l'école primaire. Le bouton pour le sac, le bouton pour annuler, l'ordre dans lequel défilent les menus : tout ça est revenu avant même que j'aie eu le temps d'y repenser consciemment.
 
