@@ -131,11 +131,11 @@ menu:
     - identifier: search
       name: "🔍"
       url: /search/
-      weight: 40
+      weight: 50
     - identifier: about
       name: "À propos"
       url: /about/
-      weight: 50
+      weight: 40
 
 
 outputs:
