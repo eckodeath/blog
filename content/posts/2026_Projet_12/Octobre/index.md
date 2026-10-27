@@ -1,8 +1,8 @@
 ---
 title: "Projet 12 : Octobre 2026"
 layout: "photo-du-mois"
-date: 2026-10-30
-draft: false
+date: 2026-10-27
+draft: true
 tags: ["photographie", "projet 12", "2026", "lifestyle" ]
 categories: ["Photographie"]
 
